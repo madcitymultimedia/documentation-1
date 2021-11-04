@@ -16,17 +16,17 @@ VAT will only apply if the collective creates a `SERVICE` or `PRODUCT` tier and 
 
 Once VAT is set up for a collective, we will start asking the country of residency and an optional VAT number to everyone who orders tiers or tickets from the collective. We will apply the VAT rules accordingly:
 
-* Charge VAT from the country of the event if it's an event
-* VAT percentage depends on the country where the collective is
-* Don't charge VAT if a VAT number is provided and contribution comes from another EU country
+- Charge VAT from the country of the event if it's an event
+- VAT percentage depends on the country where the collective is
+- Don't charge VAT if a VAT number is provided and contribution comes from another EU country
 
 ### Enable VAT at the host level
 
-If the host is the one supposed to collect VAT (most common case) then you can enable it by going to the Edit section (`https://opencollective.com/{my_host}/edit`) and set your country to a European country. The form will then ask for a VAT number.
+If the host is the one supposed to collect VAT (most common case) then you can enable it by going to the Edit section (`https://opencollective.com/{my_host}/admin`) and set your country to a European country. The form will then ask for a VAT number.
 
 ![](<../.gitbook/assets/image (16) (2) (2) (1) (1).png>)
 
-Your host is now ready to start accepting VAT. You still need to enable it on a per-collective basis by setting a country and a "VAT setting" for the collective on the collective edit page (`https://opencollective.com/{the_collective}/edit`).
+Your host is now ready to start accepting VAT. You still need to enable it on a per-collective basis by setting a country and a "VAT setting" for the collective on the collective edit page (`https://opencollective.com/{the_collective}/admin`).
 
 ### Enable VAT at the collective level
 
