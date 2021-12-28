@@ -10,7 +10,7 @@ A fiscal host is a legal company or individual who holds a Collective’s funds 
 
 The fiscal host is responsible for taxes, accounting, compliance, financial admin, and paying expenses approved by the Collective’s core contributors (admins).
 
-The Open Collective platform makes the job of fiscal hosts a lot easier by providing our software platform for tracking budgets and expenses, generating reports, and automating bookkeeping. Fiscal hosts have a dashboard where they can see their Collectives and perform common actions. 
+The Open Collective platform makes the job of fiscal hosts a lot easier by providing our software platform for tracking budgets and expenses, generating reports, and automating bookkeeping. Fiscal hosts have a dashboard where they can see their Collectives and perform common actions.&#x20;
 
 By sharing a host, Collectives are effectively mutualizing the cost and overhead of having a legal entity.
 
@@ -20,16 +20,19 @@ Fiscal Hosts can be in any location and take any form of legal entity (as long a
 
 Below are the hosts that Open Collective manages, plus some more examples.
 
-| Fiscal Host                 | Hosted Collectives           | Fee                                                                                                           |
-| --------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Open Source Collective      | Open source projects         | 10%                                                                                                           |
-| Open Collective Foundation  | US-based charity projects    | 5% for credit card payments, progressive fee structure for manual payments (8% down to 4% for larger budgets) |
-| Open Collective Inc         | Our own transparent budget   | 0%                                                                                                            |
-| Open Collective Europe ASBL | EU-based Collectives         | 6%                                                                                                            |
-| Open Collective Paris       | Paris-based collectives      | 0%                                                                                                            |
-| Brussels Together           | Brussels citizen initiatives | €10/mo                                                                                                        |
-| Women Who Code              | Local chapters               | 10%                                                                                                           |
-| Operation Code              | Local chapters               | 30%                                                                                                           |
+| Fiscal Host                                                                   | Hosted Collectives                                                             | Fee                                                                                                           |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [Open Source Collective](https://opencollective.com/opensource)               | Open source projects                                                           | 10%                                                                                                           |
+| [Open Collective Foundation 501(c)(3)](https://opencollective.com/foundation) | US-based charitable projects                                                   | 5% for credit card payments, progressive fee structure for manual payments (8% down to 4% for larger budgets) |
+| [Open Collective Inc](https://opencollective.com/opencollective)              | Our own transparent budget                                                     | 0%                                                                                                            |
+| [Open Collective Europe](https://opencollective.com/europe)                   | EU-based Collectives                                                           | 6%                                                                                                            |
+| [Open Collective Paris](https://opencollective.com/paris)                     | Paris-based collectives                                                        | 0%                                                                                                            |
+| [Open Collective NZ](https://opencollective.com/ocnz)                         | New Zealand fundholder                                                         | 5.75%                                                                                                         |
+| [Open Collective Brussels](https://opencollective.com/brussels)               | Brussels citizen initiatives                                                   | 6%                                                                                                            |
+| [Women Who Code](https://opencollective.com/wwcodeinc)                        | Local chapters                                                                 | 10%                                                                                                           |
+| [Operation Code](https://opencollective.com/operationcode)                    | Local chapters                                                                 | 30%                                                                                                           |
+| [All For Climate](https://opencollective.com/allforclimate)                   | Citizen initiatives and movements for climate and social justice across Europe | 3%                                                                                                            |
+| [Accountable](https://opencollective.com/the-social-change-nest)              | Supporting people-powered networks                                             | 0%                                                                                                            |
 
 ### Why are there different Fiscal Hosts?
 
@@ -44,6 +47,8 @@ Every Collective that receives or pays out money needs a fiscal host because the
 ### How do I find a Fiscal Host?
 
 Go to the fiscal host's page and click “Apply”. You can see [all hosts here](https://opencollective.com/hosts).
+
+If you already set up a profile for your collective, you can also apply wtihin your Collective's **Settings** -> **Fiscal Host.**
 
 ### I'm interested in becoming a Fiscal Host
 
