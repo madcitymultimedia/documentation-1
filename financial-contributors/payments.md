@@ -39,7 +39,7 @@ You will be charged when you first contribute, and then on the 1st of each month
 If you start the contribution flow (ie. [http://opencollective.com/babel/donate](http://opencollective.com/babel/donate)) while being logged out, the system will allow you to continue without signing in/up, just by providing your email address. Note that guest accounts are not automatically anonymous- you need to not put your name in under "Full Name," i.e. write "guest" or "anonymous," otherwise it will show up along with the transaction. For information about submitting a contribution anonymously (incognito) if you already have an Open Collective profile, [see above](https://docs.opencollective.com/help/financial-contributors/payments#profile).&#x20;
 
 {% hint style="info" %}
-Above a certain amount, the system will ask you additional information such as your physicall address. This information is required for legal purpose, and stays private.
+Above a certain amount, the system will ask you additional information such as your physical address. This information is required for legal purpose, and stays private.
 {% endhint %}
 
 {% hint style="warning" %}
