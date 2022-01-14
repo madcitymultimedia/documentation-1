@@ -42,7 +42,7 @@ If the payment is successful, the expense is marked as _**Paid**_, and in case s
 
 #### What are the fees involved?
 
-The fees are charged by PayPal and its value will vary with the currencies being and value being transferred. You can read more about it [here](https://developer.paypal.com/docs/payouts/reference/fees/).
+The fees are charged by PayPal and its value will vary with the currencies being and value being transferred. You can read more about it [here](https://developer.paypal.com/docs/payouts/standard/reference/fees/).
 
 #### Who pays for the fees?
 
@@ -54,7 +54,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 * A PayPal business account with:
   * Access to PayPal Payouts.
-    * There's a manual request that needs to be filled, [more information here](https://developer.paypal.com/docs/payouts/integrate/prerequisites/#get-access-to-paypal-payouts).
+    * There's a manual request that needs to be filled, [more information here](https://developer.paypal.com/docs/payouts/standard/integrate-api/#link-knowbeforeyoucode).
   * A confirmed identity, email, and bank account linked to your PayPal business account.
   * Sufficient funds in your PayPal business account.
 * Payments should respect the fund amount you have accounted for in the platform.
