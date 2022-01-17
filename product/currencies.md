@@ -2,7 +2,7 @@
 
 ## Collectives can receive contributions from all over the world via credit card, in any currency.
 
-Donation amounts will be denominated in the currency of the Collective's [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), which can be set up in the following currencies \(so far\):
+Donation amounts will be denominated in the currency of the Collective's [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), which can be set up in the following currencies (so far):
 
 * Argentine Peso - ARS
 * Australian Dollar - AUD
@@ -36,5 +36,4 @@ Donation amounts will be denominated in the currency of the Collective's [Fiscal
 * Uruguayan Peso - UYU
 * South African Rand - ZAR
 
-**The currency a Fiscal Host supports is determined by the currency used by their Stripe account.** If you would like to set up a Fiscal Host in a different currency, please contact us at [support@opencollective.com](mailto:support@opencollective.com).
-
+**The currency a Fiscal Host supports is determined by the currency used by their Stripe account. If you'd like to chance the currency on your OC Fiscal Host, please check the primary currency of the Stripe account and change it there.** If this doesn't work or you're having issues, please contact us at [support@opencollective.com](mailto:support@opencollective.com).
