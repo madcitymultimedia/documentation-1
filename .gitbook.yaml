@@ -64,3 +64,5 @@ redirects:
   the-open-collective-way/core-contributors-expenses: ./about/the-open-collective-way/core-contributors-expenses.md
   the-open-collective-way/core-contributors-leave: ./about/the-open-collective-way/core-contributors-leave.md
   the-open-collective-way/core-contributors-compensation: ./about/the-open-collective-way/core-contributors-compensation.md
+  collectives/osc-verification: https://docs.oscollective.org/
+  collectives/osc-verification/github-sponsors: https://docs.oscollective.org/getting-started/github-sponsors
