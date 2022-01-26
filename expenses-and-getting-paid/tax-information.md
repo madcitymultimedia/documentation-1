@@ -1,22 +1,46 @@
+---
+description: For Expense Payees of US Fiscal Hosts
+---
+
 # Tax Information
 
-## Info For Expense Submitters Getting Paid
+United States regulations require US entities to collect certain information from payees for tax reporting purposes, even if the payee is outside the US. If you submit invoice expenses for more than $600 USD per year to a Collective with a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) in the US, you will be asked to fill out a tax information form.
 
-### For US-based Fiscal Hosts
+### Which expenses count?
 
-If you are filling invoices for more than $600 USD per year to a Collective with a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) in the US (receipt reimbursements don't count toward the $600 limit, only invoices), you will need to send them a form W9 (for US persons) or W8-BEN/E (for non-US persons). The fiscal host admin should contact you if you are required to submit a form.
+The $600 threshold only applies to _invoice_ expenses, not receipt reimbursements or other modes of payment (like grants or payroll).
 
-For tax purposes, you will likely be treated as an independent contractor and you will be issued a 1099 if your earnings exceed $600. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
+### Does this require non-US persons to pay US tax?
+
+No. Only US persons are liable for US income tax. However, hosts are still required to collect the form even if you live outside the US.&#x20;
+
+### Will I get a 1099?
+
+US persons who invoice over $600 per year and submit a W9 will be issued a 1099 from the fiscal host by the end of January of the following year, with the following exceptions:
+
+* Corporations - 1099s are generally issued to contractors and service providers, not vendors who are corporations.
+* PayPal payees - PayPal issues 1099s to its payees where required, so the fiscal host will not issue one ([more details](https://mailchi.mp/afb79b28ce89/info-for-us-taxpayers-paid-via-paypal)).
+* Reimbursement expenses - receipt reimbursement payments do not trigger the tax form requirement or lead to a 1099 being issued, only invoices.
+
+[Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).&#x20;
 
 If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes.
 
-### For the Open Source Collective & Open Collective Foundation
+### How will my tax info be collected?
 
-Open Source Collective and Open Collective Foundation fiscal hosts must collect tax forms as described above. They utilize an automated tax form system.
+Open Source Collective and Open Collective Foundation are the two largest US fiscal hosts on the platform, and they use an automated system to collect tax forms (more info below).&#x20;
 
-When you submit an invoice expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms. The expense will not be paid out to you until you submit the tax form.
+Other fiscal hosts each have their own system for collecting these forms (they'll likely just contact you personally by email).
 
-![](../.gitbook/assets/tax\_banner.png)
+#### Automated tax form collection
+
+If you have submitted >$600 in invoice expenses to Open Source Collective and Open Collective Foundation, you will be automatically sent an email with a link to complete your tax form online.
+
+You will also see a warning on the pending expense tell you that you will not be paid until you submit the tax form.
+
+#### Is my information secure?
+
+Yes. Forms submitted through the automated system are encrypted and only shared with the fiscal hosts' accountants, who are bound by extensive data security regulations.
 
 ## Info For Collectives Paying Expenses
 
