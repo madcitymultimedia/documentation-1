@@ -12,15 +12,15 @@ This is a reference guide to our documentarians. It wasn't created to limit you;
 * Write as you were having a chat with our readers. Address them directly.
 * Keep it simple and short: avoid jargons, long sentences and uncommon words.
 * When in doubt, use US English as a reference for spelling.
-* For headings, buttons, menu items and page names, use sentence case \(as in _Suggesting changes_\). Title case \(as in _Fiscal Host_\) should be used only when referring to features or specific roles.
+* For headings, buttons, menu items and page names, use sentence case (as in _Suggesting changes_). Title case (as in _Fiscal Host_) should be used only when referring to features or specific roles.
 
 ### Contractions
 
 You are encouraged to use contractions as long as it doesn't make sentences difficult to read.
 
-| Use | Avoid |
-| :--- | :--- |
-| It's \(as in 'it is'\), can't, wouldn't, you're, you've, don't or do not | It is, cannot, would not, it'll, it's \(as in 'it has'\) |
+| Use                                                                    | Avoid                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------ |
+| It's (as in 'it is'), can't, wouldn't, you're, you've, don't or do not | It is, cannot, would not, it'll, it's (as in 'it has') |
 
 ### **Capitalization**
 
@@ -29,7 +29,7 @@ You are encouraged to use contractions as long as it doesn't make sentences diff
 * Collective
 * Organization
 * Fiscal Host
-* Admin \(Collective Admin, Fiscal Host Admin\)
+* Admin (Collective Admin, Fiscal Host Admin)
 * Core Contributor
 
 When referring specifically to the feature on our platform, **always** capitalize:
@@ -55,7 +55,7 @@ Everyone is a user, so it's not super helpful when trying to refer to something 
 
 #### **Sponsor**
 
-This is a common word to describe when a company gives money to a project, but it \_\*\*\_has caused confusion because sometimes sponsorship is defined by the kind of entity making the financial contribution \(company vs individual\), and sometimes it's defined by how much they are contributing \(e.g. some Collectives call everything over $1000 'sponsorship' regardless of who gives it\). Collectives can each define these things for themselves, so it's safer to refer to "individual financial contributor" or "organizational financial contributor".
+This is a common word to describe when a company gives money to a project, but it \_\*\*\_has caused confusion because sometimes sponsorship is defined by the kind of entity making the financial contribution (company vs individual), and sometimes it's defined by how much they are contributing (e.g. some Collectives call everything over $1000 'sponsorship' regardless of who gives it). Collectives can each define these things for themselves, so it's safer to refer to "individual financial contributor" or "organizational financial contributor".
 
 #### **Backer**
 
@@ -71,7 +71,7 @@ We used to call recurring financial contributions "subscriptions", but this prov
 
 #### **Chapter**
 
-Previously, we explored the idea of calling Open Collective branded fiscal hosts \(Open Collective Europe, Open Collective UK, etc\) "chapters". But this concept was not followed up and supported and using the word is confusing. These are simply Fiscal Hosts.
+Previously, we explored the idea of calling Open Collective branded fiscal hosts (Open Collective Europe, Open Collective UK, etc) "chapters". But this concept was not followed up and supported and using the word is confusing. These are simply Fiscal Hosts.
 
 ## Formatting
 
@@ -89,10 +89,12 @@ Remember to use `\` any time you want to open and close parentheses `(` in text.
 
 Used for neutral information.
 
-```text
+```
+{% raw %}
 {% hint style="info" %}
 Important information!
 {% endhint %}
+{% endraw %}
 ```
 
 {% hint style="info" %}
@@ -103,10 +105,12 @@ Important information!
 
 Used for irreversible changes.
 
-```text
+```
+{% raw %}
 {% hint style="danger" %}
 Danger!
 {% endhint %}
+{% endraw %}
 ```
 
 {% hint style="danger" %}
@@ -117,10 +121,12 @@ Danger!
 
 Used for information that requires special attention.
 
-```text
+```
+{% raw %}
 {% hint style="warning" %}
 Warning!
 {% endhint %}
+{% endraw %}
 ```
 
 {% hint style="warning" %}
@@ -131,10 +137,12 @@ Warning!
 
 Used for successful outcomes.
 
-```text
+```
+{% raw %}
 {% hint style="success" %}
 Success!
 {% endhint %}
+{% endraw %}
 ```
 
 {% hint style="success" %}
@@ -143,7 +151,8 @@ Success!
 
 ### Blocks of text with tabs
 
-```text
+```
+{% raw %}
 {% tabs %}
 {% tab title="This is the first tab" %}
 This is a block of text with tabs!
@@ -153,6 +162,7 @@ This is a block of text with tabs!
 It could be used when there are different instructions for different operating systems.
 {% endtab %}
 {% endtabs %}
+{% endraw %}
 ```
 
 {% tabs %}
@@ -164,4 +174,3 @@ This is a block of text with tabs!
 It could be used when there are different instructions for different operating systems.
 {% endtab %}
 {% endtabs %}
-

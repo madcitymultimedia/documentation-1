@@ -16,11 +16,14 @@ To update your expense policy, go to your Collective's page, click on the settin
 
 > Feel free to expense a public transport for a conference/meetup as a community member, or for things like stickers. For core members, transport/stay for things like TC39 meetings. For other expenses you can ask. Otherwise, we plan on spending most of the money trying to pay people full time.
 
-## Limit Who Can Submit Expenses
+## Limit Who Can Submit and Approve Expenses
 
-At the bottom of the Policies Settings screen, you'll see an option to "Only allow expenses to be created by Team Members and Financial Contributors (they may invited expenses from other payees)." Ticking this will limit who can see the "Submit Expense" button.
+At the bottom of the Policies Settings screen, you'll see a set of options that allow you to limit who can submit and approve expenses to your collective:
 
-![](<../../.gitbook/assets/Screen Shot 2021-10-22 at 11.38.39 AM.png>)
+![](<../../.gitbook/assets/image (47).png>)
+
+* Ticking _"Admins cannot approve their own expenses"_ will block admins from approving expenses submitted by themselves, effectively requiring another admin to approve their expenses.
+* Ticking "Only allow expenses to be created by Team Members and Financial Contributors (they may invite expenses from other payees)." will limit who can see the "Submit Expense" button.
 
 ## Fiscal Host Expense Policy
 
