@@ -71,7 +71,7 @@ Navi Mumbai, India
 
 ### Caroline Woolard
 
-Partnerships
+Research & Partnerships - Open Collective Foundation
 
 Caroline Woolard
 
