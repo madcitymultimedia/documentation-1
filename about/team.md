@@ -69,6 +69,14 @@ Navi Mumbai, India
 
 [Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
+### Caroline Woolard
+
+Partnerships
+
+Caroline Woolard
+
+[Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
+
 ### Shannon Wray
 
 Documentation\
@@ -76,7 +84,7 @@ Auckland, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
 
-### Kayla 
+### Kayla&#x20;
 
 Admin Support - Open Collective Foundation \
 Mexico
@@ -84,7 +92,7 @@ Mexico
 ### Sudharaka Palamakumbura
 
 Software Designer\
-Vancouver, British Columbia, Canada 
+Vancouver, British Columbia, Canada&#x20;
 
 [Linkedin ](https://www.linkedin.com/in/sudharakap/)
 
@@ -106,10 +114,10 @@ Brussels, Belgium
 
 ### Team Map
 
-This map shows the diversity of our team and the truly global approach it takes to bring you Open Collective. 
+This map shows the diversity of our team and the truly global approach it takes to bring you Open Collective.&#x20;
 
 Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
 
-English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team. 
+English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team.&#x20;
 
-![](../.gitbook/assets/about_team_map\_2021-08-18.png)
+![](../.gitbook/assets/about\_team\_map\_2021-08-18.png)
