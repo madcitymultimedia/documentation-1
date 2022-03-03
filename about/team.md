@@ -73,7 +73,7 @@ Navi Mumbai, India
 
 Research & Partnerships - Open Collective Foundation
 
-Caroline Woolard
+Berlin, Germany
 
 [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
 
