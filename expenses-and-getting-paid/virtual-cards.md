@@ -12,11 +12,18 @@ Some Hosts accept requests for virtual cards. If you would like to request a Vir
 
 Virtual cards can be used to make purchases on behalf of your collective. Each card has an individual who is assigned the card for the purpose of filing expenses. Expenses are automatically created when the card is used and the assignee will be notified.
 
-Please note that our payments provider Privacy.com does not accept payments to money transfer services like PayPal, Payoneer or Paysend. Attempts to pay for services via these providers will be declined.
+Please note that our payments provider does not accept payments to money transfer services like PayPal, Payoneer or Paysend. Attempts to pay for services via these providers will be declined.
 
-_In addition, some providers — most notably Google — do not accept virtual cards as a legitimate payment mechanism. We are monitoring this situation while the service is in Beta._&#x20;
+_In addition, some providers — most notably Google — do not accept virtual cards as a legitimate payment mechanism. We are monitoring this situation while the service is developing._&#x20;
 
-## Viewing card details
+## Billing Details
+
+In most cases, cards charged using your personal details will be accepted. If you wish you can add the details for your host organisation, which you'll find alongside your Collective's name on your Collective's profile page. Address information for Open Source Collective and Open Collective Foundation can be found at:
+
+* [Open Source Collective's information](https://docs.oscollective.org/about/official-info-and-docs#address-and-contact-info)
+* [OCF Open Collective Foundation's information](https://docs.opencollective.foundation/how-it-works/policies/virtual-cards-policy#requirements-policy)
+
+## Viewing card Open Source Collective details
 
 To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu:
 
