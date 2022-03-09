@@ -31,6 +31,7 @@
 * [Privacy Policy](product/privacy-policy.md)
 * [Moderation](product/moderation.md)
 * [Security](product/security.md)
+* [Notifications](product/notifications.md)
 
 ## Collectives
 
