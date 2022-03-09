@@ -12,7 +12,7 @@ Adaptive Payments are the easy way and it is automatically enabled for everyone.
 
 From your host dashboard, you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
 
-On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
+On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal (this is a security feature).
 
 For single payments larger than $2,000, make a manual payment.
 
@@ -28,7 +28,7 @@ If you're interested in testing this feature, please reach out through [support@
 
 For hosts that are using PayPal, this integration can be used to automate expense payment by providing a one-click solution for paying expenses using [PayPal Payouts](https://developer.paypal.com/docs/payouts/).
 
-After connecting your PayPal account, you'll be able to schedule expenses submitted using PayPal as a payout method for mass-payout without needing to reauthorize with PayPal every $2,000 USD. Expenses scheduled for payout also have a higher limit \(up to $20,000 per expense\) and cheaper fees, you can schedule expenses for payout up to your existing PayPal balance.
+After connecting your PayPal account, you'll be able to schedule expenses submitted using PayPal as a payout method for mass-payout without needing to reauthorize with PayPal every $2,000 USD. Expenses scheduled for payout also have a higher limit (up to $20,000 per expense) and cheaper fees, you can schedule expenses for payout up to your existing PayPal balance.
 
 ### How does it work?
 
@@ -48,7 +48,7 @@ The fees are charged by PayPal and its value will vary with the currencies being
 
 These fees are paid by the collective the expense was submitted for. This means that transactions in PayPal will display the fees but that value will also be deducted from the collective balance in our platform as a _payment processor fee_.
 
-![An expense submitted to Open Collective Engineering paid using PayPal.](../../.gitbook/assets/image%20%2826%29.png)
+![An expense submitted to Open Collective Engineering paid using PayPal.](<../../.gitbook/assets/image (26).png>)
 
 ### Limitations and Prerequisites
 
@@ -65,20 +65,20 @@ These fees are paid by the collective the expense was submitted for. This means 
 ### Connecting to PayPal Payouts
 
 {% hint style="info" %}
-PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com).
+**PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through** [support@opencollective.com](mailto:support@opencollective.com).
 {% endhint %}
 
 If you're already in the beta test group, you can follow these instructions:
 
-1. Create a new PayPal app
+1.  Create a new PayPal app
 
-   * Open [PayPal's Developer](https://developer.paypal.com/developer/applications/) page and Log In.
-   * In _My Apps & Credentials_ page, select the **Live** environment, and click in _Create app_.
+    * Open [PayPal's Developer](https://developer.paypal.com/developer/applications/) page and Log In.
+    * In _My Apps & Credentials_ page, select the **Live** environment, and click in _Create app_.
 
-   ![](../../.gitbook/assets/image%20%2825%29.png)
+    ![](<../../.gitbook/assets/image (25).png>)
 
-   * Name this App after Open Collective, this way you'll always remember where this token is being used.
-   * Click _Create App._
+    * Name this App after Open Collective, this way you'll always remember where this token is being used.
+    * Click _Create App._
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
@@ -92,7 +92,7 @@ If you're already in the beta test group, you can follow these instructions:
 
 Done! Next time you pay for an expense submitted with PayPal and you select the automatic method, your expense will be marked as _Scheduled for Payment_ and processed using PayPal Payouts!
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](<../../.gitbook/assets/image (39).png>)
 
 ### Reducing Risks
 
@@ -100,4 +100,3 @@ In order to reduce risks related to having an active API token that is able to c
 
 * Keep just enough balance in PayPal to pay your expenses.
   * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
-
