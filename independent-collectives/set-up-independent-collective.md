@@ -20,9 +20,10 @@ In the Info section, you'll see a field for 'address'. This is used on receipts 
 
 To enable people to contribute to your Collective, you need to set up ways that they can pay you. On this screen you can connect your Stripe account for credit card payments and/or add the details for bank transfers.
 
+{% hint style="info" %} If you wish to receive money via PayPal, please [contact support](mailto:support@opencollective.com) as this feature is still in beta. {% endhint %}
+
 ![](../.gitbook/assets/screen-shot-2021-09-30-at-2.43.14-pm.png)
 
-If you wish to receive money via PayPal, please [contact support](mailto:support@opencollective.com) as this feature is still in beta.
 
 ## Sending Money
 
