@@ -1,5 +1,20 @@
 # Expenses
 
+## Expenses Status
+
+The expense status is a single label that will change throughout the Expense flow and indicates what is going on with the expense.
+
+* **DRAFT:** Expense is a Draft sent for someone else to complete. After 30 days, the draft will expire.
+* **UNVERIFIED:** The user submitted an Expense Draft and now we're waiting for the user to verify their email in order to move it to "PENDING".
+* **PENDING:** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+* **APPROVED:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
+* **REJECTED:** Collective admin rejected the expense. This is a possible final state for the Expense.
+* **PROCESSING:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
+* **ERROR:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
+* **PAID:** Expense was sucessfully paid. This is the final state for the expense.
+* **SCHEDULED\_FOR\_PAYMENT:** Expense was scheduled for payment and will be paid in a batch of expenses. After being paid, the expense will be marked as "PROCESSING".
+* **SPAM:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
+
 ## FAQ
 
 ### How do I know when an expense is pending?
@@ -8,7 +23,7 @@ When someone submits an [expense](../expenses-and-getting-paid/expenses.md) to y
 
 You can also view expenses on Open Collective. Click the link from the email notification, or go to your Collective page and click "View all Expenses".
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](<../.gitbook/assets/image (19).png>)
 
 ### Should I approve this expense?
 
@@ -28,5 +43,4 @@ The submitter will be notified that their expense was rejected. We suggest also 
 
 ### How can I show an expense that has been paid off the platform?
 
-Submit an expense, select manual/custom payment method, and mark it as paid. Then it will show on the budget but no money will actually move, since it’s already been paid. 
-
+Submit an expense, select manual/custom payment method, and mark it as paid. Then it will show on the budget but no money will actually move, since it’s already been paid.&#x20;
