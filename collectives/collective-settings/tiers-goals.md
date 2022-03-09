@@ -2,10 +2,10 @@
 
 ## Goals
 
-You can define custom goals to share an overview of your financial plan with your community and to track your progress.
+You can define goals to share an overview of your financial plan with your community and to track your progress.
 
 {% hint style="info" %}
-Collective Goals will be sent in the emails sent to your contributors, and you can adjust their visibility on your Collective page.
+Collective Goals will be sent in the emails sent to your contributors, and you can adjust their visibility on your Collective's settings.
 {% endhint %}
 
 To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
@@ -14,7 +14,12 @@ To create your own Collective goals, go to your Collective profile, click on **S
 
 ![](../../.gitbook/assets/collectives\_collectives\_goals\_and\_tiers\_2021-05-31.png)
 
-To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
+To create a goal, give it a **title**, select a **type:**
+
+* **Balance** goals are based on your current balance.
+* Yearly budget goals are based on your estimated annual budge &#x20;
+
+it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
 ![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-goal-customization\_2020-08-12.png)
 
