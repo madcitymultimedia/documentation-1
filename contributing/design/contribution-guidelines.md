@@ -30,11 +30,11 @@ Empowering products enhance our abilities as humans without dictating our behavi
 
 * Give people the control they need to manage the algorithms that shape their experiences.
 * Give people the control they need to manage privacy and anonymity.
-* Enable focus by avoiding unnecessary notifications.
+*   Enable focus by avoiding unnecessary notifications.
 
-  > _"Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
-  >
-  > _Jesse Weaver_
+    > _"Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
+    >
+    > _Jesse Weaver_
 
 [https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a](https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a)
 
@@ -60,11 +60,11 @@ Lack of transparency erodes trust in a product. We can prevent this erosion by d
 
 ## The process
 
-![](../../.gitbook/assets/3%20%283%29.png)
+![](<../../.gitbook/assets/3 (3) (1).png>)
 
 **Exploration/Ideation:**
 
-Understanding the context \(Particular and general\) that the project involves, and think about specific solutions to that project.
+Understanding the context (Particular and general) that the project involves, and think about specific solutions to that project.
 
 **Creation/Definition:**
 
@@ -80,7 +80,7 @@ Launching the solution with a public release.
 
 ## How do I get started?
 
-## The Tools \(Design & Management\)
+## The Tools (Design & Management)
 
 ### [Figma ](https://www.figma.com/files/team/617402205247363799/Open-Collective)
 
@@ -92,17 +92,17 @@ The first thing you encounter with is this primary breakdown of the work:
 * [02 → Web App](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
 * [PRJ → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
 
-![](../../.gitbook/assets/4%20%283%29.png)
+![](<../../.gitbook/assets/4 (3) (1).png>)
 
 **UX/UI Contribution**
 
 Most of the projects related with interface design will be hosted inside the [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com) folder, that breaks down again the efforts with this organization:
 
-![](../../.gitbook/assets/5%20%284%29.png)
+![](<../../.gitbook/assets/5 (4) (1).png>)
 
 The next level is each individual file, that may include several interface elements, pages and flows of the platform and the website, it looks something like [this](https://www.figma.com/file/e71tBo0Sr8J7R5n6iMkqI42d/OC.COM-07-%2F-Collectives?node-id=182%3A0):
 
-![](../../.gitbook/assets/figma-file-visualization%20%281%29.png)
+![](<../../.gitbook/assets/figma-file-visualization (1) (1).png>)
 
 Here you can obtain assets, individual characteristics of each elements and make specific questions.
 
@@ -112,7 +112,7 @@ All of these naming conventions are consistent along the other digital tools.
 
 .
 
-### [GitHub](https://github.com/)
+### [GitHub](https://github.com)
 
 Every task is linked with the OpenCollective team and the code repository through GitHub.
 
@@ -120,19 +120,18 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_breakdown-tasks-2019-07-09%20%281%29.png)
+![](<../../.gitbook/assets/contributing\_design\_design-contributing-guidelines\_breakdown-tasks-2019-07-09 (1) (1) (2).png>)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**Project Boards**](https://github.com/opencollective/opencollective/projects)
 
-![](../../.gitbook/assets/7%20%281%29%20%282%29%20%282%29.png)
+![](<../../.gitbook/assets/7 (1) (2) (2) (1) (1).png>)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)
 
-![](../../.gitbook/assets/8%20%282%29.png)![](../../.gitbook/assets/9%20%282%29%20%282%29.png)
+![](<../../.gitbook/assets/8 (2) (1).png>)![](<../../.gitbook/assets/9 (2) (2) (1) (1).png>)
 
 
 
-![](../../.gitbook/assets/2%20%283%29%20%282%29.png)
-
+![](<../../.gitbook/assets/2 (3) (2) (1) (3).png>)

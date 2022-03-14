@@ -6,7 +6,7 @@ You can use your Open Collective user profile to let people know a bit about you
 
 You can access your profile settings by using the dropdown menu on your username and going to the **Profile** page.
 
-![](<../.gitbook/assets/financial\_contributors\_receipts\_profile\_2021-06-22 (1).png>)
+![](<../.gitbook/assets/financial\_contributors\_receipts\_profile\_2021-06-22 (1) (1).png>)
 
 On your **Profile** page, you are able to customize the following:
 
@@ -22,9 +22,9 @@ Click on **Edit cover** to access to upload a new cover image.
 
 After uploading an image, you are able to adjust it as you wish by either moving it and zooming in and out.
 
-![](../.gitbook/assets/product\_user\_profile\_moving\_2021-04-20.gif)
+![](<../.gitbook/assets/product\_user\_profile\_moving\_2021-04-20 (1).gif>)
 
-![](<../.gitbook/assets/videoone (1).gif>)
+![](<../.gitbook/assets/videoone (1) (1).gif>)
 
 ### Main color
 

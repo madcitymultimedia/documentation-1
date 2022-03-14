@@ -6,7 +6,7 @@ Virtual cards are an additional benefit offered to collectives through hosts. Ho
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
 
-![Request a virtual card from your host from your collective's profile page](<../.gitbook/assets/requestcard (1).png>)
+![Request a virtual card from your host from your collective's profile page](../.gitbook/assets/requestcard.png)
 
 ## Using a virtual card
 
@@ -41,7 +41,7 @@ Be aware of your surroundings when viewing a card's details as others may be abl
 
 ### **Companies that don't accept Virtual Cards**&#x20;
 
-There are a few websites that don't accept prepaid cards.&#x20;
+There are a few websites that don't accept virtual credit cards. Here are a few that we are aware of:
 
 * Google&#x20;
 * Zipcar

@@ -12,7 +12,7 @@ Click the **Dashboard** button on your host page, while logged in as host admin.
 
 ### Expenses
 
-![](../.gitbook/assets/dashboard.jpeg)
+![](<../.gitbook/assets/dashboard (1).jpeg>)
 
 **Filter**
 
