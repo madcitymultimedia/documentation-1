@@ -85,6 +85,27 @@ For invoices, the expense summary serves as the official invoice document. You c
 
 You can also add a private note to the admins. Once your expense is ready, click on **Submit expense**.
 
+### Multi-Currency Expenses
+
+You can now submit expenses in multiple currencies. This is useful if the collective operates in USD for example but you recieve a different currency into your bank account.&#x20;
+
+This feature enables you to submit your expense in your preferred currency, a currency conversion rate is then predicted for the currency of the collective. You will receive the full amount submitted on your invoice even if the conversion rate were to change.&#x20;
+
+{% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
+
+#### Supported Currencies&#x20;
+
+* Wise: Collective currency or payout method currency, with the limitation of the currencies that are supported by Wise
+* PayPal: [any currency supported by PayPal](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
+* Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted
+
+#### How do we calculate our Exchange Rate?&#x20;
+
+* We rely on the payout provider (Wise, PayPal) whenever possible
+* Otherwise we fallback on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io)
+
+
+
 ## Inviting a third-party to submit an Expense
 
 It is also possible to draft an expense and send it to a third party to edit and submit an expense. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
@@ -122,23 +143,4 @@ When the user finishes editing the expense, the summary of the expense is displa
 After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
 
 ![](<../.gitbook/assets/image (40).png>)
-
-### Multi-Currency Expenses
-
-You can now submit expenses in multiple currencies. This is useful if the collective operates in USD for example but you recieve a different currency into your bank account.&#x20;
-
-This feature enables you to submit your expense in your preferred currency, a currency conversion rate is then predicted for the currency of the collective. You will receive the full amount submitted on your invoice even if the conversion rate were to change.&#x20;
-
-{% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
-
-#### Supported Currencies&#x20;
-
-* Wise: Collective currency or payout method currency, with the limitation of the currencies that are supported by Wise
-* PayPal: [any currency supported by PayPal](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
-* Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted
-
-#### How do we calculate our Exchange Rate?&#x20;
-
-* We rely on the payout provider (Wise, PayPal) whenever possible
-* Otherwise we fallback on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io)
 
