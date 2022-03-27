@@ -16,7 +16,7 @@ We use Crowdin to manage all our translations. You can join and contribute on: [
 
 ## Adding a new language
 
-To ask for a language to be added on Crowdin, feel free to open a discussion on [https://crowdin.com/project/opencollective/discussions](https://crowdin.com/project/opencollective/discussions). We always accept these requests, but please note that inactive languages will often been removed if there's no contribution.
+To ask for a language to be added on Crowdin, feel free to [open a discussion](https://crowdin.com/project/opencollective/discussions). We always accept these requests, but please note that inactive languages will often be removed if there's no contribution.
 
 ## Format
 
