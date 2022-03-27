@@ -2,21 +2,21 @@
 
 Go to the Collective you're submitting the expense to and click "Submit Expense".
 
-![](../.gitbook/assets/expenses_submitting_expenses_2021-05-31.png)
+![](../.gitbook/assets/expenses\_submitting\_expenses\_2021-05-31.png)
 
 On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page, you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
 
-![Expense submission page](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_typical-page-scheme_2020-05-11.png)
+![Expense submission page](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_typical-page-scheme\_2020-05-11.png)
 
 ### Payee information
 
-In the first step, you can specify who will be paid for this expense \(an individual or an organization\) and which payment method you wish to use.
+In the first step, you can specify who will be paid for this expense (an individual or an organization) and which payment method you wish to use.
 
 If you are invoicing through a company, create an organization profile for your company and select it here instead of using your personal profile, so the correct entity is recorded as being paid for tax purposes.
 
 Additionally, the invoice form will ask for your country, physical address, and give you the option to add more info.
 
-![Additional info requested by the invoice form](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_invoice-additional-info_2020-05-12.png)
+![Additional info requested by the invoice form](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-additional-info\_2020-05-12.png)
 
 The availability of certain options depends on which plan the organization adopts, and may include **PayPal**, **wire transfers**, or a **custom method**.
 
@@ -45,7 +45,7 @@ In order to be paid, submitted expenses must be approved by a Collective admin, 
 
 A **reimbursement** allows you to be reimbursed for a purchase you already made. To open the submission form, click on **Reimbursement** and add a title to your expense.
 
-![](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_reimbursement-form_2020-05-11.gif)
+![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-form\_2020-05-11.gif)
 
 #### Adding receipts
 
@@ -53,13 +53,13 @@ Reimbursements must have receipts. Upload one or multiple receipts by dragging a
 
 A **valid receipt** contains:
 
-1. Name of the vendor \(person or company you paid\)  
-2. Transaction date \(when you paid\)  
-3. A detailed description of goods or services purchased \(what you bought\)  
-4. Amount paid  
-5. Form of payment \(cash, check, or last four digits of the credit card\)
+1. Name of the vendor (person or company you paid) &#x20;
+2. Transaction date (when you paid) &#x20;
+3. A detailed description of goods or services purchased (what you bought) &#x20;
+4. Amount paid &#x20;
+5. Form of payment (cash, check, or last four digits of the credit card)
 
-![](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_reimbursement-receipt_2020-05-11.png)
+![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-receipt\_2020-05-11.png)
 
 ### Invoices
 
@@ -71,7 +71,7 @@ An **invoice** allows you to be paid for your work, or to get funds in advance o
 
 To open the submission form, click on **Invoice** and add a title to your expense.
 
-![](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_invoice-form_2020-05-12.gif)
+![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-form\_2020-05-12.gif)
 
 If you have an invoice ready, you can upload it as an attachment to the expense. However, you are still required to set invoice details such as description, date and amount.
 
@@ -93,13 +93,13 @@ Inviting a third-party user or organization to submit an expense automatically c
 
 Notice, although the invited user will pick who's going to be paid for the expense, the created expense will display you as the user who requested it:
 
-![Jean-Fran&#xE7;ois requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](../.gitbook/assets/image%20%2841%29.png)
+![Jean-François requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](<../.gitbook/assets/image (41).png>)
 
 ### Inviting an existing user
 
 To invite an existing user, search for an existing user in the payee selection dropdown. After selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
 
-![](../.gitbook/assets/deepin-screen-recorder_select-area_20201116162535.gif)
+![](../.gitbook/assets/deepin-screen-recorder\_select-area\_20201116162535.gif)
 
 The invited user will receive a notification by email containing a link with a key that will allow them to finish editing and submit the expense.
 
@@ -107,19 +107,38 @@ The invited user will receive a notification by email containing a link with a k
 
 It is also possible to invite a user that does not have an account on the platform to submit an expense. To do that, simply select the option _Invite someone to submit an expense,_ and inform their name and email:
 
-![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_invitingnewuser_2021_4_8.gif)
+![](../.gitbook/assets/expensesandgettingpaid\_submittingexpenses\_invitingnewuser\_2021\_4\_8.gif)
 
 You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
 
-![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_addingadditionalinformation_2021_4_20.gif)
+![](../.gitbook/assets/expensesandgettingpaid\_submittingexpenses\_addingadditionalinformation\_2021\_4\_20.gif)
 
 If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense.
 
 When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action:
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](<../.gitbook/assets/image (42).png>)
 
 After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](<../.gitbook/assets/image (40).png>)
+
+### Multi-Currency Expenses
+
+You can now submit expenses in multiple currencies. This is useful if the collective operates in USD for example but you recieve a different currency into your bank account.&#x20;
+
+This feature enables you to submit your expense in your preferred currency, a currency conversion rate is then predicted for the currency of the collective. You will receive the full amount submitted on your invoice even if the conversion rate were to change.&#x20;
+
+{% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
+
+#### Supported Currencies&#x20;
+
+* Wise: Collective currency or payout method currency, with the limitation of the currencies that are supported by Wise
+* PayPal: [any currency supported by PayPal](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
+* Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted
+
+#### How do we calculate our Exchange Rate?&#x20;
+
+* We rely on the payout provider (Wise, PayPal) whenever possible
+* Otherwise we fallback on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io)
 
