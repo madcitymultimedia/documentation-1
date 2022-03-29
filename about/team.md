@@ -79,7 +79,7 @@ Berlin, Germany
 
 ### Shannon Wray
 
-Documentation\
+Documentation and Marketing\
 Auckland, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
