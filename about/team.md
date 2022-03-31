@@ -37,14 +37,14 @@ Shropshire, United Kingdom
 ### **Benjamin Piouffle**
 
 Software Engineer\
-Aix-en-Provence, France
+La Ciotat, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
 
 ### **Leo Kewitz**
 
 Software Engineer\
-Brazil
+Florianopolis, Brazil
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
 
@@ -80,14 +80,14 @@ Berlin, Germany
 ### Shannon Wray
 
 Documentation and Marketing\
-Auckland, New Zealand
+Remote, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
 
 ### Kayla&#x20;
 
 Admin Support - Open Collective Foundation \
-Mexico
+United States
 
 ### Sudharaka Palamakumbura
 
@@ -116,7 +116,7 @@ Brussels, Belgium
 
 This map shows the diversity of our team and the truly global approach it takes to bring you Open Collective.&#x20;
 
-Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
+Our team is distributed between Auckland, Brussels, Berlin, Edinburgh, Florianopolis, Guadalajara, La Ciotat, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington.
 
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team.&#x20;
 
