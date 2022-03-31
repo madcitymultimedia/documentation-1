@@ -1,7 +1,3 @@
----
-description: Guide to connecting Github Sponsors for Organizations to your Collective
----
-
 # Setting up GitHub Sponsors
 
 {% hint style="warning" %}

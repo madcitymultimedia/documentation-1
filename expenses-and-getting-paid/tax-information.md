@@ -1,7 +1,3 @@
----
-description: For Expense Payees of US Fiscal Hosts
----
-
 # Tax Information
 
 ## For Expense Payees of US Fiscal Hosts
