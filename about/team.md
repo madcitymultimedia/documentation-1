@@ -120,4 +120,7 @@ Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Gua
 
 English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are just some of the languages spoken by our team.&#x20;
 
-![](../.gitbook/assets/about\_team\_map\_2021-08-18.png)
+```
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Cti5GyLESLXmHSTWKAQ_ZDOqOat9tRLG&ehbc=2E312F" width="640" height="480"></iframe>
+```
+
