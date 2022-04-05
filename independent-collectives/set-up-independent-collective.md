@@ -4,7 +4,7 @@ Now your Independent Collective has been created. At this point some extra optio
 
 ### Legal name
 
-If the name of your Collective is not the same as the name of the owner of the bank account holding its funds (person or company), you should specify that owner's name in the legal name field. You can do this in the Info section.&#x20;
+If the name of your Collective is not the same as the name of the owner of the bank account holding its funds (person or company), you should specify that owner's name in the legal name field. You can do this in the Info section.
 
 For example, the Collective may be named for a specific project, but the holder of the funds might be a person or company associated with the project that has another name.
 
@@ -20,16 +20,17 @@ In the Info section, you'll see a field for 'address'. This is used on receipts 
 
 To enable people to contribute to your Collective, you need to set up ways that they can pay you. On this screen you can connect your Stripe account for credit card payments and/or add the details for bank transfers.
 
-{% hint style="info" %} If you wish to receive money via PayPal, please [contact support](mailto:support@opencollective.com) as this feature is still in beta. {% endhint %}
+{% hint style="info" %}
+If you wish to receive money via PayPal, please [contact support](mailto:support@opencollective.com) as this feature is still in beta.
+{% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2021-09-30-at-2.43.14-pm.png)
 
-
 ## Sending Money
 
-If you wish to use Open Collective's integrations with payment processors to enable paying expenses in one click, you need to link these services up in settings (see below).&#x20;
+If you wish to use Open Collective's integrations with payment processors (Wise and Paypal) to enable paying expenses in one click through our platform, you need to link these services up in settings (see below). You'll need to manage your Wise balance and make sure you have money there to cover the expenses.&#x20;
 
-If you do not wish to link these services, you can pay expenses by any other means outside the platform, and mark them as paid manually on Open Collective.
+If you do not wish to link these services, you can pay expenses by any other means outside the platform (e.g Direct Bank transfer), and mark them as paid manually on Open Collective.
 
 ### Set up 1-click expense payouts
 
