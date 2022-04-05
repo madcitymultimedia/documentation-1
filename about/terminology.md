@@ -104,7 +104,7 @@ Individual Financial contributor can find a Collective in many ways:
 * [Github badges on README](../financial-contributors/website-badge.md)
 * Organization's page
 * [BackYourStack](https://backyourstack.com)
-* Our [blog](https://blog.opencollective.com) or newsletter
+* Our [blog](https://blog.opencollective.com) or [newsletter](https://blog.opencollective.com/tag/newsletter/)
 
 #### Expense submitter
 
