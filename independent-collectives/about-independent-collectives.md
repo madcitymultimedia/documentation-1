@@ -1,6 +1,6 @@
 # About Independent Collectives
 
-#### An **Independent Collective** holds money for itself in its own bank account (instead of joining a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) to hold money on its behalf).
+#### **An Independent Collective holds money for itself in its own bank account (instead of joining a** [**Fiscal Host**](../fiscal-hosts/fiscal-hosts.md) **to hold money on its behalf).**
 
 ## FAQ
 

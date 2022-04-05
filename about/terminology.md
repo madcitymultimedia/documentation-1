@@ -64,6 +64,16 @@ Someone in charge of the financial records for the Collective. They have read ac
 
 Individuals who register to attend a Collective's event. They often arrive through a direct link provided by the event organizers. They want a smooth, hassle-free experience, clear information about the event, and ideally a pathway to stay in touch or become contributors.
 
+
+
+**Independent Collective**
+
+An Independent Collective holds money for itself in its own bank account (Instead of joining a [Fiscal Host](broken-reference) to hold money on its behalf).&#x20;
+
+Learn more about Independent Collectives [here](broken-reference).&#x20;
+
+****
+
 ## User actions & relationships
 
 {% hint style="info" %}
