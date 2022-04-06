@@ -78,6 +78,7 @@ If you're already in the beta test group, you can follow these instructions:
     ![](<../../.gitbook/assets/image (25).png>)
 
     * Name this App after Open Collective, this way you'll always remember where this token is being used.
+    * App Type: Merchant
     * Click _Create App._
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
