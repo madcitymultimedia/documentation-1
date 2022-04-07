@@ -12,7 +12,7 @@ This is the place to find all help and documentation related to Open Collective.
 
 To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](contributing/documentation/suggesting-changes.md).
 
-If you can't find the answer you're looking for, [contact us](https://opencollective.com/help) or connect via our [Slack](https://slack.opencollective.com).
+If you can't find the answer you're looking for,[ contact us ](https://opencollective.com/contact)or connect via our [Slack](https://slack.opencollective.com).
 
 ## Find your way to the right page
 
