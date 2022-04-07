@@ -18,7 +18,7 @@ A **Fund** includes:
 * support for communities operating on Open Collective or elsewhere
 * a lightweight 'Request a Grant' process for projects issue money to grant recipients
 * Transparent financial management on the Open Collective Platform
-* More flexibility with what you choose to publicly show \(in terms of expense management\)
+* More flexibility with what you choose to publicly show (in terms of expense management)
   * Protect identities of those receiving grants
     * e.g. emergency relief aid may not want to be as public
       * Will still be reported and available to fiscal host
@@ -39,7 +39,7 @@ Funds can be created by an organisation.
 
 **Funds** allows for more customization in the transparency of an initiative. This is a great way to issue grants to recipients of emergency aid, human rights activists and censorship targets, for example, for whom more privacy is essential.
 
-It's also perfect for initiatives who want it to be easier to distribute money _outside_ of Open Source Collective. **Funds** is the best way to manage your FOSS support fund to projects in or out of your OSC fund since you'll **only need to deal with one vendor** \(us!\).
+It's also perfect for initiatives who want it to be easier to distribute money _outside_ of Open Source Collective. **Funds** is the best way to manage your FOSS support fund to projects in or out of your OSC fund since you'll **only need to deal with one vendor** (us!).
 
 With **Funds**, we can now offer more flexibility for managing finances and expenses.
 
@@ -61,7 +61,6 @@ It's up to the creators of the Fund what the process is. Open Collective has a '
 
 ## **How do you create a fund?**
 
-_\*\*_[Reach out to us](https://opencollective.com/support) for more information if you are wanting to set up a Fund with OC!
+_\*\*_[Reach out to us](https://opencollective.com/contact) for more information if you are wanting to set up a Fund with OC!
 
 For more information about our mission regarding funding and the initial organisations that came on board, [please read Pia's release blog. ](https://blog.opencollective.com/funds-for-open-source/)
-

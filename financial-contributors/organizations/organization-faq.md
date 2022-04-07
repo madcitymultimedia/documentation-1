@@ -38,13 +38,13 @@ Most Collectives are happy to discus alternative arrangements and hear sponsor f
 
 We offer tools to help you find Collectives that are providing value for your company.
 
-* [BackYourStack](https://backyourstack.com/): discover your open source dependencies
-* [Gift Cards](https://opencollective.com/gift-cards): let your developers, ambassadors, employees, or recruits determine which Collective to support 
+* [BackYourStack](https://backyourstack.com): discover your open source dependencies
+* [Gift Cards](https://opencollective.com/gift-cards): let your developers, ambassadors, employees, or recruits determine which Collective to support&#x20;
 * [Discover](https://opencollective.com/discover): search for Collectives on the platform
 
 ## Can we pay via bank transfer or other means?
 
-Yes. If paying via credit card through our automated system doesn't work for your process, please reach out to [https://opencollective.com/support](https://opencollective.com/support) and we can arrange to accept payment.
+Yes. If paying via credit card through our automated system doesn't work for your process, please [contact us](https://opencollective.com/contact) and we can arrange to accept payment.
 
 ## Can we make a bulk payment?
 
@@ -52,15 +52,14 @@ Yes. You can send us funds with a single transaction, and we'll allocate it to y
 
 ## Can we get an invoice in advance?
 
-Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../../fiscal-hosts/fiscal-hosts.md) \(like the Open Source Collective\) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, let us know at [support@opencollective.com](mailto:support@opencollective.com)
+Yes. Contributions through our platform will automatically generate receipts after payment, but [Fiscal hosts](../../fiscal-hosts/fiscal-hosts.md) (like the Open Source Collective) can function like any vendor or supplier and provide the documentation you require. If you need an invoice in advance, or for us to register in your vendor system, please [contact us](https://opencollective.com/contact).&#x20;
 
 ## Who are we transacting with legally?
 
-Open Collectives are under the legal umbrella of their [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md). For most open source software projects, that's the Open Source Collective.
+Open Collectives are under the legal umbrella of their [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md). For most open-source software projects, that's the Open Source Collective.
 
 Most sponsorships arrangements don't require a separate contract to the standard terms, but we offer a [sponsorship agreement template](../../fiscal-hosts/sponsor-agreement.md) if needed. Sponsorship agreements are set in discussion with the sponsor, the fiscal host, and the Collective together.
 
 ## Help me convince my company to become an organization on Open Collective?
 
 You bet! See [Sustainer Resources](sustainer-resources.md).
-
