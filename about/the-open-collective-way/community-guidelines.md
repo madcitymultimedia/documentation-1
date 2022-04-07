@@ -176,6 +176,7 @@ Admins have the ability to moderate their communities using certain tools:
 
 * Setting an [expense policy](https://docs.opencollective.com/help/collectives/collective-settings/expense-policy)
 * [Rejecting specific financial contributions](https://docs.opencollective.com/help/collectives/moderation#rejecting-financial-contributions) and/or [categories of financial contributors](https://docs.opencollective.com/help/collectives/moderation#rejecting-categories-of-financial-contributors)
+* Marking expenses as spam
 * [Deleting conversations and conversation comments](https://docs.opencollective.com/help/collectives/conversations#moderation)
 * Deleting expense comments
 * Deleting Update comments
