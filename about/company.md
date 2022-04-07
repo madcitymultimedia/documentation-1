@@ -27,10 +27,9 @@ We try to be very transparent about our own finances. We raised a total of $2,81
 
 ### How do I get in touch with you?
 
-[Contact us](https://opencollective.com/help) or join our [Slack](https://slack.opencollective.com).
+[Contact us ](https://opencollective.com/contact)or join our [Slack](https://slack.opencollective.com).
 
 ### Internal Documentation&#x20;
 
-Here is a link to our internal documentation:&#x20;
+Here is a link to our [internal documentation](https://www.docs-internal.opencollective.com).
 
-[www.docs-internal.opencollective.com](https://docs-internal.opencollective.com)
