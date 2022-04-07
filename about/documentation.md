@@ -28,4 +28,4 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [The Social Change Agency](https://opencollective.com/the-social-change-nest) - [Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b\_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) - [Website](https://thesocialchangeagency.org)
 
-If you would like your Documentation linked here please get in touch.&#x20;
+If you would like your Documentation linked here please [get in touch](https://opencollective.com/contact).&#x20;
