@@ -9,7 +9,7 @@ When enforcing these guidelines, actions taken by users outside Open Collective 
 {% endhint %}
 
 {% hint style="warning" %}
-To report violations of these guidelines, see the [full process](community-guidelines.md#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580) below and [email support@opencollective.com](mailto:support@opencollective.com).
+To report violations of these guidelines, see the [full process](community-guidelines.md#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580) below and contact us.&#x20;
 {% endhint %}
 
 ## Summary
@@ -59,15 +59,15 @@ We are a community of, and in solidarity with, people of every ability, age, bod
 
 Open Collective community participants act with integrity. We are honest about who we are, what we are doing, what we plan to be doing, and why.&#x20;
 
-We do not engage in [misinformation or disinformation](community-guidelines.md#docs-internal-guid-aec484a0-7fff-5cff-0bda-2dab04342d64), and if we do so unknowingly, we correct it. Dishonesty and hidden intentions are damaging not only to the individual, but to all community participants. Do not bring mistrust into the Open Collective community.
+We do not engage in [misinformation or disinformation](community-guidelines.md#docs-internal-guid-aec484a0-7fff-5cff-0bda-2dab04342d64), and if we do so unknowingly, we correct it. Dishonesty and hidden intentions are damaging not only to the individual but to all community participants. Do not bring mistrust into the Open Collective community.
 
 ### Transparency
 
 Transparency is a huge part of the Open Collective community and a deeply held value. It sets us apart.
 
-We define transparency as authentic and accessible openness, clarity, and visibility, free from deceit. Those who seek to scam or defraud will take advantage of lack of transparency where they can, especially when money is involved. By managing money transparently on the Open Collective platform, we enable accountability, equity, and participation in our communities and ensure trust.
+We define transparency as authentic and accessible openness, clarity, and visibility, free from deceit. Those who seek to scam or defraud will take advantage of the lack of transparency where they can, especially when money is involved. By managing money transparently on the Open Collective platform, we enable accountability, equity, and participation in our communities and ensure trust.
 
-Open Collective community participants are ready, willing, and able to share about their work and intentions. The Open Collective team strives to be reachable and welcoming, including via [our public Slack](http://slack.opencollective.com), [GitHub issues](https://github.com/opencollective/opencollective/issues), and [email](https://opencollective.com/support). Open Collective developers work [transparently](https://github.com/opencollective/) on the platform’s [open source](https://github.com/opencollective/opencollective-api/blob/main/LICENSE) code. The company’s [budget](https://opencollective.com/opencollective) is public, we are open about its [future plans](http://opencollective.com/e2c), and we transparently share regular investor updates [on the blog](https://blog.opencollective.com).
+Open Collective community participants are ready, willing, and able to share their work and intentions. The Open Collective team strives to be reachable and welcoming, including via [our public Slack](http://slack.opencollective.com), [GitHub issues](https://github.com/opencollective/opencollective/issues), and [email](https://opencollective.com/support). Open Collective developers work [transparently](https://github.com/opencollective/) on the platform’s [open source](https://github.com/opencollective/opencollective-api/blob/main/LICENSE) code. The company’s [budget](https://opencollective.com/opencollective) is public, we are open about its [future plans](http://opencollective.com/e2c), and we transparently share regular investor updates [on the blog](https://blog.opencollective.com).
 
 ### Privacy
 
@@ -127,18 +127,18 @@ We consider context to be important in how information is received and understoo
 
 ### Disrupting the experience of others
 
-Being part of a community includes recognizing how your actions affect others, and engaging in meaningful and productive interactions. Behaviors such as spamming, scamming, fraud, impersonation, dishonesty, unsolicited or unauthorized self-promotion, repeatedly posting off-topic materials, or using any platform feature in a way that continually disrupts the experience of other users is not allowed.
+Being part of a community includes recognizing how your actions affect others and engaging in meaningful and productive interactions. Behaviors such as spamming, scamming, fraud, impersonation, dishonesty, unsolicited or unauthorized self-promotion, repeatedly posting off-topic materials, or using any platform feature in a way that continually disrupts the experience of other users is not allowed.
 
 ## What happens if someone breaks the rules <a href="#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580" id="docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580"></a>
 
 ### Reporting violations <a href="#docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080" id="docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080"></a>
 
-**Please submit all reports of acts that violate Open Collective’s Terms of Service or Community Guidelines to:** [**support@opencollective.com**](mailto:support@opencollective.com)**.**&#x20;
+**Please submit all reports of acts that violate Open Collective’s Terms of Service or Community Guidelines**[ **here**](https://opencollective.com/contact)**.**
 
 Reports may be submitted by the target of the violation, as well as third parties. As much as possible, the source of any report will be kept confidential from all parties except those involved in enforcement decisions.
 
 {% hint style="warning" %}
-To submit a report, [email support@opencollective.com](mailto:support@opencollective.com).
+To submit a report, [contact us](https://opencollective.com/contact).&#x20;
 {% endhint %}
 
 ### Proactive maintenance <a href="#docs-internal-guid-20333c18-7fff-7e3f-5ffb-35ecbb14f8bb" id="docs-internal-guid-20333c18-7fff-7e3f-5ffb-35ecbb14f8bb"></a>
@@ -149,7 +149,7 @@ We proactively review questionable activity using the tools available to us. Not
 
 When asked to stop inappropriate behavior, community participants are expected to comply immediately. Per the [Terms of Service](https://opencollective.com/tos), Open Collective reserves the right to take any action we deem appropriate, up to and including removal from the platform and other spaces hosted by Open Collective.&#x20;
 
-We review each report on a case-by-case basis and tailor our response to the situation, using these guidelines and accounting as much as we can for our biases. We do not take these actions lightly, and welcome feedback.&#x20;
+We review each report on a case-by-case basis and tailor our response to the situation, using these guidelines and accounting as much as we can for our biases. We do not take these actions lightly and welcome feedback.&#x20;
 
 In the case of a community participant not living up to [our values](community-guidelines.md#docs-internal-guid-0863550b-7fff-2761-8190-f7326b1ade2f), but not doing anything that is [explicitly not allowed](community-guidelines.md#docs-internal-guid-0cc2e891-7fff-136b-8722-21e43c141eec), we may offer guidance so that they may improve into the future, before taking any further action.
 
@@ -163,7 +163,7 @@ In the event that a community participant does something that is [not allowed](c
 After investigation and review, further actions may include:
 
 * Suspending or [limiting](https://docs.opencollective.com/help/product/moderation#limited-user-account) accounts
-* Closing or unhosting Collectives
+* Closing or un hosting Collectives
 * Archiving accounts or removing users
 
 {% hint style="info" %}
@@ -204,7 +204,7 @@ On a case-by-case basis, where additional information is provided, or where a co
 
 Reinstatement to the Open Collective community and platform will be done in consultation with a Collective’s Fiscal Host where applicable. Reinstatement of a formerly hosted Collective does not guarantee the reinstatement with that Fiscal Host.
 
-If you wish to appeal an enforcement decision, please [contact us](mailto:support@opencollective.com).
+If you wish to appeal an enforcement decision, please [contact us](https://opencollective.com/contact).
 
 ## Evolution of these guidelines
 
@@ -212,4 +212,4 @@ These guidelines are influenced by the guidelines and policies of many organizat
 
 As part of Open Collective’s [commitment to evolve stakeholder governance of the platform](http://opencollective.com/e2c), we will, as a community, continue to explore improvements to these principles and processes into the future. These may include mechanisms for transparency of enforcement actions, a community council to review complaints and appeals, tools to help identify and counter bad actors, and, of course, an ever-evolving understanding of the underlying core values from which these guidelines derive.
 
-The Open Collective team, as a steward of this commons for the broader community, welcomes feedback about these guidelines and engagement from those who seek to help us improve them. [Reach out anytime](mailto:support@opencollective.com).
+The Open Collective team, as a steward of this commons for the broader community, welcomes feedback about these guidelines and engagement from those who seek to help us improve them. [Reach out anytime.](https://opencollective.com/contact)
