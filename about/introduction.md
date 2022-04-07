@@ -10,7 +10,7 @@ This is the problem that Open Collective solves. We enable groups to quickly set
 
 We want all those seeds to have a chance to grow and give the ideas a fighting chance to reach their true potential. We believe everyone should have the tools to create the organizations of tomorrow. And we are dedicating ourselves to make that happen!
 
-[Contact us](https://opencollective.com/help)
+[Contact us](https://opencollective.com/contact)
 
 ## Essays
 
@@ -112,4 +112,4 @@ For more info about how you can contribute to Open Collective, check the [contri
 
 ### How can I contact you?
 
-[Contact us](introduction.md#essays) or join our [Slack](https://slack.opencollective.com)!
+[Contact us](https://opencollective.com/contact) or join our [Slack](https://slack.opencollective.com)!
