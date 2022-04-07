@@ -14,7 +14,7 @@ Update your images and main color and add about info. [Here's how](collective-se
 
 ### 2. Add Core Contributors
 
-If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors by going to 'edit Collective' and clicking 'Core Contributors'.
+If you have collaborators on your project who can help you manage your page and approve expenses add them as Core Contributors. [Here's how](collective-settings/core-contributors.md).&#x20;
 
 ### 3. Add Financial Contributors to your GitHub and website
 
