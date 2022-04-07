@@ -34,7 +34,9 @@ Suggest changes to this documentation!
 
 ## **Marketing**
 
-Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Please [contact us](https://opencollective.com/help) if you're interested.
+If you would like to share something with the marketing team please [join our slack](https://join.slack.com/t/opencollective/shared\_invite/zt-xek9a734-56GAr18qSi54n5YYJXZYtg) and post on the #news channel.&#x20;
+
+Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Please [contact us](https://opencollective.com/contact) if you're interested.
 
 ## **Design**
 
