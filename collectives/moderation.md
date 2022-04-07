@@ -25,7 +25,7 @@ Click 'Yes, reject' and then the status of the transaction should update in your
 ![](../.gitbook/assets/screenshot-2020-10-16-at-10.40.34.png)
 
 {% hint style="danger" %}
-If an account continues to make contributions to your Collective after you have rejected them, this is against Open Collective's community guidelines. Please get in touch with [https://opencollective.com/support](https://opencollective.com/support) and we can block the account from interacting with your Collective.
+If an account continues to make contributions to your Collective after you have rejected them, this is against Open Collective's community guidelines. Please [get in touch](https://opencollective.com/contact) and we can block the account from interacting with your Collective.
 {% endhint %}
 
 ## Rejecting categories of financial contributors
@@ -45,7 +45,7 @@ If you would like to prevent any contributions from accounts that have been cate
 
 ![](../.gitbook/assets/screenshot-2020-10-16-at-10.18.37.png)
 
-You can select as many of the predefined moderation categories as you would like \(or none if you don't wish to filter the contributions you receive by category\).
+You can select as many of the predefined moderation categories as you would like (or none if you don't wish to filter the contributions you receive by category).
 
 ![](../.gitbook/assets/screenshot-2020-10-16-at-10.18.48.png)
 
@@ -60,6 +60,5 @@ If a contributor's account has been tagged by the Open Collective team as belong
 If you would like to let potential contributors to your Collective know upfront what your **contribution policy** is, and what kinds of contributions you may not accept, you can also do this in the _'Policies'_ section of the Collective menu. This will be displayed in the contribution flow as well.
 
 {% hint style="danger" %}
-It is against Open Collective's community guidelines and moderation policy for a contributor to create a new account to get around the category filter. If this happens, please report it to us on [https://opencollective.com/support](https://opencollective.com/support)
+It is against Open Collective's community guidelines and moderation policy for a contributor to create a new account to get around the category filter. If this happens, please [report it to us](https://opencollective.com/contact).&#x20;
 {% endhint %}
-
