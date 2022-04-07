@@ -10,7 +10,7 @@ First, thank you for considering contributing to Open Collective! It's people li
 
 Check out our [Roadmap](../product/roadmap.md) for the latest priorities.
 
-You can help with: 
+You can help with:&#x20;
 
 ## **Quality Assurance**
 
@@ -20,27 +20,33 @@ File [bug reports](https://github.com/opencollective/opencollective/issues), the
 
 Translate Open Collective's interface!
 
-{% page-ref page="../contributing/translation.md" %}
+{% content-ref url="../contributing/translation.md" %}
+[translation.md](../contributing/translation.md)
+{% endcontent-ref %}
 
 ## **Documentation**
 
 Suggest changes to this documentation!
 
-{% page-ref page="../contributing/documentation/" %}
+{% content-ref url="../contributing/documentation/" %}
+[documentation](../contributing/documentation/)
+{% endcontent-ref %}
 
 ## **Marketing**
 
-Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Just reach out to [support@opencollective.com](mailto:support@opencollective.com) if you're interested.
+Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Please [contact us](https://opencollective.com/help) if you're interested.
 
 ## **Design**
 
-Coming soon! 
+Coming soon!&#x20;
 
 ## **Code**
 
 There are always plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues)! We also have [Bounties](../contributing/development/bounties.md).
 
-{% page-ref page="../contributing/development/" %}
+{% content-ref url="../contributing/development/" %}
+[development](../contributing/development/)
+{% endcontent-ref %}
 
 ## **Feature ideas**
 
@@ -59,11 +65,10 @@ Want to get paid for contributing code? Check out our [bounty program](../contri
 **General guidelines**
 
 * The strings must be internationalized. See [/help/developers/translations](https://docs.opencollective.com/help/developers/translations)
-* Whenever it's possible we must use `styled-components` to write styles. See [OC Styleguide](https://styleguide.opencollective.com/)
-* Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
+* Whenever it's possible we must use `styled-components` to write styles. See [OC Styleguide](https://styleguide.opencollective.com)
+* Icons must be imported from the [styled-icons](http://styled-icons.js.org) library.
 * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
 
 ### Code review process
 
 The bigger the pull request, the longer it will take to review and merge. Try to break down large pull requests into smaller chunks. If it's a bug fix, it will probably be quickly merged and deployed. If it's a new feature, it will need more testing and review.
-
