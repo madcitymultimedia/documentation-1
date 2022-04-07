@@ -14,11 +14,11 @@ Especially, these types of contents are never welcome on the website:
 
 ## How to report abusive content
 
-Please send all your reports for spam and abusive content to: [support@opencollective.com](mailto:support@opencollective.com).
+Please send all your reports for spam and abusive content [here](https://opencollective.com/contact).
 
 ## Limited user account
 
-Limiting users account is currently our main tool to prevent activity from malicious users. We usually limit an account after spotting one or multiple attempts at spamming or doing malicious things.
+Limiting user's account is currently our main tool to prevent activity from malicious users. We usually limit an account after spotting one or multiple attempts at spamming or doing malicious things.
 
 When you're account is limited you'll be unable to complete any sensitive action on the website, including:
 
@@ -26,5 +26,4 @@ When you're account is limited you'll be unable to complete any sensitive action
 * Make financial contributions
 * Create conversations
 
-If your account gets limited by mistake, you can contact [support@opencollective.com](mailto:support@opencollective.com)
-
+If your account gets limited by mistake, you can [contact us](https://opencollective.com/contact).&#x20;
