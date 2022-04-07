@@ -4,4 +4,4 @@ description: Guidance for open source projects on open collective
 
 # Open Source Collectives
 
-We've moved our documentation for open source projects to [https://docs.oscollective.org/](https://docs.oscollective.org)&#x20;
+We've moved our documentation for [open source projects](https://docs.oscollective.org).&#x20;

@@ -152,4 +152,4 @@ Hosts can work with you to go through your Purchase Order process. Just [reach o
 
 #### What if we never were provided with support?
 
-Please [reach out to us](https://opencollective.com/help) and we will work it out.
+Please [reach out to us](https://opencollective.com/contact) and we will work it out.
