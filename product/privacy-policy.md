@@ -2,9 +2,9 @@
 
 **Last Updated: 7 January 2019**
 
-This Privacy Policy explains how information about you is collected, used, and disclosed by Open Collective, Inc. \("Open Collective" or “we”\). This Privacy Policy applies to information we collect when you use our websites and online services \(collectively, the “Services”\) or when you otherwise interact with us.
+This Privacy Policy explains how information about you is collected, used, and disclosed by Open Collective, Inc. ("Open Collective" or “we”). This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the “Services”) or when you otherwise interact with us.
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice \(such as adding a statement to our homepage or sending you a notification\). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
 ### Collection of Information
 
@@ -17,11 +17,11 @@ We collect the information you provide directly to us. For example, we collect i
 When You Use the Services When you access or use our Services, we automatically collect information about you, including:
 
 * **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-* **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies, local storage and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Local Storage similarly enables our Services to store data \(like login tokens\) securely in your browser and unlike cookies, it's not sent to the server on every request. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
+* **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies, local storage and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Local Storage similarly enables our Services to store data (like login tokens) securely in your browser and unlike cookies, it's not sent to the server on every request. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 **Information We Collect From Other Sources**
 
-We may also obtain information from other sources. For example, if you connect your account with an account you have with a third-party service \(such as GitHub\), we will have access to certain information from that service, such as your profile information, in accordance with the authorization procedures determined by that service. Additionally, we may collect information about you from third-party sources that help us to learn more about you, like for example your profile picture or social media handles.
+We may also obtain information from other sources. For example, if you connect your account with an account you have with a third-party service (such as GitHub), we will have access to certain information from that service, such as your profile information, in accordance with the authorization procedures determined by that service. Additionally, we may collect information about you from third-party sources that help us to learn more about you, like for example your profile picture or social media handles.
 
 ### Use of Information
 
@@ -40,7 +40,7 @@ We may use information about you for various purposes, including to:
 
 ### Sharing of Information
 
-We may share information about you as follows or as otherwise described in this Privacy Policy: 
+We may share information about you as follows or as otherwise described in this Privacy Policy:&#x20;
 
 * With hosts and organizers of a collective, if you are a contributor, or request reimbursement for expenses made in support, of that collective
 * We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub.
@@ -83,13 +83,12 @@ You may opt out of receiving promotional or notification emails from Open Collec
 
 ### GDPR
 
-Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives \(like most other crowdfunding platforms\). Companies that sponsor Collectives don't get access to private information. Only the admins of the Collective \(core contributors\) and of the organization that is legally hosting the Collectives \(fiscal sponsor\) get access to your email address. We don't store credit card information on our servers \(we only store a token if you have decided to save it to your profile\). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
+Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives (like most other crowdfunding platforms). Companies that sponsor Collectives don't get access to private information. Only the admins of the Collective (core contributors) and of the organization that is legally hosting the Collectives (fiscal sponsor) get access to your email address. We don't store credit card information on our servers (we only store a token if you have decided to save it to your profile). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
 
 ## Data Removal
 
 If you haven't made any transactions, you can easily delete your profile account on Open Collective from the settings. If your profile or collective has transactions, we can't delete them since we need to keep the integrity of our ledger and accounting system.
 
-For individual/organizations profiles: please contact [support@opencollective.com](mailto:support@opencollective.com) and please request for your personal information to be removed and the transaction\(s\) anonymized.
+For individual/organizations profiles: please [contact us](https://opencollective.com/help) and please request for your personal information to be removed and the transaction(s) anonymized.
 
-For collectives, follow these steps: [http://docs.opencollective.com/collectives/closing-a-collective](http://docs.opencollective.com/collectives/closing-a-collective)
-
+For collectives, [follow these steps](http://docs.opencollective.com/collectives/closing-a-collective).
