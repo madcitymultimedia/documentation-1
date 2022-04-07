@@ -107,7 +107,7 @@ Don't forget to **save** your changes so they show up on your Collective page.
 
 ## Support Tiers
 
-A great way of having more companies supporting your project is by offering them a support tier, where you offer access to support in exchange for financial contributions. Companies may or may not use it but it gives them the peace of mind to have someone who knows the code base very available to help them within a reasonable time frame.
+A great way of having more companies supporting your project is by offering them a support tier, where you offer access to support in exchange for financial contributions. Companies may or may not use it but it gives them the peace of mind to have someone who knows the codebase very available to help them within a reasonable time frame.
 
 An example is [Babel's Base Support Sponsor](https://opencollective.com/babel#contribute) tier.
 
@@ -132,7 +132,7 @@ The Sponsor's responsibilities are:
 
 #### How do I define the price?
 
-It depends on a lot of things but mainly on how critical is your open source project to the organization (which is arguably quite subjective). We recommend to start at $500/month with a yearly commitment ($6k up front) for access to two hours of support a month. As you grow, you can start increasing the price.
+It depends on a lot of things but mainly on how critical is your open source project to the organization (which is arguably quite subjective). We recommend starting at $500/month with a yearly commitment ($6k upfront) for access to two hours of support a month. As you grow, you can start increasing the price.
 
 #### Why a yearly commitment?
 
@@ -140,7 +140,7 @@ It's easier for companies to budget services for the year. It also ensures that 
 
 ### For companies
 
-By subscribing to a support tier, you not only get private time for your team to discuss the open source project that you are depending on, but you are also helping the collective to maintain it. It's a great way to balance your interests with the interests of the community.
+By subscribing to a support tier, you not only get private time for your team to discuss the open-source project that you are depending on, but you are also helping the collective to maintain it. It's a great way to balance your interests with the interests of the community.
 
 #### Do I get an invoice?
 
@@ -148,8 +148,8 @@ Yes, you will receive an invoice emitted by the host of the collective (for exam
 
 #### Can I do a Purchase Order (PO)?
 
-Hosts can work with you to go through your Purchase Order process. Just reach out to us: [support@opencollective.com](mailto:support@opencollective.com).
+Hosts can work with you to go through your Purchase Order process. Just [reach out to us](https://opencollective.com/help).
 
 #### What if we never were provided with support?
 
-Please reach out to us and we will work it out ([support@opencollective.com](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/collectives/support@opencollective.com)).
+Please [reach out to us](https://opencollective.com/help) and we will work it out.
