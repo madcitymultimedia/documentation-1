@@ -25,21 +25,29 @@ Virtual cards can be offered to collectives through Hosts. Hosts create virtual 
 
 ## Accessing Virtual Card Settings
 
-To access your virtual card settings and policy select 'Virtual Cards' from your host profile settings page:
+To access your virtual card settings and policy, go to your host's admin panel and open select 'Virtual Cards Settings' under your Fiscal Host Settings section:
 
-![Virtual Card policy and settings ](<../.gitbook/assets/screenshot-2021-05-13-at-17.06.26 (1).png>)
+![You can find the Virtual Card Settings menu under Fiscal Host Settings in your Fiscal Host admin panel.](<../.gitbook/assets/image (50).png>)
 
-## Setting a policy
-
-Hosts have complete control over when, how and to who they provide Virtual Cards. Hosts can define their own policy in the 'Virtual Card Policy Information' area.
-
-## Enabling users to request virtual cards
+### Enable card requests
 
 It is possible to create and assign virtual cards to Collectives without enabling users to request them.&#x20;
 
-Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking 'Request a card' from their profile page:
+Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking _**Request a card**_ from their profile page:
 
-![Collective Admin's can request a virtual card from their Collective's profile pages](<../.gitbook/assets/requestcard (1).png>)
+![You can request a card from your collective's Actions menu.](<../.gitbook/assets/image (52).png>)
+
+### Automatically notify collectives about pending receipts
+
+You can toggle this option to automatically send a reminder for charge expenses that were created but are still missing their receipts. These reminders are sent after 15 and 29 days the expense was created.
+
+### Automatically suspend cards
+
+You can toggle this option if you want to automatically pause _**Stripe issued virtual cards**_ after any of its charge expenses is 31 days missing its receipt. This will also automatically resume paused cards after all missing expenses are submitted.
+
+### Setting a policy
+
+Hosts have complete control over when, how, and to who they provide Virtual Cards. Hosts can define their own policy in the 'Virtual Card Policy Information' area.
 
 ## Creating and assigning cards
 
