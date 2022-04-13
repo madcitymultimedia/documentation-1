@@ -85,6 +85,30 @@ For invoices, the expense summary serves as the official invoice document. You c
 
 You can also add a private note to the admins. Once your expense is ready, click on **Submit expense**.
 
+### Recurring Expenses
+
+{% hint style="info" %}
+**Closed Beta:** This feature is only available on selected collectives.
+{% endhint %}
+
+In the _**Expense Summary**_, you can also enable recurrency for your Expense, which will submit the filled expense and automatically create a draft of the same expense after the selected _**Frequency**_.
+
+![](<../.gitbook/assets/image (48).png>)
+
+Recurring expenses work by automatically creating a new Expense draft and sending it to the author of the expense at the turn of the selected frequency. A draft notification is sent to the author, which can then review, edit and submit another expense.
+
+These drafts are created based on the previous Expense submitted in the same group, this means that each edit you do in the previous draft will be persisted and used for the next one.
+
+It is also possible to set an _**End Date**_ for this recurring expense, which can be useful for setting up reminders for pre-defined contracts.
+
+While editing a new draft, you'll also see a banner displaying information about the recurring nature of the expense:
+
+![](<../.gitbook/assets/image (50).png>)
+
+You can also cancel any recurring expense, just click on _**Edit details**_ in the recurring expense information banner and later, click on the _**Cancel Recurring Expense**_ button. Done, this draft is now deleted and you'll no longer receive recurring drafts about this expense.
+
+![](<../.gitbook/assets/image (49).png>)
+
 ### Multi-Currency Expenses
 
 You can now submit expenses in multiple currencies. This is useful if the collective operates in USD for example but you recieve a different currency into your bank account.&#x20;
