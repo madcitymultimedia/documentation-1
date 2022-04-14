@@ -9,7 +9,7 @@ When enforcing these guidelines, actions taken by users outside Open Collective 
 {% endhint %}
 
 {% hint style="warning" %}
-To report violations of these guidelines, see the [full process](community-guidelines.md#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580) below and contact us.&#x20;
+To report violations of these guidelines, see the [full process](community-guidelines.md#docs-internal-guid-c5686783-7fff-9f04-2189-1af694041580) below and [contact us](https://opencollective.com/contact).&#x20;
 {% endhint %}
 
 ## Summary
@@ -133,7 +133,7 @@ Being part of a community includes recognizing how your actions affect others an
 
 ### Reporting violations <a href="#docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080" id="docs-internal-guid-aa5140e4-7fff-c89d-34f3-1af1e8876080"></a>
 
-**Please submit all reports of acts that violate Open Collective’s Terms of Service or Community Guidelines**[ **here**](https://opencollective.com/contact)**.**
+**Please submit all reports of acts that violate Open Collective’s Terms of Service or Community Guidelines** [**here**](https://opencollective.com/contact)**.**
 
 Reports may be submitted by the target of the violation, as well as third parties. As much as possible, the source of any report will be kept confidential from all parties except those involved in enforcement decisions.
 
@@ -163,7 +163,7 @@ In the event that a community participant does something that is [not allowed](c
 After investigation and review, further actions may include:
 
 * Suspending or [limiting](https://docs.opencollective.com/help/product/moderation#limited-user-account) accounts
-* Closing or un hosting Collectives
+* Closing or un-hosting Collectives
 * Archiving accounts or removing users
 
 {% hint style="info" %}
