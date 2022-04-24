@@ -80,10 +80,10 @@ The Open Collective team acknowledges the effort required to navigate the tensio
 Open Collective community participants strive to treat others with dignity, civility, consideration, and respect. We always try to:
 
 * Demonstrate empathy and kindness
-* Are mindful of others’ time and capacity
+* Be mindful of others’ time and capacity
 * Give and accept constructive feedback
 * Speak and act from our own experience
-* Are aware of cultural and linguistic differences
+* Be aware of cultural and linguistic differences
 
 We do not engage in [hate and discrimination](community-guidelines.md#hate-and-discrimination), [bullying and harassment](community-guidelines.md#docs-internal-guid-21306fd1-7fff-7d1c-bbc8-b2e8c9535856), or [disruption of other community participants](community-guidelines.md#disrupting-the-experience-of-others). As a community, we will do our best to proactively counteract inequality and abuses of power wherever we encounter them.&#x20;
 
