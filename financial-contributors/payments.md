@@ -80,7 +80,7 @@ If you have set up a repeating payment to a Collective, such as a monthly contri
 
 ### Change the amount or payment method for an existing contribution
 
-Open the dropdown menu and click on **Manage Contributions**.
+Open the dropdown menu next to your profile avatar and click on **Manage Contributions.**
 
 ![](<../.gitbook/assets/image (31).png>)
 
