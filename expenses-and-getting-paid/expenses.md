@@ -4,7 +4,7 @@
 
 Go to the Collective and click "Submit Expense". You will need to upload a valid receipt or provide invoicing details and input your PayPal address or bank account.
 
-[More details](submitting-expenses.md)
+[More details](submitting-expenses/)
 
 ### How are expenses approved?
 

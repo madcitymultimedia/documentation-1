@@ -1,6 +1,6 @@
 # Money going out: Expenses
 
-To spend money from your Collective balance, the payee needs to [submit an expense](../../expenses-and-getting-paid/submitting-expenses.md).&#x20;
+To spend money from your Collective balance, the payee needs to [submit an expense](../../expenses-and-getting-paid/submitting-expenses/).&#x20;
 
 To see all expenses for your Collective, click 'Expenses' under the 'Budget' menu.&#x20;
 

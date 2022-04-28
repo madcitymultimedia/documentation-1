@@ -4,7 +4,7 @@ Before [changing hosts](../add-fiscal-host.md#changing-fiscal-host) or [closing 
 
 You can move money out of your Collective in several ways:
 
-* [Submitting expenses](../../expenses-and-getting-paid/submitting-expenses.md) to withdraw funds.
+* [Submitting expenses](../../expenses-and-getting-paid/submitting-expenses/) to withdraw funds.
 * [Donating to another Collective](../../financial-contributors/collective-to-collective.md) in the same fiscal host.
 * Giving the remaining balance to your Fiscal Host. You can access that option by visiting your Collective's page, clicking on the gear icon next to your logo, and heading to the **Advanced** page.
 

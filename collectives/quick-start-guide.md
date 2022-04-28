@@ -22,7 +22,7 @@ Check the many ways you can export your data on [Data Export](collective-setting
 
 ### 4. Start tracking expenses
 
-[Submit expenses](../expenses-and-getting-paid/submitting-expenses.md) through your Collective, so others can see where money will be spent (even if you don't have any yet). This builds trust with potential supporters.
+[Submit expenses](../expenses-and-getting-paid/submitting-expenses/) through your Collective, so others can see where money will be spent (even if you don't have any yet). This builds trust with potential supporters.
 
 ### 5. Spread the word
 

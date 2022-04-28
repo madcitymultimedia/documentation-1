@@ -2,11 +2,11 @@
 
 Go to the Collective you're submitting the expense to and click "Submit Expense".
 
-![](../.gitbook/assets/expenses\_submitting\_expenses\_2021-05-31.png)
+![](../../.gitbook/assets/expenses\_submitting\_expenses\_2021-05-31.png)
 
 On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page, you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
 
-![Expense submission page](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_typical-page-scheme\_2020-05-11.png)
+![Expense submission page](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_typical-page-scheme\_2020-05-11.png)
 
 ### Payee information
 
@@ -16,7 +16,7 @@ If you are invoicing through a company, create an organization profile for your 
 
 Additionally, the invoice form will ask for your country, physical address, and give you the option to add more info.
 
-![Additional info requested by the invoice form](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-additional-info\_2020-05-12.png)
+![Additional info requested by the invoice form](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-additional-info\_2020-05-12.png)
 
 The availability of certain options depends on which plan the organization adopts, and may include **PayPal**, **wire transfers**, or a **custom method**.
 
@@ -45,7 +45,7 @@ In order to be paid, submitted expenses must be approved by a Collective admin, 
 
 A **reimbursement** allows you to be reimbursed for a purchase you already made. To open the submission form, click on **Reimbursement** and add a title to your expense.
 
-![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-form\_2020-05-11.gif)
+![](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-form\_2020-05-11.gif)
 
 #### Adding receipts
 
@@ -59,7 +59,7 @@ A **valid receipt** contains:
 4. Amount paid &#x20;
 5. Form of payment (cash, check, or last four digits of the credit card)
 
-![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-receipt\_2020-05-11.png)
+![](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_reimbursement-receipt\_2020-05-11.png)
 
 ### Invoices
 
@@ -71,7 +71,7 @@ An **invoice** allows you to be paid for your work, or to get funds in advance o
 
 To open the submission form, click on **Invoice** and add a title to your expense.
 
-![](../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-form\_2020-05-12.gif)
+![](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-form\_2020-05-12.gif)
 
 If you have an invoice ready, you can upload it as an attachment to the expense. However, you are still required to set invoice details such as description, date and amount.
 
@@ -93,7 +93,7 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 In the _**Expense Summary**_, you can also enable recurrency for your Expense, which will submit the filled expense and automatically create a draft of the same expense after the selected _**Frequency**_.
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (48).png>)
 
 Recurring expenses work by automatically creating a new Expense draft and sending it to the author of the expense at the turn of the selected frequency. A draft notification is sent to the author, which can then review, edit and submit another expense.
 
@@ -103,11 +103,11 @@ It is also possible to set an _**End Date**_ for this recurring expense, which c
 
 While editing a new draft, you'll also see a banner displaying information about the recurring nature of the expense:
 
-![](<../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 You can also cancel any recurring expense, just click on _**Edit details**_ in the recurring expense information banner and later, click on the _**Cancel Recurring Expense**_ button. Done, this draft is now deleted and you'll no longer receive recurring drafts about this expense.
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49).png>)
 
 ### Multi-Currency Expenses
 
@@ -138,13 +138,13 @@ Inviting a third-party user or organization to submit an expense automatically c
 
 Notice, although the invited user will pick who's going to be paid for the expense, the created expense will display you as the user who requested it:
 
-![Jean-François requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](<../.gitbook/assets/image (41).png>)
+![Jean-François requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](<../../.gitbook/assets/image (41).png>)
 
 ### Inviting an existing user
 
 To invite an existing user, search for an existing user in the payee selection dropdown. After selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
 
-![](../.gitbook/assets/deepin-screen-recorder\_select-area\_20201116162535.gif)
+![](../../.gitbook/assets/deepin-screen-recorder\_select-area\_20201116162535.gif)
 
 The invited user will receive a notification by email containing a link with a key that will allow them to finish editing and submit the expense.
 
@@ -154,15 +154,15 @@ It is also possible to invite a user that does not have an account on the platfo
 
 
 
-![](../.gitbook/assets/Expenses\_SubmittingExpenses\_Invitingnewuser\_2022-05-28.png)
+![](../../.gitbook/assets/Expenses\_SubmittingExpenses\_Invitingnewuser\_2022-05-28.png)
 
 Select either Personal Account or Organization Account (this will result in an Organisation profile in which that individual is the admin). Fill in their name and email address and Organisational information.&#x20;
 
-![](../.gitbook/assets/Expenses\_Submittingexpenses\_Personalorganisation\_2022-05-28.gif)
+![](../../.gitbook/assets/Expenses\_Submittingexpenses\_Personalorganisation\_2022-05-28.gif)
 
 Click next to get to the invoice details screen. You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
 
-![](../.gitbook/assets/Expenses\_Submittingexpenses\_invoicedetails\_2022-05-28.png)
+![](../../.gitbook/assets/Expenses\_Submittingexpenses\_invoicedetails\_2022-05-28.png)
 
 Click Send Invite.&#x20;
 
@@ -170,10 +170,10 @@ The payee will get an email saying "'Collective' wants to pay you" and they will
 
 When the payee finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action.&#x20;
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the payee validates their email. After the payee validates their email, the expense is marked as pending and is displayed on the expenses page for the Collective's admins to approve (and you will get an email notification).&#x20;
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 Once the expense is there on the list, click "approve" on it

@@ -33,9 +33,9 @@ For more details about how to spend money, see our documentation about [expenses
 
 ## How do I pay people?
 
-Money contributed to a Collective goes to the bank account of the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses.md) through your Collective page. After you approve it, the person is reimbursed via PayPal.
+Money contributed to a Collective goes to the bank account of the [Fiscal Host](../fiscal-hosts/fiscal-hosts.md). When someone wants to be paid, they [submit an expense](../expenses-and-getting-paid/submitting-expenses/) through your Collective page. After you approve it, the person is reimbursed via PayPal.
 
-Expenses are visible publicly, so everyone can see how much money was spent and on what \(though private details like emails, names, and addresses are only visible to that user and the admins\).
+Expenses are visible publicly, so everyone can see how much money was spent and on what (though private details like emails, names, and addresses are only visible to that user and the admins).
 
 ## How much does it cost?
 
@@ -44,4 +44,3 @@ See details about [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) and [pricing](
 ## How can I pause or stop accepting contributions?
 
 Remove all tiers and turn off flexible contributions.
-
