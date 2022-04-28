@@ -166,13 +166,13 @@ Click next to get to the invoice details screen. You are now able to _add additi
 
 Click Send Invite.&#x20;
 
-The invited user will get an email saying "'Collective' wants to pay you" and they will be guided to put in their bank details and confirm the expense
+The payee will get an email saying "'Collective' wants to pay you" and they will be guided to put in their bank details and confirm the expense
 
-When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action.&#x20;
+When the payee finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action.&#x20;
 
 ![](<../.gitbook/assets/image (42).png>)
 
-After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed on the expenses page for the Collective's admins to approve (and you will get an email notification).&#x20;
+After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the payee validates their email. After the payee validates their email, the expense is marked as pending and is displayed on the expenses page for the Collective's admins to approve (and you will get an email notification).&#x20;
 
 ![](<../.gitbook/assets/image (40).png>)
 
