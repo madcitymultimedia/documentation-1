@@ -150,21 +150,30 @@ The invited user will receive a notification by email containing a link with a k
 
 ### Inviting a new user
 
-It is also possible to invite a user that does not have an account on the platform to submit an expense. To do that, simply select the option _Invite someone to submit an expense,_ and inform their name and email:
+It is also possible to invite a user that does not have an account on the platform to submit an expense. To do that, simply select the option _Invite someone to submit an expense._
 
-![](../.gitbook/assets/expensesandgettingpaid\_submittingexpenses\_invitingnewuser\_2021\_4\_8.gif)
 
-You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
 
-![](../.gitbook/assets/expensesandgettingpaid\_submittingexpenses\_addingadditionalinformation\_2021\_4\_20.gif)
+![](../.gitbook/assets/Expenses\_SubmittingExpenses\_Invitingnewuser\_2022-05-28.png)
 
-If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense.
+Select either Personal Account or Organization Account (this will result in an Organisation profile in which that individual is the admin). Fill in their name and email address and Organisational information.&#x20;
 
-When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action:
+![](../.gitbook/assets/Expenses\_Submittingexpenses\_Personalorganisation\_2022-05-28.gif)
+
+Click next to get to the invoice details screen. You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
+
+![](../.gitbook/assets/Expenses\_Submittingexpenses\_invoicedetails\_2022-05-28.png)
+
+Click Send Invite.&#x20;
+
+The invited user will get an email saying "'Collective' wants to pay you" and they will be guided to put in their bank details and confirm the expense
+
+When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action.&#x20;
 
 ![](<../.gitbook/assets/image (42).png>)
 
-After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
+After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed on the expenses page for the Collective's admins to approve (and you will get an email notification).&#x20;
 
 ![](<../.gitbook/assets/image (40).png>)
 
+Once the expense is there on the list, click "approve" on it
