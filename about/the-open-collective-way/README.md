@@ -24,7 +24,7 @@ Suggested guidelines for our core contributors to be aware of to ensure optimal 
 
 How our core team communicates.&#x20;
 
-## [Core Contributors: Expenses, Leave and Compensation](core-contributors-expenses.md)&#x20;
 
-Details surrounding what expenses Open Collective covers, leave guidelines and how we get compensated.&#x20;
+
+
 
