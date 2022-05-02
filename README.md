@@ -24,7 +24,7 @@ This is the place to find all help and documentation related to Open Collective.
 
 [I have a group without a legal entity or a bank account, but we need somewhere to put our money ](collectives/add-fiscal-host.md)
 
-[I am a code contributor](broken-reference)
+[I am a code contributor](contributing/development/)
 
 ### Using our search bar
 
