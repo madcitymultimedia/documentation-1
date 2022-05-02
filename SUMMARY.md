@@ -13,8 +13,6 @@
 * [The Open Collective Way](about/the-open-collective-way/README.md)
   * [Mission and Values](about/the-open-collective-way/mission-and-values.md)
   * [Community Guidelines](about/the-open-collective-way/community-guidelines.md)
-  * [Core Contributors Guidelines](about/the-open-collective-way/core-contributors-guidelines.md)
-  * [Core Contributors: Communication](about/the-open-collective-way/core-contributors-communication.md)
 * [Hiring](about/hiring.md)
 * [Investors](about/investors.md)
 * [Contributing](about/contributing.md)
