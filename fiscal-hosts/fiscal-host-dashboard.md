@@ -4,11 +4,13 @@
 
 ## How do I get to the Host Dashboard?
 
-Click the **Dashboard** button on your host page, while logged in as host admin. This button is nested inside the **Actions** menu.
+Click the **Admin** button on your host page, while logged in as host admin.&#x20;
 
-![Dashboard Button on Organization Page](../.gitbook/assets/fiscal\_host\_fiscal\_host\_dashboard\_dashboard\_2021-04-27.gif)
+![](../.gitbook/assets/fiscalhosts\_dashboard\_accessing\_2022-05-2.gif)
 
 ## What can I do on the host dashboard?
+
+![](../.gitbook/assets/fiscalhost\_dashboard\_sections\_2022-05-2.png)
 
 ### Expenses
 
@@ -98,3 +100,9 @@ To add a custom fee to a specific Collective, either find them listed on the pag
 ![](../.gitbook/assets/fiscal-host\_fiscal-host-dashboard\_custom-fees\_2020-08-12.gif)
 
 You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
+
+### Reports (Beta)
+
+This section is still in beta and provides summaries of your Total Money Managed, Total amount of host fees collected, Contributions and Expenses graphs. Filter by Date, collective and generate a CSV report.
+
+![](../.gitbook/assets/fiscalhosts\_dashboard\_reports\_2022-05-2.png)
