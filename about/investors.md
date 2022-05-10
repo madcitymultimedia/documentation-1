@@ -4,7 +4,7 @@ description: Information surrounding our funding and investors
 
 # Investors
 
-We did a first pre-seed round of $500k in October 2015 ([deck](https://www.dropbox.com/s/klwxkewuf9mnjy1/OpenCollective.pdf?dl=0), [SAFE](https://www.ycombinator.com/docs/SAFE\_Cap.rtf), $5M cap) with:
+We did a first pre-seed round of $500k in October 2015 ([deck](https://drive.google.com/file/d/1KI3njon0gK5-dLuUya\_r9lHOi7jOlfLS/view?usp=sharing), [SAFE](https://www.ycombinator.com/docs/SAFE\_Cap.rtf), $5M cap) with:
 
 * $250k [General Catalyst](http://generalcatalyst.com) (SF/NYC/Boston, [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja))&#x20;
 * $50k [Jonathan Siegel](https://www.linkedin.com/in/jsiegel) (can't pin down his location)
