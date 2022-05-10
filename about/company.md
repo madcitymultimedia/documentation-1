@@ -31,5 +31,5 @@ We try to be very transparent about our own finances. We raised a total of $2,81
 
 ### Internal Documentation&#x20;
 
-Here is a link to our [internal documentation](https://www.docs-internal.opencollective.com).
+Here is a link to our [internal documentation](https://docs-internal.opencollective.com).
 
