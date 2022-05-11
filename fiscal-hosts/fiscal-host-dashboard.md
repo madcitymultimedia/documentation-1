@@ -119,15 +119,7 @@ To enable grants tick the enable grants tickbox. You can also set this to be ena
 
 #### **Custom Fee**
 
-To add a custom fee to a specific Collective, once you find the right Collective, click on the **Fee structure** button (the one with a set of lines).
-
-![](../.gitbook/assets/fiscal-host\_fiscal-host-dashboard\_custom-fees\_2020-08-12.gif)
-
-You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
-
-****
-
-****
+You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective.&#x20;
 
 ### Reports (Beta)
 
