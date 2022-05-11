@@ -91,15 +91,43 @@ This section on the dashboard shows all of your current pending applications to 
 
 ### Manage hosted Collectives and set custom fees
 
-You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu, you can sort them by the period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
+You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab.&#x20;
+
+#### **Search**&#x20;
+
+Either find the collective listed on the page or look for them by name via the search bar.&#x20;
+
+#### **Filters**&#x20;
+
+Using the filters at the top of the page, you can sort them by the period of time you've hosted them - most recent and oldest. You can also filter them by fee structure: by **global host fee** or **custom fee**.
 
 ![](../.gitbook/assets/fiscal-host\_fiscal-host-dashboard\_manage\_collectives\_2020-08-12.png)
 
-To add a custom fee to a specific Collective, either find them listed on the page or look for them by name on the search bar. Once you find the right Collective, click on the **Fee structure** button (the one with a set of lines).
+### **Account Settings** &#x20;
+
+1. Click on the settings button. Pictured below.&#x20;
+
+![](../.gitbook/assets/Fiscalhosts\_Dashboard\_accountsettings\_2022-05-11.png)
+
+#### **2.** This opens the Collective Settings panel
+
+![](../.gitbook/assets/fiscalhost\_dashboard\_collexctivesettings\_2022-05-11.png)
+
+#### **Enabling Grants**&#x20;
+
+To enable grants tick the enable grants tickbox. You can also set this to be enabled by default.&#x20;
+
+#### **Custom Fee**
+
+To add a custom fee to a specific Collective, once you find the right Collective, click on the **Fee structure** button (the one with a set of lines).
 
 ![](../.gitbook/assets/fiscal-host\_fiscal-host-dashboard\_custom-fees\_2020-08-12.gif)
 
 You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
+
+****
+
+****
 
 ### Reports (Beta)
 

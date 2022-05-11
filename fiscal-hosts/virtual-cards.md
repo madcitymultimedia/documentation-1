@@ -4,9 +4,9 @@
 **This feature is currently in closed Beta test.**
 {% endhint %}
 
-Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider [Privacy.com](https://privacy.com) and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website.
+Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider [Stripe.com](https://www.stripe.com) and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website.
 
-## Connecting to Privacy
+## Connecting to Stripe
 
 * Get the API Key from your Privacy.com account:
   * Open a new tab and go to your [Privacy account settings](https://privacy.com/account).

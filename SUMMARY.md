@@ -93,7 +93,7 @@
 * [Creating a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings/README.md)
   * [Add more info](fiscal-hosts/fiscal-host-settings/add-more-info.md)
-  * [Customize page sections](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
+  * [Customize Profile Page](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
   * [Connect external accounts](fiscal-hosts/fiscal-host-settings/connected-accounts.md)
   * [Manage updates](fiscal-hosts/fiscal-host-settings/manage-updates.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
