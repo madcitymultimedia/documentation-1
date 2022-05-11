@@ -23,8 +23,18 @@ Nothing! Changing hosts will not affect your existing recurring financial contri
 ## What is the process for changing fiscal hosts?
 
 {% hint style="warning" %}
-Before starting the process to change Fiscal Hosts, get in touch with your new Fiscal Host to confirm they are ready to approve your request to join them.
+Before starting the process of changing Fiscal Hosts, get in touch with your new Fiscal Host to confirm they are ready to approve your request to join them.
 {% endhint %}
+
+Your fiscal host determines whose bank account your money sits in. To change hosts, you need to take all the funds out of the old bank account. You have two options to zero your collective balance. You can either send the funds directly to the new host or manually zero your collective balance.&#x20;
+
+**Sending funds directly to the new host**
+
+The **** new host should file an expense for the collective to withdraw the funds into their holding account, the new host can then allocate the funds using [add funds](../fiscal-hosts/add-funds-manually.md).&#x20;
+
+
+
+**Zeroing your collective balance**&#x20;
 
 **1.** [Zero the balance](collective-settings/zero-collective-balance.md) of your Collective
 
@@ -42,13 +52,7 @@ Before starting the process to change Fiscal Hosts, get in touch with your new F
 You are done! Your Collective will be live in the new host right away.
 {% endhint %}
 
-## Why do I have to zero my Collective balance?
-
-Your fiscal host determines whose bank account your money sits in. To change hosts, you need to take all the funds out of the old bank account.
-
-Sometimes it's possible to arrange for the old host to send funds directly to the new host. This involves complicated administrative juggling, so zeroing your balance is often easier.
-
-## What if I want to move to a different platform instance?
+## What if I want to move to a different platform instead?
 
 Open Collective is open source, so it's technically possible to fork the codebase and set it up on your own servers. This means you would no longer use opencollective.com and would be on your own website.
 
