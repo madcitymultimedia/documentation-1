@@ -2,6 +2,12 @@
 
 Virtual cards are an additional benefit offered to collectives through hosts. Hosts create virtual cards and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. This is particularly useful for covering recurring costs like hosting a website.
 
+Hosts will have particular requirements and policies that will need to be followed.&#x20;
+
+[OCF requirements and policies ](https://docs.opencollective.foundation/what-we-offer/virtual-cards-policy)
+
+[OSC requirements and policies ](https://docs.oscollective.org/getting-started/expenses/virtual-cards)
+
 ## Requesting a card
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
@@ -27,7 +33,7 @@ In most cases, cards charged using your personal details will be accepted. If yo
 * [Open Source Collective's information](https://docs.oscollective.org/about/official-info-and-docs#address-and-contact-info)
 * [OCF Open Collective Foundation's information](https://docs.opencollective.foundation/how-it-works/policies/virtual-cards-policy#requirements-policy)
 
-## Viewing card Open Source Collective details
+## Viewing card details
 
 To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu:
 
