@@ -89,7 +89,7 @@ This section on the dashboard shows all of your current pending applications to 
 
 ![](<../.gitbook/assets/image (44).png>)
 
-### Manage hosted Collectives and set custom fees
+### Manage hosted Collectives, Enable grants and set custom fees
 
 You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab.&#x20;
 
@@ -115,7 +115,7 @@ Using the filters at the top of the page, you can sort them by the period of tim
 
 #### **Enabling Grants**&#x20;
 
-To enable grants tick the enable grants tickbox. You can also set this to be enabled by default.&#x20;
+To enable grants, tick the 'Enable grants' tickbox. Grants are enabled by default for most fiscal hosts.&#x20;
 
 #### **Custom Fee**
 
