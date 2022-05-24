@@ -50,15 +50,15 @@ Custom Date selection&#x20;
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
 * **Approved:** Core Contributor has confirmed this expense is good to payout
-* **Rejected:**&#x20;
+* **Rejected:** Core Contributor has rejected this expense
 * **Processing:** expense was paid and it is being processed by the payment provider
-* **Error:**&#x20;
+* **Error:** expense has been processed but an error occurred during pay out
 * **Paid:** past expenses already complete
 * **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
 * **SPAM:**&#x20;
 * **Completed:**&#x20;
-* **Refunded:**&#x20;
-* **Incomplete:**&#x20;
+* **Refunded:** expense has been paid and then refunded&#x20;
+* **Incomplete:** Marks the expense as incomplete if there are important details missing. This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention. After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
 * **Ready to Pay**&#x20;
 
 #### **Order**&#x20;
