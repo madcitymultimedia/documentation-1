@@ -2,7 +2,47 @@
 
 ![](<../../.gitbook/assets/Fiscal Host\_dashboard\_Expenses\_2022-05-24.png>)
 
-**Filter**
+### **Filter**&#x20;
+
+#### **Type**&#x20;
+
+* All expenses&#x20;
+* Charge&#x20;
+* Invoice&#x20;
+* Receipt&#x20;
+* Grant&#x20;
+* Settlement&#x20;
+* Unclassified&#x20;
+
+#### **Payout**&#x20;
+
+* All methods&#x20;
+* Open Collective&#x20;
+* Bank Transfer&#x20;
+* PayPal&#x20;
+* Virtual Card&#x20;
+* Other&#x20;
+
+#### Period&#x20;
+
+* All time&#x20;
+* Today&#x20;
+* This Month&#x20;
+* Past Week&#x20;
+* Past Month&#x20;
+* Past Year&#x20;
+
+Custom Date selection&#x20;
+
+* Timezone - Local or UTC - By default, all dates are filtered and displayed using your local timezone. You can switch to UTC to indicate that the dates provided above use the Coordinated Universal Time format, which matches how email reports are generated.&#x20;
+* Start Date&#x20;
+* End Date&#x20;
+
+#### Amount&#x20;
+
+
+
+#### Status&#x20;
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
 * **Approved:** Core Contributor has confirmed this expense is good to payout

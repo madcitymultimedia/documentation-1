@@ -102,6 +102,10 @@
   * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard/README.md)
   * [Expenses](fiscal-hosts/fiscal-host-dashboard/expenses.md)
+  * [Financial contributions](fiscal-hosts/fiscal-host-dashboard/financial-contributions.md)
+  * [Pending applications](fiscal-hosts/fiscal-host-dashboard/pending-applications.md)
+  * [Hosted Collectives](fiscal-hosts/fiscal-host-dashboard/hosted-collectives.md)
+  * [Reports (Beta)](fiscal-hosts/fiscal-host-dashboard/reports-beta.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
 * [Virtual Card Settings](fiscal-hosts/virtual-cards.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
@@ -152,7 +156,3 @@
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
-
-***
-
-* [Page 1](page-1.md)
