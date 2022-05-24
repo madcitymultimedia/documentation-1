@@ -48,16 +48,15 @@ Custom Date selection&#x20;
 
 #### Status&#x20;
 
-* **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
-* **Approved:** Core Contributor has confirmed this expense is good to payout
-* **Rejected:** Core Contributor has rejected this expense
-* **Processing:** expense was paid and it is being processed by the payment provider
-* **Error:** expense has been processed but an error occurred during pay out
-* **Paid:** past expenses already complete
-* **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
-* **SPAM:**&#x20;
+* **Pending:** **** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+* **Approved:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
+* **Rejected:** Collective admin rejected the expense. This is a possible final state for the Expense.
+* **Processing:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
+* **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
+* **Paid:** Expense was sucessfully paid. This is the final state for the expense.
+* **SPAM:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense
 * **Completed:**&#x20;
-* **Refunded:** expense has been paid and then refunded&#x20;
+* **Refunded:** Expense has been paid and then refunded&#x20;
 * **Incomplete:** Marks the expense as incomplete if there are important details missing. This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention. After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
 * **Ready to Pay**&#x20;
 

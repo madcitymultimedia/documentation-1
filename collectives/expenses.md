@@ -4,16 +4,16 @@
 
 The expense status is a single label that will change throughout the Expense flow and indicates what is going on with the expense.
 
-* **DRAFT:** Expense is a Draft sent for someone else to complete. After 30 days, the draft will expire.
-* **UNVERIFIED:** The user submitted an Expense Draft and now we're waiting for the user to verify their email in order to move it to "PENDING".
-* **PENDING:** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
-* **APPROVED:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
-* **REJECTED:** Collective admin rejected the expense. This is a possible final state for the Expense.
-* **PROCESSING:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
-* **ERROR:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
-* **PAID:** Expense was sucessfully paid. This is the final state for the expense.
-* **SCHEDULED\_FOR\_PAYMENT:** Expense was scheduled for payment and will be paid in a batch of expenses. After being paid, the expense will be marked as "PROCESSING".
-* **SPAM:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
+* **Draft:** Expense is a Draft sent for someone else to complete. After 30 days, the draft will expire.
+* **Unverified:** The user submitted an Expense Draft and now we're waiting for the user to verify their email in order to move it to "PENDING".
+* **Pending:** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+* **Approved:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
+* **Rejected:** Collective admin rejected the expense. This is a possible final state for the Expense.
+* **Scheduled for Payment:** Expense was scheduled for payment and will be paid in a batch of expenses. After being paid, the expense will be marked as "PROCESSING".
+* **Processing:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
+* **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
+* **Paid:** Expense was sucessfully paid. This is the final state for the expense.
+* **Spam:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
 
 ## FAQ
 
