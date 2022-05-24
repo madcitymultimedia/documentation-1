@@ -40,17 +40,35 @@ Custom Date selection&#x20;
 
 #### Amount&#x20;
 
-
+* All&#x20;
+* $0 - $50&#x20;
+* $50 - $500
+* $500 - $5,000
+* $5,000 and above&#x20;
 
 #### Status&#x20;
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
 * **Approved:** Core Contributor has confirmed this expense is good to payout
-* **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
+* **Rejected:**&#x20;
 * **Processing:** expense was paid and it is being processed by the payment provider
+* **Error:**&#x20;
 * **Paid:** past expenses already complete
+* **Scheduled for Payment:** Host admin approved and the expense is being batched for payment
+* **SPAM:**&#x20;
+* **Completed:**&#x20;
+* **Refunded:**&#x20;
+* **Incomplete:**&#x20;
+* **Ready to Pay**&#x20;
+
+#### **Order**&#x20;
+
+* Newest First&#x20;
+* Oldest First&#x20;
 
 #### Go to Pay
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24 (1).png>)
 
 Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the pay expense modal will be displayed and you'll be able to pay for the expense using a suitable method.
 

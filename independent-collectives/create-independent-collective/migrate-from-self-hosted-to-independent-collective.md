@@ -4,7 +4,7 @@ Sometimes people set up as a [Fiscal Host](broken-reference) with only one Colle
 
 ### Why migrate to be an IC?
 
-A Fiscal Host with a single Collective can be perfectly functional, but the [Host Dashboard](../../fiscal-hosts/fiscal-host-dashboard/) is designed for managing multiple Collectives, while the Independent Collective admin panel is much more streamlined. It also presents a simpler picture to your contributors and community to only have one integrated Collective profile page.
+A Fiscal Host with a single Collective can be perfectly functional, but the [Host Dashboard](../../fiscal-hosts/fiscal-host-dashboard.md) is designed for managing multiple Collectives, while the Independent Collective admin panel is much more streamlined. It also presents a simpler picture to your contributors and community to only have one integrated Collective profile page.
 
 ### When should I not migrate?
 

@@ -100,7 +100,7 @@
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)
   * [Payouts with Wise](fiscal-hosts/payouts/payouts-with-transferwise.md)
   * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
-* [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard/README.md)
+* [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
   * [Expenses](fiscal-hosts/fiscal-host-dashboard/expenses.md)
   * [Financial contributions](fiscal-hosts/fiscal-host-dashboard/financial-contributions.md)
   * [Pending applications](fiscal-hosts/fiscal-host-dashboard/pending-applications.md)
