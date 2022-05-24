@@ -76,8 +76,8 @@ Custom Date selection&#x20;
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_spam\_2022-05.png>)
 
-* **Completed:**&#x20;
-* **Refunded:** Expense has been paid and then refunded&#x20;
+
+
 * **Incomplete:** Marks the expense as incomplete if there are important details missing.&#x20;
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
