@@ -90,14 +90,14 @@ This action allows a comment to be added to the Expense activity logs and also e
 
 After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
 
-* **Ready to Pay**&#x20;
+* **Ready to Pay -** Reference the [Go to Pay](expenses.md#go-to-pay) section below.&#x20;
 
 #### **Order**&#x20;
 
 * Newest First&#x20;
 * Oldest First&#x20;
 
-#### Go to Pay
+### Go to Pay
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24 (1).png>)
 
