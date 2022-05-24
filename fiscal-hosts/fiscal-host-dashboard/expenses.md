@@ -49,15 +49,41 @@ Custom Date selection&#x20;
 #### Status&#x20;
 
 * **Pending:** **** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_pending\_2022-05-24.png>)
+
 * **Approved:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_approved\_2022-05-24 (1).png>)
+
 * **Rejected:** Collective admin rejected the expense. This is a possible final state for the Expense.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_rejected\_2022-05-24.png>)
+
 * **Processing:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_processing\_2022-05-24.png>)
+
 * **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_error\_2022-05.png>)
+
 * **Paid:** Expense was sucessfully paid. This is the final state for the expense.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_paid\_2022-05-24.png>)
+
 * **SPAM:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_spam\_2022-05.png>)
+
 * **Completed:**&#x20;
 * **Refunded:** Expense has been paid and then refunded&#x20;
 * **Incomplete:** Marks the expense as incomplete if there are important details missing. This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention. After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24.png>)
+
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24.png>)
+
 * **Ready to Pay**&#x20;
 
 #### **Order**&#x20;
