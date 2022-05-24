@@ -78,11 +78,17 @@ Custom Date selection&#x20;
 
 * **Completed:**&#x20;
 * **Refunded:** Expense has been paid and then refunded&#x20;
-* **Incomplete:** Marks the expense as incomplete if there are important details missing. This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention. After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
+* **Incomplete:** Marks the expense as incomplete if there are important details missing.&#x20;
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24.png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24.png>)
+
+This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention.&#x20;
+
+![](<../../.gitbook/assets/Fiscal Host\_dashboard\_markanincompletecomment\_2022-05-24.png>)
+
+After the user edits the expense, the expense is moved back to its previous state unless the amount is also changed, which will set the expense as Pending so the collective admin can reevaluate it.
 
 * **Ready to Pay**&#x20;
 
