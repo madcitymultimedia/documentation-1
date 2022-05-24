@@ -51,9 +51,9 @@ Hosts have complete control over when, how, and to who they provide Virtual Card
 
 ## Creating and assigning cards
 
-Virtual Cards are created using our provider [Privacy.com](https://privacy.com). To create a card on [Privacy.com](https://privacy.com) register and follow the details [here](https://privacy.com/virtual-card).
+Virtual Cards are created using our provider [Privacy.com](https://privacy.com/). To create a card on [Privacy.com](https://privacy.com/) register and follow the details [here](https://privacy.com/virtual-card).
 
-Once you have created a card on [Privacy.com](https://privacy.com) you can assign it to a Collective:
+Once you have created a card on [Privacy.com](https://privacy.com/) you can assign it to a Collective:
 
 ![Assigning a Virtual Card](../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
 

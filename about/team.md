@@ -101,7 +101,7 @@ Vancouver, British Columbia, Canada&#x20;
 Open Collective Foundation \
 New York, United States
 
-[Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com)
+[Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
 
 ## Advisors
 

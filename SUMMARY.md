@@ -100,7 +100,8 @@
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)
   * [Payouts with Wise](fiscal-hosts/payouts/payouts-with-transferwise.md)
   * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
-* [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
+* [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard/README.md)
+  * [Expenses](fiscal-hosts/fiscal-host-dashboard/expenses.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
 * [Virtual Card Settings](fiscal-hosts/virtual-cards.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
@@ -151,3 +152,7 @@
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
+
+***
+
+* [Page 1](page-1.md)

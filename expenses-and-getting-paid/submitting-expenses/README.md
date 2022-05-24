@@ -126,5 +126,5 @@ This feature enables you to submit your expense in your preferred currency, a cu
 #### How do we calculate our Exchange Rate?&#x20;
 
 * We rely on the payout provider (Wise, PayPal) whenever possible
-* Otherwise we fall back on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io)
+* Otherwise we fall back on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io/)
 

@@ -10,8 +10,8 @@ Then, select the category that best describes your Collective.
 
 !['Create a Collective' page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives\_creatingacollective\_createacollective\_2021-07-5.png)
 
-If you are not creating an [open-source Collective,](https://www.oscollective.org) you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities.&#x20;
+If you are not creating an [open-source Collective,](https://www.oscollective.org/) you will be immediately directed to a Collective creation form, where you will be asked for your **Collective name**, **URL slug** of choice, and a **brief description** of your Collective's activities.&#x20;
 
 ![](../.gitbook/assets/collectives\_creating-a-collective\_form\_2020-03-23.png)
 
-If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org) fiscal host. [More info about that here](osc-verification/).
+If you are creating a Collective for an **open-source project**, you will be directed to a verification process to join the [Open Source Collective](https://www.oscollective.org/) fiscal host. [More info about that here](osc-verification/).

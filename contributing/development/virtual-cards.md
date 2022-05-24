@@ -10,7 +10,7 @@ This documentation is about development. To setup a production environment, see 
 
 ## Setup privacy in development
 
-1. Create an account on [https://privacy.com](https://privacy.com)
+1. Create an account on [https://privacy.com](https://privacy.com/)
 2. Go to [https://privacy.com/account](https://privacy.com/account), scroll down to "Enable API", toggle the switch, click on Sandbox and copy the Sandbox API key (**NOT THE PRODUCTION ONE**)
 
 ![](<../../.gitbook/assets/image (16) (2).png>)

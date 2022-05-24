@@ -67,8 +67,8 @@ Want to get paid for contributing code? Check out our [bounty program](../contri
 **General guidelines**
 
 * The strings must be internationalized. See [/help/developers/translations](https://docs.opencollective.com/help/developers/translations)
-* Whenever it's possible we must use `styled-components` to write styles. See [OC Styleguide](https://styleguide.opencollective.com)
-* Icons must be imported from the [styled-icons](http://styled-icons.js.org) library.
+* Whenever it's possible we must use `styled-components` to write styles. See [OC Styleguide](https://styleguide.opencollective.com/)
+* Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
 
 ### Code review process

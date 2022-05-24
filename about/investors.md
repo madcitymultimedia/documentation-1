@@ -21,7 +21,7 @@ We did a first pre-seed round of $500k in October 2015 ([deck](https://drive.goo
 
 We did a follow-up round of $315k in July 2016 ([SAFE](https://www.ycombinator.com/docs/SAFE\_Cap.rtf), $8M cap) with:
 
-* $100k [Ricardo Gorodisch](https://www.linkedin.com/in/ricardo-gorodisch-9b057889) (Argentina, President [Foundation Kaleidos](http://www.fundacionkaleidos.org))
+* $100k [Ricardo Gorodisch](https://www.linkedin.com/in/ricardo-gorodisch-9b057889) (Argentina, President [Foundation Kaleidos](http://www.fundacionkaleidos.org/))
 * $50k [Pete Koomen](https://www.linkedin.com/in/petekoomen) (SF, Cofounder/CTO [Optimizely](http://optimizely.com))
 * $25k [Jim Payne](https://www.linkedin.com/in/jpayne) (NYC, Cofounder MoPub, EIR Accel Partners)
 * $25k [Caesar Sengupta](https://www.linkedin.com/in/caesar-sengupta-2743b) (Bay Area, VP Product Management at Google)

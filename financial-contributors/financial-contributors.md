@@ -24,7 +24,7 @@ Join Alanna as she runs through the simplified and detailed contribution money f
 
 Check out the [Discover](https://opencollective.com/discover) page or do a search.
 
-You can also find open source dependencies using [Back Your Stack](https://backyourstack.com).
+You can also find open source dependencies using [Back Your Stack](https://backyourstack.com/).
 
 ## What payment methods can I use?
 

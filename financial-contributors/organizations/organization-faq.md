@@ -38,7 +38,7 @@ Most Collectives are happy to discus alternative arrangements and hear sponsor f
 
 We offer tools to help you find Collectives that are providing value for your company.
 
-* [BackYourStack](https://backyourstack.com): discover your open source dependencies
+* [BackYourStack](https://backyourstack.com/): discover your open source dependencies
 * [Gift Cards](https://opencollective.com/gift-cards): let your developers, ambassadors, employees, or recruits determine which Collective to support&#x20;
 * [Discover](https://opencollective.com/discover): search for Collectives on the platform
 

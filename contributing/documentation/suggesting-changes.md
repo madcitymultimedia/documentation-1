@@ -27,11 +27,11 @@ They needed a _distributed version control system_.
 
 This page will cover interactions with our repository through **GitHub**, the platform on which we host our projects. This is the recommended process for those who aren't familiar with Git. If you are a more experienced contributor, feel free to adopt any other workflow you want, but remember to always take into account [GitBook's integration with GitHub](suggesting-changes.md#understanding-gitbooks-integration-with-github) when [modifying](suggesting-changes.md#editing-existing-pages) or [adding new files](suggesting-changes.md#adding-new-media), [sections, pages and subpages](suggesting-changes.md#adding-new-sections-pages-and-subpages).
 
-If you'd like to know more about Git and GitHub, we recommend Git's [official documentation](https://git-scm.com) and [tutorial](https://git-scm.com/docs/gittutorial) and [GitHub Guides](https://guides.github.com).
+If you'd like to know more about Git and GitHub, we recommend Git's [official documentation](https://git-scm.com/) and [tutorial](https://git-scm.com/docs/gittutorial) and [GitHub Guides](https://guides.github.com/).
 
 ## Understanding GitBook's integration with GitHub
 
-We use a platform called [GitBook](https://www.gitbook.com) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on [docs.opencollective.com](https://docs.opencollective.com). A generic structure of a documentation hosted on GitBook would look like this:
+We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on [docs.opencollective.com](https://docs.opencollective.com). A generic structure of a documentation hosted on GitBook would look like this:
 
 {% tabs %}
 {% tab title="Generic structure of a GitBook" %}
@@ -75,7 +75,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 * Groups of pages are controlled by folders named after the group title (i.e. `a-group-of-pages`).
 * Nested pages have a similar structure to groups of pages; however, a `README.md` file with the contents of the parent page must be added to the folder named after the parent page title.
 
-GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](https://styleguide.opencollective.com).
+GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](https://styleguide.opencollective.com/).
 
 ## Editing existing pages
 

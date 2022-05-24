@@ -112,7 +112,7 @@ All of these naming conventions are consistent along the other digital tools.
 
 .
 
-### [GitHub](https://github.com)
+### [GitHub](https://github.com/)
 
 Every task is linked with the OpenCollective team and the code repository through GitHub.
 
