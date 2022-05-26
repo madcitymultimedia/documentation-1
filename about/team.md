@@ -103,6 +103,13 @@ New York, United States
 
 [Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
 
+### Ronen Hirsch
+
+Product Manager, Open Source Collective \
+Mociu, Romania
+
+[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
+
 ## Advisors
 
 **Xavier Damman**
