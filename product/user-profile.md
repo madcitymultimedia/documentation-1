@@ -34,15 +34,15 @@ You can either choose any of the preset colors, add your own custom color or res
 
 ![](../.gitbook/assets/profile\_user\_profile\_choosing\_color\_2021-04-21.gif)
 
-### Other settings
+## User Settings
 
 ![](../.gitbook/assets/product\_user\_profile\_settings\_2021-04-21.png)
 
-To access other settings, click on the gear icon next to your profile image.
+To modify other profile information, click on the gear icon next to your profile image.
 
 ![](../.gitbook/assets/product\_user\_prodile\_settings\_page\_2021-04-21.png)
 
-Here you are able to edit basic info such as **Name**, **Company**, **Short description**, **URL slug**, and access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Webhooks, Two-factor authentication** and **Advanced**.
+Here you are able to edit basic info such as **Name**, **Legal Name,** **Company**, **Short description**, **URL slug**, and access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Webhooks, Two-factor authentication** and **Advanced**.
 
 ## Advanced settings
 
@@ -74,6 +74,12 @@ To archive your account, go to the **Archive this Account** section and click on
 
 ## Using Open Collective Anonymously
 
-You can sign up using a pseudonym. We understand that not everyone can or wants to show their real name on public Collective budgets.
+We understand that not everyone can or wants to show their real name on public Collective budgets.
 
-If you are getting paid through the platform, we will need some personally identifiable information. However, these documents (invoices and tax forms, for example) are not public and only admins will be able to see them.
+If you are getting paid through the platform, we will need some personally identifiable information. Including your legal name. We will also need some documents, invoices and tax forms, these documents are not availably to the public, only admins of Collectives you work withwill be able to see them.
+
+### Adding Your Legal Name
+
+Your legal name identifies you to admins of Collectives you work with, to Hosts of Collectives you work with and some staff at Open Collective Inc. the company that operates the Open Collective platform. \
+\
+You can add your legal name to your profile in your [User Settings](user-profile.md#other-settings)\
