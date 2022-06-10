@@ -96,6 +96,7 @@
   * [Customize Profile Page](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
   * [Connect external accounts](fiscal-hosts/fiscal-host-settings/connected-accounts.md)
   * [Manage updates](fiscal-hosts/fiscal-host-settings/manage-updates.md)
+  * [Policies](fiscal-hosts/fiscal-host-settings/policies.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)
   * [Payouts with Wise](fiscal-hosts/payouts/payouts-with-transferwise.md)

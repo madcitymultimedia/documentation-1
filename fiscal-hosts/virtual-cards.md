@@ -35,7 +35,7 @@ It is possible to create and assign virtual cards to Collectives without enablin
 
 Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking _**Request a card**_ from their profile page:
 
-![You can request a card from your collective's Actions menu.](<../.gitbook/assets/image (52).png>)
+![You can request a card from your collective's Actions menu.](<../.gitbook/assets/image (52) (1).png>)
 
 ### Automatically notify collectives about pending receipts
 

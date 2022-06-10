@@ -93,7 +93,7 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 In the _**Expense Summary**_, you can also enable recurrency for your Expense, which will submit the filled expense and automatically create a draft of the same expense after the selected _**Frequency**_.
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (48) (1).png>)
 
 Recurring expenses work by automatically creating a new Expense draft and sending it to the author of the expense at the turn of the selected frequency. A draft notification is sent to the author, which can then review, edit and submit another expense.
 
@@ -107,7 +107,7 @@ While editing a new draft, you'll also see a banner displaying information about
 
 You can also cancel any recurring expense, just click on _**Edit details**_ in the recurring expense information banner and later, click on the _**Cancel Recurring Expense**_ button. Done, this draft is now deleted and you'll no longer receive recurring drafts about this expense.
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49) (1).png>)
 
 ### Multi-Currency Expenses
 
