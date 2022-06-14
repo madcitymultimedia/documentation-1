@@ -82,3 +82,23 @@ If you need to make a change to initiative's card, please update to the correct 
 ## Pausing, resuming, and deleting a card
 
 Pausing, resuming, and deleting should be done through Privacy's dashboard. Don't worry about syncing the information to the platform, our work will take care of updating the card state or deleting the cards that were removed from your Privacy account every hour.
+
+### Virtual Cards Charge Expense Explanation
+
+Unlike our previous integration with [Privacy.com](http://privacy.com/), Stripe supports authorization tripe validation, which means we can do internal validations at the time the user pays for something using their card.
+
+\
+Currently, we use this feature to validate that the collective using its card, has enough balance to cover the purchase they're trying to make. If they don't have enough balance the payment will fail and, if they have balance, we'll instantly create the charge expense in their collective.
+
+\
+Since there's a delay between the authorization of purchase and the actual charge, we keep this expense in "PROCESSING" status until the purchase is actually charged.\
+During this period, the user can already attach a receipt to the expense, but they should bear in mind that the amount may change between the authorization and the actual charge.
+
+\
+If the authorization is canceled before there's an actual charge, we simply delete the expense.\
+
+
+After the charge is received, this expense is then moved to the "PAID" status and we create the necessary transactions in the collective ledger using the final charged amount.
+
+\
+After this point, if the purchase is refunded, we'll create a new pair of transactions to credit the amount back to the collective and the charge expense will be set to "CANCELED".&#x20;
