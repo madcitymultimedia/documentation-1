@@ -10,9 +10,9 @@ In order to do so, simply select the number of admins you want to enforce. To tu
 
 Note that, after setting a minimum number of admins **you won't be able to approve Pending Applications** from collectives that do not have enough admins. You'll be able to **open an exception** for collectives that already invited enough admins, even though these invitations are still pending.
 
-![You're not able to approve pending applications that do not have enough admins.](<../../.gitbook/assets/image (49).png>)
+![You're not able to approve pending applications that do not have enough admins.](<../../.gitbook/assets/image (49) (1).png>)
 
-![You're able to approve applications that have enough invited admins, even if some of the admins are still pending.](<../../.gitbook/assets/image (53).png>)
+![You're able to approve applications that have enough invited admins, even if some of the admins are still pending.](<../../.gitbook/assets/image (53) (1).png>)
 
 It is also possible to automatically prevent these collectives that have pending admins from receiving contributions with the freeze feature:
 

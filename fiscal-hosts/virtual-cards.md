@@ -27,7 +27,7 @@ Virtual cards can be offered to collectives through Hosts. Hosts create virtual 
 
 To access your virtual card settings and policy, go to your host's admin panel and open select 'Virtual Cards Settings' under your Fiscal Host Settings section:
 
-![You can find the Virtual Card Settings menu under Fiscal Host Settings in your Fiscal Host admin panel.](<../.gitbook/assets/image (50).png>)
+![You can find the Virtual Card Settings menu under Fiscal Host Settings in your Fiscal Host admin panel.](<../.gitbook/assets/image (50) (1).png>)
 
 ### Enable card requests
 

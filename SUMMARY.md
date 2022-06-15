@@ -81,6 +81,7 @@
 * [Expenses FAQ](expenses-and-getting-paid/expenses.md)
 * [Submitting Expenses](expenses-and-getting-paid/submitting-expenses/README.md)
   * [Inviting a third-party to submit an Expense](expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense.md)
+  * [Payoneer](expenses-and-getting-paid/submitting-expenses/payoneer.md)
 * [Virtual Cards](expenses-and-getting-paid/virtual-cards.md)
 * [Expense Comments](expenses-and-getting-paid/expense-comments.md)
 * [Edit or Download an Expense](expenses-and-getting-paid/edit-expense.md)

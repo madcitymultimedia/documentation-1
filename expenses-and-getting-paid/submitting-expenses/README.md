@@ -109,7 +109,7 @@ While editing a new draft, you'll also see a banner displaying information about
 
 You can also cancel any recurring expense, just click on _**Edit details**_ in the recurring expense information banner and later, click on the _**Cancel Recurring Expense**_ button. Done, this draft is now deleted and you'll no longer receive recurring drafts about this expense.
 
-![](<../../.gitbook/assets/image (49) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1).png>)
 
 ### Multi-Currency Expenses
 
