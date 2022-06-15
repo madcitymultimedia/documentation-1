@@ -16,10 +16,7 @@ The preferred payment methods on the Open Collective platform are Bank Transfer 
 
 ![](<../../.gitbook/assets/image (53).png>)
 
-5\. On Open Collective, when filing an Expense or Invoice, choose to be paid via bank account:
-
-* ‘Local bank account’ is to be used when both banks are based in the US
-* ‘SWIFT’ is to be used for International transfers or banks outside the US&#x20;
+5\. On Open Collective, when filing an Expense or Invoice, choose to be paid via bank account.   Please note that Payoneer account is usually used by us to pay in USD, so please ensure you select the option of 'Local bank account':
 
 ![](<../../.gitbook/assets/image (49).png>)\
 6\. Enter the information from Payoneer in the banking fields and submit your invoice or expense for payment. Payment will be made to your Payoneer account which you can then transfer to your personal or business bank account.\
