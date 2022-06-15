@@ -1,7 +1,3 @@
----
-description: To integrate a "Contribute" option directly on your website
----
-
 # Contribution flow
 
 The contribution flow is how users support a collective on Open Collective. The Contribution flow can be directly accessed via this link: e.g. [https://opencollective.com/webpack/donate](https://opencollective.com/webpack/donate)
@@ -29,6 +25,8 @@ This link will bring you directly to the profile step of the contribution flow f
 | `disabledPaymentMethodTypes` | string list (comma separated) | See [this list](https://github.com/opencollective/opencollective-frontend/blob/3ce48b82097087860d35e6b896d3bd04568af599/lib/constants/payment-methods.js#L8) for accepted values | `disabledPaymentMethodTypes=CREDITCARD,GIFTCARD` |
 
 ## Embed Contribution flow&#x20;
+
+To integrate a "Contribute" option directly on your website
 
 {% hint style="warning" %}
 This feature is currently in a beta-test phase. If you face any issue or need assistance, you can send a message on [Slack](https://slack.opencollective.com) (#﻿embed-contribution-flow channel)
