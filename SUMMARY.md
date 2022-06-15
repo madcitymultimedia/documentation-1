@@ -58,7 +58,7 @@
 * [Funding Options](collectives/funding-options.md)
 * [Buttons & Banners](collectives/widgets.md)
 * [Connected Collectives](collectives/connectedcollectives.md)
-* [Embed contribution flow](collectives/embed-contribution-flow.md)
+* [Contribution flow](collectives/embed-contribution-flow.md)
 
 ## Financial Contributors
 
