@@ -31,7 +31,9 @@ You can either select a saved bank account or add a new one. To add a new bank a
 1. Select the currency in which you would like to receive your payment.
 2. Fill all fields with the requested info, making sure to not use any acronyms. **All fields are mandatory** and may vary depending on the selected currency.
 
-Our bank transfer feature uses TransferWise and is only available in countries TransferWise serves. For an up-to-date list of countries, please refer [to their website](https://transferwise.com).
+Our bank transfer feature uses Wise and is only available in countries Wise serves. For an up-to-date list of countries, please refer [to their website](https://transferwise.com).
+
+If your country does not allow Wise payment, and no other alternatives exist, we will suggest looking into Payoneer as a possible option.&#x20;
 
 #### Custom payment method
 
