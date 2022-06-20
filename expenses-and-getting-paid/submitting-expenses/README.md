@@ -93,7 +93,7 @@ You can also add a private note to the admins. Once your expense is ready, click
 **Closed Beta:** This feature is only available on selected collectives.
 {% endhint %}
 
-You can set an expense to autoamtically recur on a periodic basis in the _**Expense Summary:**_&#x20;
+You can set an expense to automatically recur on a periodic basis in the _**Expense Summary:**_&#x20;
 
 ![](<../../.gitbook/assets/image (48) (1).png>)
 
