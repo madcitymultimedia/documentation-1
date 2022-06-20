@@ -87,19 +87,21 @@ For invoices, the expense summary serves as the official invoice document. You c
 
 You can also add a private note to the admins. Once your expense is ready, click on **Submit expense**.
 
-### Recurring Expenses
+### Regular, Recurring Expenses
 
 {% hint style="info" %}
 **Closed Beta:** This feature is only available on selected collectives.
 {% endhint %}
 
-In the _**Expense Summary**_, you can also enable recurrency for your Expense, which will submit the filled expense and automatically create a draft of the same expense after the selected _**Frequency**_.
+You can set an expense to autoamtically recur on a periodic basis in the _**Expense Summary:**_&#x20;
 
 ![](<../../.gitbook/assets/image (48) (1).png>)
 
-Recurring expenses work by automatically creating a new Expense draft and sending it to the author of the expense at the turn of the selected frequency. A draft notification is sent to the author, which can then review, edit and submit another expense.
+Selected the desired _**Frequency**_ and (optionally) an _**End Date.** _&#x20;
 
-These drafts are created based on the previous Expense submitted in the same group, this means that each edit you do in the previous draft will be persisted and used for the next one.
+After the period of time selected has passed a new, draft expense will be created and the author is notified to review, complete and submit the expense.
+
+Draft expenses are based on the previous Expense submitted in the same group. Each edit made to the previous expenses will persist to the next.
 
 It is also possible to set an _**End Date**_ for this recurring expense, which can be useful for setting up reminders for pre-defined contracts.
 
