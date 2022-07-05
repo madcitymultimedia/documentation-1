@@ -26,3 +26,8 @@ If the host is not based in the US, use SWIFT.
 
 ![](<../../.gitbook/assets/image (49).png>)\
 6\. Enter the information from Payoneer in the banking fields and submit your invoice or expense for payment. Payment will be made to your Payoneer account which you can then transfer to your personal or business bank account.\
+
+
+**Please note**&#x20;
+
+Payoneer refers to the Routing Number as ABA and Open Collective refers to the Routing Number as ACH. \
