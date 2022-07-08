@@ -4,7 +4,7 @@ The contribution flow is how users support a collective on Open Collective. The 
 
 Replace 'webpack' with your collective slug to generate your own.&#x20;
 
-## Custom contribution amounts
+## URL parameters
 
 The contribution flow supports many URL parameters to pre-fill the contribution.
 
@@ -50,14 +50,7 @@ The embed contribution flow is a way to integrate Open Collective on your own we
 ### General considerations
 
 * The widget will look better if it has some space, ideally the full page height & width
-* The following URL parameters can be used to configure your integration:
-
-| Parameter                    | Value type | Default value | Description                                                                                                                                                                                                                                   |
-| ---------------------------- | ---------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `useTheme`                   | Boolean    | true          | <p></p><p>By default, the theme of your profile (defined by your primary color) will be used. If you rather want to use the default Open Collective theme, set this to <code>false</code>.</p>                                                |
-| `hideHeader`                 | Boolean    | false         | Set this to `true` to hide the header at the top                                                                                                                                                                                              |
-| `disabedlPaymentMethodTypes` | \[String]  | null          | A list of payment method types to disable. Example: `[CREDITCARD, MANUAL, CRYPTO]`                                                                                                                                                            |
-| `tags`                       | \[String]  | null          | <p>Some tags to attach to the orders. If you're embedding the contribution flow on multiple pages/websites, you can use this to track from where the contributions are coming from.</p><p>Max number of tags: 30</p><p>Max tag length: 32</p> |
+* Some parameters can be used to customize the UI. See [URL Parameters](#url-parameters) above
 
 ### Embed the default tier (Donate)
 
