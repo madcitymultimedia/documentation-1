@@ -21,9 +21,9 @@ This link will bring you directly to the profile step of the contribution flow f
 | `contributeAs` | string | Slug of the default profile to use to contribute | Logged in user personal profile |  |
 | `email` | string | Guest contributions only: The email to use to contribute |  | `&email=test@opencollective.com` |
 | `name` | string | Guest contributions only: The name to use to contribute |  | `&name=John Doe` |
-| `disabledPaymentMethodTypes` | stringArray | To disable specific payment method types |  | `&disabledPaymentMethodTypes=MANUAL,BANK_TRANSFER` |
+| `disabledPaymentMethodTypes` | comma-separated list | To disable specific payment method types |  | `&disabledPaymentMethodTypes=MANUAL,BANK_TRANSFER` |
 | `redirect` | string | The URL to redirect to after a successful contribution |  | `&redirect=https://www.example.com/thank-you` |
-| `tags` | stringArray | Some tags to attach to the contribution |  | `&tags=tag1,tag2` |
+| `tags` | comma-separated list | Some tags to attach to the contribution |  | `&tags=tag1,tag2` |
 | `hideFAQ` | boolean | Embed only: Whether we need to hide the right-column FAQ | false | `&hideFAQ=true` |
 | `hideHeader` | boolean | Embed only: Whether we need to hide the contribution flow header | false | `&hideHeader=true` |
 | `backgroundColor` | color | Embed only: A custom color to use as the background color of the contribution flow |  | `&backgroundColor=#ff0000` |
@@ -32,6 +32,7 @@ This link will bring you directly to the profile step of the contribution flow f
 | `platformContribution` | alias | Deprecated: Use `platformTip` instead |  |  |
 | `defaultEmail` | alias | Deprecated: Use `email` instead |  |  |
 | `defaultName` | alias | Deprecated: Use `name` instead |  |  |
+
 
 
 ## Embed Contribution flow&#x20;
