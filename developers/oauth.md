@@ -107,5 +107,5 @@ When setting up an OAuth App on Open Collective, requested scopes are displayed 
 * `webhooks`: Create and manage webhooks
 * `host`: Administrate fiscal hosts.
 * `applications`: Create and manage OAuth applications.
-* `connectedAccounts`: Create and manage connected accounts.
-* `root`: Perform critical administrative operations.
+
+``
