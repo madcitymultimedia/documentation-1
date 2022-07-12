@@ -67,18 +67,7 @@ If the request succeeds, you'll receive an HTTP 200 response code with a JSON pa
 }
 ```
 
-This `access_token` is a [JWT token](https://fr.wikipedia.org/wiki/JSON\_Web\_Token) that you can decode to retrieve an object like this:
-
-```json
-{
-  "access_token": "test_oauth__af45baf7e0dc98d362c373800e34e7e18d8b38dc18f6e4dbb304",
-  "iat": 1640995200,
-  "exp": 1648771200,
-  "sub": "1"
-}
-```
-
-The `access_token` contained in this JWT is the one that you want to use to access the API.
+This `access_token` is what you want to use to access the API.
 
 ### 3. Use the access token to access the API
 
