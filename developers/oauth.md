@@ -37,7 +37,7 @@ The web application flow to authorize users for your app is:
 | `response_type` | string | **Required.** Only supported value for now is `code`                                                                                                                                                                                                                            |
 | `redirect_uri`  | string | The URL in your application where users will be sent after authorization. If left out, Open Collective will redirect users to the callback URL configured in the OAuth Application settings. If provided, the redirect URL's host and port must exactly match the callback URL. |
 | `scope`         | string | A comma-separated list of scopes. If not provided, `scope` defaults to an empty list.                                                                                                                                                                                           |
-| `state`         | string | Use it to pass some state back to your application after redirecting and to protect against cross-site request forgery attacks (CSRF) by including an unguessable random string.                                                                                                |
+| `state`         | string | Use it to pass some state back to your application after redirecting and to protect against cross-site request forgery attacks (CSRF) by including an unguessable random string. See [scopes below](oauth.md#scopes-for-oauth-apps).                                            |
 
 ### 2. Users are redirected back to your site
 
@@ -97,3 +97,26 @@ curl 'https://opencollective.com/api/graphql/v2' \
   -H 'content-type: application/json' \
   -d '{"query": "{ me { id name email } }"}'
 ```
+
+## Scopes for OAuth apps
+
+Scopes let you specify exactly what type of access you need. Scopes _limit_ access for OAuth tokens. They do not grant any additional permission beyond that which the user already has.
+
+When setting up an OAuth App on GitHub, requested scopes are displayed to the user on the authorization form.
+
+### Available scopes
+
+* `email`: Access your email address.
+* `incognito`: Access your incognito account.
+* `account`: Manage your account, collectives and organizations.
+* `expenses`: Create and manage expenses, payout methods.
+* `orders`: Create and manage contributions, payment methods.
+* `transactions`: Refund and reject recorded transactions.
+* `virtualCards`: Create and manage virtual cards.
+* `updates`: Create and manage updates.
+* `conversations`: Create and manage conversations.
+* `webhooks`: Create and manage webhooks
+* `host`: Administrate fiscal hosts.
+* `applications`: Create and manage OAuth applications.
+* `connectedAccounts`: Create and manage connected accounts.
+* `root`: Perform critical administrative operations.
