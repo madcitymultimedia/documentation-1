@@ -39,6 +39,61 @@ The web application flow to authorize users for your app is:
 | `scope`         | string | A comma-separated list of scopes. If not provided, `scope` defaults to an empty list.                                                                                                                                                                                           |
 | `state`         | string | Use it to pass some state back to your application after redirecting and to protect against cross-site request forgery attacks (CSRF) by including an unguessable random string.                                                                                                |
 
-### Users are redirected back to your site
+### 2. Users are redirected back to your site
 
 After users accept your request, they're redirected back to your site with a temporary `code` passed as an URL query parameter as well as the `state` you provided in the previous step. The temporary code will expire after 5 minutes. If the states don't match, then a third party created the request, and you should abort the process.
+
+Otherwise, you can exchange the `code` you received as a parameter for an access token:
+
+> POST [https://opencollective.com/oauth/token](https://opencollective.com/oauth/token)
+
+#### Parameters
+
+| Parameter       | Type   | Description                                                                                                                              |
+| --------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `grant_type`    | string | **Required.** The only supported value for now is `authorization_code`                                                                   |
+| `client_id`     | string | **Required.** The client ID of your OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                     |
+| `client_secret` | string | **Required.** The client secret of you OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                  |
+| `code`          | string | **Required.** The code you received as a response to [Step 1](oauth.md#1.-request-a-users-open-collective-identity), after the redirect) |
+| `redirect_uri`  | string | The URL in your application where users are sent after authorization.                                                                    |
+
+#### Response
+
+If the request succeeds, you'll receive an HTTP 200 response code with a JSON payload like:
+
+```json
+{
+  "access_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
+```
+
+This `access_token` is a [JWT token](https://fr.wikipedia.org/wiki/JSON\_Web\_Token) that you can decode to retrieve an object like this:
+
+```json
+{
+  "access_token": "test_oauth__af45baf7e0dc98d362c373800e34e7e18d8b38dc18f6e4dbb304",
+  "iat": 1640995200,
+  "exp": 1648771200,
+  "sub": "1"
+}
+```
+
+The `access_token` contained in this JWT is the one that you want to use to access the API.
+
+### 3. Use the access token to access the API
+
+The access token allows you to make requests to the API on a behalf of a user on our public GraphQL API.
+
+```
+Authorization: Bearer {ACCESS_TOKEN}
+GET https://api.github.com/user
+```
+
+For example, in curl you can set the Authorization header like this:
+
+```shell
+curl 'https://opencollective.com/api/graphql/v2' \
+  -H 'authorization: Bearer {ACCESS_TOKEN}' \
+  -H 'content-type: application/json' \
+  -d '{"query": "{ me { id name email } }"}'
+```
