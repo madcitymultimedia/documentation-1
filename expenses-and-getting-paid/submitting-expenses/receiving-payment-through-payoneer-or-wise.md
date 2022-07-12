@@ -16,7 +16,7 @@ When you are filling in an invoice and do not see your currency as an option for
 
 4\. You will see the details of the receiving accounts in different currencies:
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 5\. On Open Collective, when filing an Expense or Invoice, choose to be paid via bank account.  &#x20;
 

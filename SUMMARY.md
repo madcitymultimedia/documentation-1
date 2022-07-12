@@ -133,6 +133,7 @@
   * [Design Workflow](contributing/design/understanding-the-design-workflow.md)
   * [Design Contribution Guidelines](contributing/design/contribution-guidelines.md)
 * [Development](contributing/development/README.md)
+  * [OAuth](contributing/development/oauth.md)
   * [Contribution Guide](contributing/development/dev-contribution-guide.md)
   * [Best Practice Guidelines](contributing/development/best-practice-guidelines.md)
   * [Bounties](contributing/development/bounties.md)

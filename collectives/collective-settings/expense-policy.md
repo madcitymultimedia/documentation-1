@@ -20,7 +20,7 @@ To update your expense policy, go to your Collective's page, click on the settin
 
 At the bottom of the Policies Settings screen, you'll see a set of options that allow you to limit who can submit and approve expenses to your collective:
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 * Ticking _"Admins cannot approve their own expenses"_ will block admins from approving expenses submitted by themselves, effectively requiring another admin to approve their expenses.
 * Ticking "Only allow expenses to be created by Team Members and Financial Contributors (they may invite expenses from other payees)." will limit who can see the "Submit Expense" button.
