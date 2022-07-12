@@ -106,6 +106,3 @@ When setting up an OAuth App on Open Collective, requested scopes are displayed 
 * `conversations`: Create and manage conversations.
 * `webhooks`: Create and manage webhooks
 * `host`: Administrate fiscal hosts.
-* `applications`: Create and manage OAuth applications.
-
-``
