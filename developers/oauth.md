@@ -86,7 +86,7 @@ The access token allows you to make requests to the API on a behalf of a user on
 
 ```
 Authorization: Bearer {ACCESS_TOKEN}
-GET https://api.github.com/user
+GET https://opencollective.com/oauth/token
 ```
 
 For example, in curl you can set the Authorization header like this:
