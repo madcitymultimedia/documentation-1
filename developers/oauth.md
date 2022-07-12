@@ -102,7 +102,7 @@ curl 'https://opencollective.com/api/graphql/v2' \
 
 Scopes let you specify exactly what type of access you need. Scopes _limit_ access for OAuth tokens. They do not grant any additional permission beyond that which the user already has.
 
-When setting up an OAuth App on GitHub, requested scopes are displayed to the user on the authorization form.
+When setting up an OAuth App on Open Collective, requested scopes are displayed to the user on the authorization form.
 
 ### Available scopes
 
