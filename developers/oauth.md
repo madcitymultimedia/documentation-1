@@ -10,10 +10,10 @@ description: >-
 
 1. Go to `https://opencollective.com/{account}/admin/for-developers` (replace `{account}` by the slug of the account you want to use as the owner of the app)
 2. Click on `+ Create OAuth app` and fill in the required information\
-   <img src="../../.gitbook/assets/image (53).png" alt="" data-size="original">
+   <img src="../.gitbook/assets/image (53).png" alt="" data-size="original">
 3. On the success page, copy the client ID and secret for later use
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 ## Authorizing OAuth apps
 
