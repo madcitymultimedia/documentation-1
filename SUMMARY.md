@@ -51,6 +51,7 @@
 * [Transparent Budget](collectives/budget.md)
 * [Expenses](collectives/expenses.md)
 * [Updates & Comms](collectives/communication.md)
+* [Custom Email](collectives/custom-email.md)
 * [Moderation](collectives/moderation.md)
 * [Conversations](collectives/conversations.md)
 * [Events](collectives/events.md)
