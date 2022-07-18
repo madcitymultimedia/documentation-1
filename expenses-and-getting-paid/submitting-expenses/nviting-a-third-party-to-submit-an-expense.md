@@ -1,5 +1,9 @@
 # Inviting a third-party to submit an Expense
 
+{% hint style="info" %}
+Please note if an invitation isn't accepted within a month, it will expire. You will need to submit a new expense and invite the third party again.&#x20;
+{% endhint %}
+
 It is also possible to draft an expense and send it to a third party to edit and submit an expense. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
 
 Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finalise any final details and submit it to the collective.
