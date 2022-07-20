@@ -2,7 +2,7 @@
 
 You can now add custom text to the automatic email people receive thanking them for their contribution, at the level of a whole Collective and/or a specific Event or Project.&#x20;
 
-
+![](../.gitbook/assets/collectives\_customemail\_example\_2022-07-20.png)
 
 ### Collective Custom Email
 
