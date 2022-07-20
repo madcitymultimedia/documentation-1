@@ -1,6 +1,8 @@
 # Custom Email
 
-Customise the email that gets sent to financial contributors of your collective, project or event.
+You can now add custom text to the automatic email people receive thanking them for their contribution, at the level of a whole Collective and/or a specific Event or Project.&#x20;
+
+
 
 ### Collective Custom Email
 
