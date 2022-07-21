@@ -29,6 +29,7 @@
 * [Moderation](product/moderation.md)
 * [Security](product/security.md)
 * [Notifications](product/notifications.md)
+* [Two-factor Authentication](product/two-factor-authentication.md)
 
 ## Collectives
 
@@ -164,7 +165,3 @@
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
-
-***
-
-* [Two-factor authentication](two-factor-authentication.md)
