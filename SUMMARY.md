@@ -164,3 +164,7 @@
   * [Style guide](contributing/documentation/style-guide.md)
   * [Suggesting changes](contributing/documentation/suggesting-changes.md)
 * [Translation](contributing/translation.md)
+
+***
+
+* [Two-factor authentication](two-factor-authentication.md)
