@@ -15,19 +15,19 @@ Virtual cards can be offered to collectives through Hosts. Hosts create virtual 
   * Enable Production Webhook and set the address to: `https://api.opencollective.com/webhooks/privacy`
   * Copy your Production API Key for the next step.
 
-![](../.gitbook/assets/screenshot-from-2021-08-03-15-56-54.png)
+![](../../.gitbook/assets/screenshot-from-2021-08-03-15-56-54.png)
 
 * Add your API key to your Collective settings:
   * Open your Collective settings and open the "Sending Money" page.
   * Paste your API Key in the "API Key" field and click on "Connect Privacy".
 
-![](../.gitbook/assets/screenshot-from-2021-08-03-16-04-49.png)
+![](../../.gitbook/assets/screenshot-from-2021-08-03-16-04-49.png)
 
 ## Accessing Virtual Card Settings
 
 To access your virtual card settings and policy, go to your host's admin panel and open select 'Virtual Cards Settings' under your Fiscal Host Settings section:
 
-![You can find the Virtual Card Settings menu under Fiscal Host Settings in your Fiscal Host admin panel.](<../.gitbook/assets/image (50) (1).png>)
+![You can find the Virtual Card Settings menu under Fiscal Host Settings in your Fiscal Host admin panel.](<../../.gitbook/assets/image (50) (1).png>)
 
 ### Enable card requests
 
@@ -35,7 +35,7 @@ It is possible to create and assign virtual cards to Collectives without enablin
 
 Toggle the 'allow collectives to request a card' option to allow Collectives to request a card. Collectives can request a Virtual Card by clicking _**Request a card**_ from their profile page:
 
-![You can request a card from your collective's Actions menu.](<../.gitbook/assets/image (52) (1).png>)
+![You can request a card from your collective's Actions menu.](<../../.gitbook/assets/image (52) (1).png>)
 
 ### Automatically notify collectives about pending receipts
 
@@ -55,7 +55,7 @@ Virtual Cards are created using our provider [Privacy.com](https://privacy.com/)
 
 Once you have created a card on [Privacy.com](https://privacy.com/) you can assign it to a Collective:
 
-![Assigning a Virtual Card](../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
+![Assigning a Virtual Card](../../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
 
 Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide a receipt.
 
@@ -65,7 +65,7 @@ Click 'Save Card' to save the card to the Collective.
 
 You can view all cards assigned to Collectives from the Virtual Cards settings page. Here you can filter cards by status, merchant, and Collective.
 
-![Filter virtual cards by status, merchant or collective.](../.gitbook/assets/screenshot-2021-05-12-at-16.11.02.png)
+![Filter virtual cards by status, merchant or collective.](../../.gitbook/assets/screenshot-2021-05-12-at-16.11.02.png)
 
 Each card shows the name, status, assigned collective, when the card was assigned and any limits set on the card in Privacy.com. The last four digits of the card are also shown. To view the full details of a card click 'view card details'.
 

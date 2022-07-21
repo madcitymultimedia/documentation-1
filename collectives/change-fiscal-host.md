@@ -30,7 +30,7 @@ Your fiscal host determines whose bank account your money sits in. To change hos
 
 **Sending funds directly to the new host**
 
-The **** new host should file an expense for the collective to withdraw the funds into their holding account, the new host can then allocate the funds using [add funds](../fiscal-hosts/add-funds-manually.md).&#x20;
+The **** new host should file an expense for the collective to withdraw the funds into their holding account, the new host can then allocate the funds using [add funds](../fiscal-hosts/receiving-money/add-funds-manually.md).&#x20;
 
 
 
