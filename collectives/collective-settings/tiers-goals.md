@@ -138,6 +138,12 @@ It depends on a lot of things but mainly on how critical is your open source pro
 
 It's easier for companies to budget services for the year. It also ensures that they contribute to the maintenance of the project.
 
+#### What happens if I delete a tier?
+
+If you delete a tier that has recurring contributing members, you will continue to receive contributions from those members. These donations will appear as "custom contributions".&#x20;
+
+Members will need to stop recurring payments from their accounts. Here is more information on how to [cancel a recurring contribution](https://docs.opencollective.com/help/financial-contributors/payments#cancel-a-recurring-contribution).
+
 ### For companies
 
 By subscribing to a support tier, you not only get private time for your team to discuss the open-source project that you are depending on, but you are also helping the collective to maintain it. It's a great way to balance your interests with the interests of the community.
