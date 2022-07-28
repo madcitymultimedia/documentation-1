@@ -6,11 +6,11 @@ To see the data export options, reveal the dropdown menu by clicking on your use
 The gear icon will only appear if you are a Collective admin.
 {% endhint %}
 
-![](../../.gitbook/assets/collectives_data-export_dropdown-menu_2020-04-01.png)
+![](../../.gitbook/assets/collectives\_data-export\_dropdown-menu\_2020-04-01.png)
 
 On the settings page, go to **Export**.
 
-![](../../.gitbook/assets/collectives_data-export_settings-page_export-highlight_2020-04-01%20%281%29.png)
+![](<../../.gitbook/assets/collectives\_data-export\_settings-page\_export-highlight\_2020-04-01 (1).png>)
 
 On this page, you can export your data into:
 
@@ -46,14 +46,14 @@ Create an SVG showing the icons of your financial contributors.
 
 There are a range of options:
 
-| Parameter | Description | default |
-| :--- | :--- | :--- |
-| width | width of the image |  |
-| height | height of the image |  |
-| limit | max number of members to show | \(unlimited\) |
-| avatarHeight | max height of each avatar / logo |  |
-| button | show "become a backer/sponsor" button | true |
-| format | format of the image \(replace .svg with .png or .jpg\) |  |
+| Parameter    | Description                                          | default     |
+| ------------ | ---------------------------------------------------- | ----------- |
+| width        | width of the image                                   |             |
+| height       | height of the image                                  |             |
+| limit        | max number of members to show                        | (unlimited) |
+| avatarHeight | max height of each avatar / logo                     |             |
+| button       | show "become a backer/sponsor" button                | true        |
+| format       | format of the image (replace .svg with .png or .jpg) |             |
 
 Code:
 
@@ -93,13 +93,31 @@ Export your data to integrate with other applications.
 
 Options:
 
-* All members \(contributors of all types\)
-* Only users \(individuals\)
+* All members (contributors of all types)
+* Only users (individuals)
 * Only organizations
 
 Parameters:
 
 * limit: number of members to return
-* offset: number of members to skip \(for paging\)
-* TierId: only return the members that belong to this TierId. You can find the TierId as part of the URL after selecting a tier on your collective page
+* offset: number of members to skip (for paging)
+* TierId: only return the members that belong to this TierId. You can find the TierId as part of the URL after selecting a tier on your collective pag\
 
+
+## Exporting expenses&#x20;
+
+1. Head to the budget section on your collective page. Click the Transactions tab
+
+![](../../.gitbook/assets/collectives\_dataexport\_transactions\_2022-07-28.png.png)
+
+&#x20;2\. Click View all Transactions&#x20;
+
+![](../../.gitbook/assets/collectives\_dataexport\_viewtransactions\_2022-07-28.png)
+
+
+
+3\. Filter by "Kind" = Expense&#x20;
+
+![](../../.gitbook/assets/collectives\_Expenses\_viewtransactions\_2022-07-28.png.png)
+
+4\. Download CSV
