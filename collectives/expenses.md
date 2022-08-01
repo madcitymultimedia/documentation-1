@@ -44,3 +44,7 @@ The submitter will be notified that their expense was rejected. We suggest also 
 ### How can I show an expense that has been paid off the platform?
 
 Submit an expense, select manual/custom payment method, and mark it as paid. Then it will show on the budget but no money will actually move, since it’s already been paid.&#x20;
+
+### How can I delete a pending expense?&#x20;
+
+You will need to reject the expense and then you will be able to delete it.&#x20;
