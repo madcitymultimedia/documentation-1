@@ -74,17 +74,13 @@ Go to manage payment methods in your profile settings and select "add another pa
 
 _**Note:** Adding a new card does not change the card for existing recurring contributions._
 
-### Cancel a Recurring Contribution
-
-If you have set up a repeating payment to a Collective, such as a monthly contribution, and you want to cancel it, here's how. Under your user menu, go to Manage Contributions. Find the one you want to cancel and click "Edit". Select "Cancel".
-
-### Change the amount or payment method for an existing contribution
+### Change the amount or payment method or cancel an existing contribution
 
 Open the dropdown menu next to your profile avatar and click on **Manage Contributions.**
 
 ![](<../.gitbook/assets/image (31).png>)
 
-You'll be redirected to a page with all of your recurring financial contributions. Click on the three dots on the top right of a financial contribution card to update your payment method, amount or cancel your financial contribution.
+You'll be redirected to a page with all of your recurring financial contributions. Click on the edit button at the bottom of the financial contribution card to update your payment method, amount or cancel your financial contribution.
 
 ![From there you can see all your recurring contributions](<../.gitbook/assets/image (11).png>)
 
