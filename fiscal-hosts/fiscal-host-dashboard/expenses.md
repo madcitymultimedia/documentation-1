@@ -82,7 +82,7 @@ Custom Date selection&#x20;
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24 (1).png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24.png>)
 
 This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention.&#x20;
 
@@ -99,7 +99,7 @@ After the user edits the expense, the expense is moved back to its previous stat
 
 ### Go to Pay
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24.png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24 (1).png>)
 
 Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the pay expense modal will be displayed and you'll be able to pay for the expense using a suitable method.
 

@@ -107,7 +107,7 @@ It is also possible to set an _**End Date**_ for this recurring expense, which c
 
 While editing a new draft, you'll also see a banner displaying information about the recurring nature of the expense:
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 You can also cancel any recurring expense, just click on _**Edit details**_ in the recurring expense information banner and later, click on the _**Cancel Recurring Expense**_ button. Done, this draft is now deleted and you'll no longer receive recurring drafts about this expense.
 

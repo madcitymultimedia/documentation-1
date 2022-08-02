@@ -13,7 +13,7 @@ description: >-
    <img src="../.gitbook/assets/image (53).png" alt="" data-size="original">
 3. On the success page, copy the client ID and secret for later use
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47) (1).png>)
 
 ## Authorizing OAuth apps
 

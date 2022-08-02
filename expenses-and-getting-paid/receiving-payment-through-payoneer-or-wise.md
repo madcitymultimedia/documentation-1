@@ -12,11 +12,11 @@ When you are filling in an invoice and do not see your currency as an option for
 2. Once your account has been approved, [sign in](https://myaccount.payoneer.com/) to Payoneer. \*_Note: the approval process can take up to 3 business days_
 3. From the **Receive** menu, select **Receiving** accounts and choose an account to receive the payments
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50).png>)
 
 4\. You will see the details of the receiving accounts in different currencies:
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../.gitbook/assets/image (53) (2).png>)
 
 5\. On Open Collective, when filing an Expense or Invoice, choose to be paid via bank account.  &#x20;
 
@@ -26,7 +26,7 @@ Payoneer usually defaults to pay in USD. If the host you are filing an expense w
 
 If the host is not based in the US, use SWIFT.
 
-![](<../../.gitbook/assets/image (49).png>)\
+![](<../.gitbook/assets/image (49).png>)\
 6\. Enter the information from Payoneer in the banking fields and submit your invoice or expense for payment. Payment will be made to your Payoneer account which you can then transfer to your personal or business bank account.\
 
 

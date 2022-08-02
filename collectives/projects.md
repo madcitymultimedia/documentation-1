@@ -3,10 +3,10 @@
 Projects are a lightweight way for collectives to manage budgets for initiatives independent of their parent collectives. Use a project if:
 
 * You would like to collect funds for a specific initiative or idea
-* You would like to allocate part of your collective's budget to a specific initiative 
+* You would like to allocate part of your collective's budget to a specific initiative&#x20;
 * You would like to track the spending on a specific initiative separate from the rest of your collective
 
-Projects have many of the same features as Collectives. Projects have their own balances, contributions, and expenses. Projects can describe contribution tiers, set goals, and provide updates. 
+Projects have many of the same features as Collectives. Projects have their own balances, contributions, and expenses. Projects can describe contribution tiers, set goals, and provide updates.&#x20;
 
 Budgets are independent. Projects can only spend what is allocated to them. And what is available within the project is not available from the parent Collective.
 
@@ -26,7 +26,7 @@ Projects have many of the same features that Collectives have. Clicking 'setting
 
 ### Managing Project team members
 
-You cannot add, remove or edit team members for projects separately from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective. 
+You cannot add, remove or edit team members for projects separately from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective.&#x20;
 
 ### Creating an Update
 
@@ -40,23 +40,30 @@ To move funds from a Collective to a Project:
 
 1. Navigate to the Project profile page
 2. Click 'Contribute money' from the Actions dropdown
-3. Select the right amount and frequency \(one time, monthly, yearly\) and click 'your info'
-4. Select the parent Collective from the 'Contribute as' dropdown  
+3. Select the right amount and frequency (one time, monthly, yearly) and click 'your info'
+4. Select the parent Collective from the 'Contribute as' dropdown &#x20;
 5. Select the Collective's balance as the payment method
 
 {% hint style="danger" %}
-There is currently an issue with this feature. To show the 'contribute money' button the project needs to have at least one contribution tier set.  
+There is currently an issue with this feature. To show the 'contribute money' button the project needs to have at least one contribution tier set. &#x20;
 {% endhint %}
+
+### Moving funds from Projects to Collectives&#x20;
+
+To move funds from a Project to a Collective:&#x20;
+
+1. Navigate to the&#x20;
 
 ### Zeroing a balance and closing a Project
 
-If you wish to close down a Project you can Archive it or Delete it, in either case you will need to zero the project balance.
+If you wish to close down a Project you can Archive it or Delete it, in either case, you will need to zero the project balance.
 
 From the Project profile page click 'Settings' and select 'Advanced' from the sidebar:
 
 ![Empty a Project balance, archive or delete a Project from the Advanced menu. ](../.gitbook/assets/screenshot-2021-08-10-at-10.48.34.png)
 
-From here you can move the Project's remaining budget to its parent Collective and archive a Project, disabling any future activity. If there has been no financial activity you can delete the Project, removing all of the data associated with the Project. 
+From here you can move the Project's remaining budget to its parent Collective and archive a Project, disabling any future activity. If there has been no financial activity you can delete the Project, removing all of the data associated with the Project.&#x20;
 
-Note that, like Collectives, you cannot delete a project if there are financial transactions associated with it. This enables us to ensure the accuracy and integrity of the ledger.
-
+Note that, like Collectives, you cannot delete a project if there are financial transactions associated with it. This enables us to ensure the accuracy and integrity of the ledger.\
+\
+Still having difficulty? [Get in touch](https://opencollective.com/contact) or ask in the [#community-support](https://opencollective.slack.com/archives/C6JTTA4SK) slack channel.&#x20;
