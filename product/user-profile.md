@@ -40,9 +40,13 @@ You can either choose any of the preset colors, add your own custom color or res
 
 To modify other profile information, click on the gear icon next to your profile image.
 
-![](../.gitbook/assets/product\_user\_prodile\_settings\_page\_2021-04-21.png)
+![](../.gitbook/assets/product\_userprofile\_settings\_2022-08-3.png)
 
-Here you are able to edit basic info such as **Name**, **Legal Name,** **Company**, **Short description**, **URL slug**, and access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Webhooks, Two-factor authentication** and **Advanced**.
+Here you are able to edit basic info such as **Name**, **Legal Name,** **Company**, **Short description** and **URL slug.** Link out to your **Twitter**, **Github Code repository** and **website**. Add your **Address**, **Country**, **Currency** and **Tags**.&#x20;
+
+
+
+Access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Gift Cards**, **Webhooks, Authorised Apps, Two-factor authentication, For developers** and **Advanced**.
 
 ## Advanced settings
 
