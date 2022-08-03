@@ -6,7 +6,7 @@ description: >-
 
 # Roadmap
 
-[View our Roadmap updates on our blog](https://blog.opencollective.com/tag/roadmap/)
+[View our Roadmap updates on our Github](https://github.com/opencollective)
 
 ## **Key questions for prioritization**
 
@@ -27,18 +27,17 @@ description: >-
 ## Template for new projects
 
 * Github issue
-  * explains the feature. 
-  * Link to other opened issues or data. 
+  * explains the feature.&#x20;
+  * Link to other opened issues or data.&#x20;
   * Include details below.
 * Kickoff
-  * Organize a special meeting or a scheduled one. 
-* Project owner. 
-  * Role: Facilitator, decision-maker, producer. 
-  * It's ultimately responsible for \(needs to do or organize who does\)
-    * Delivery 
-    * Q&A
-    * Docs & Comms 
-    * Post-ship plan for maintenance 
-* Success metric\(s\)
+  * Organize a special meeting or a scheduled one.&#x20;
+* Project owner.&#x20;
+  * Role: Facilitator, decision-maker, producer.&#x20;
+  * It's ultimately responsible for (needs to do or organize who does)
+    * Delivery&#x20;
+    * Q\&A
+    * Docs & Comms&#x20;
+    * Post-ship plan for maintenance&#x20;
+* Success metric(s)
 * Timeframe - kickoff and delivery, main milestones/roadmap
-
