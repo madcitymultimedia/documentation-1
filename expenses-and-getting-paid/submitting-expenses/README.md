@@ -115,9 +115,15 @@ You can also cancel any recurring expense, just click on _**Edit details**_ in t
 
 ### Multi-Currency Expenses
 
-You can now submit expenses in multiple currencies. This is useful if the collective operates in USD for example but you want to receive a different currency.
 
-This feature enables you to submit your expense in your preferred currency, a currency conversion rate is then predicted in order to convert the amount to the currency held by the collective. You will receive the full amount submitted on your invoice even if the conversion rate were to change.&#x20;
+
+![Submit invoices and reimburse expenses using your currency instead of the Collective's](../../.gitbook/assets/expenses\_submitting\_multicurrency\_2022-08-3.png)
+
+Open Collective is a platform enabled by a network of [hosts](http://opencollective.com/hosts). Hosts typically hold their Collectives' balances in a single currency but support members in many countries. Differences in foreign exchange rates can mean that people aren't paid exactly what they are due. \
+\
+When submitting an invoice or reimbursement you can now choose to submit in the currency of the Collective, or the currency of your payment method. We'll automatically select your local currency if using a bank account (and our payment provider Wise supports it) and we support all of the currencies provided by Paypal. When making a payment you will receive the full amount in the currency you selected, regardless of fluctuations in currency rates. \
+\
+This feature is in beta and is enabled for all Collectives hosted by Open Collective Foundation.
 
 {% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
 
@@ -125,10 +131,10 @@ This feature enables you to submit your expense in your preferred currency, a cu
 
 * Wise: Collective currency or payout method currency, with the limitation of the currencies that are supported by Wise
 * PayPal: [any currency supported by PayPal](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
-* Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted
+* Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted.&#x20;
 
 #### How do we calculate our Exchange Rate?&#x20;
 
 * We rely on the payout provider (Wise, PayPal) whenever possible
-* Otherwise we fall back on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io/)
+* Otherwise, we fall back on internal caching and third-party APIs, mostly [https://fixer.io](https://fixer.io/)
 
