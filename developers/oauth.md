@@ -55,7 +55,7 @@ Otherwise, you can exchange the `code` you received as a parameter for an access
 | `client_id`     | string | **Required.** The client ID of your OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                     |
 | `client_secret` | string | **Required.** The client secret of you OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                  |
 | `code`          | string | **Required.** The code you received as a response to [Step 1](oauth.md#1.-request-a-users-open-collective-identity), after the redirect) |
-| `redirect_uri`  | string | The URL in your application where users are sent after authorization.                                                                    |
+| `redirect_uri`  | string | **Required.** The URL in your application where users are sent after authorization.                                                      |
 
 #### Response
 
