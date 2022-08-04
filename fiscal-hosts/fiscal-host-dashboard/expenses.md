@@ -78,7 +78,7 @@ Custom Date selection&#x20;
 
 
 
-* **Incomplete:** Marks the expense as incomplete if there are important details missing to complete the payment.&#x20;
+* **Incomplete:** Marks the expense as incomplete if there are important details missing to complete the payment. Only Approved/Error expenses can be marked as incomplete.
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
 
