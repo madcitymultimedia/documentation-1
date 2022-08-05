@@ -38,6 +38,10 @@ If you wish to represent expenses previously paid but don't need to actually mov
 
 ## Platform Settlement Expenses
 
+{% hint style="info" %}
+Please note under a certain amount owed (usually $10) we don't trigger the settlement process.
+{% endhint %}
+
 A special type of expense is created when you owe Open Collective money from platform tips. Platform tips are an optional amount added on top of contributions and added funds.&#x20;
 
 When a payment with a tip goes through Stripe, the tip is automatically diverted to Open Collective and you don't need to do anything.&#x20;
