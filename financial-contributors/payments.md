@@ -22,7 +22,12 @@ You can find the option to donate incognito (anonymously) on the second step of 
 2. [Gift card](organizations/gift-cards.md) - select the gift card you want to pay with
 3. Collective - contribute [using the balance of one of your Collectives](collective-to-collective.md) (if it's in the same host as the one you're donating to)
 4. [Organization](organizations/) - contribute using the balance saved to your Organization
-5. Bank transfer, Paypal, or other method if made available by that Collective and their fiscal host
+5. Bank transfer, Paypal, or other method if made available by that Collective and their fiscal host.&#x20;
+
+{% hint style="info" %}
+**Cancelling a Bank Transfer**\
+If you don't make a bank transfer, the pending order will expire and no further action is required.
+{% endhint %}
 
 ## Recurring financial contributions (subscriptions)
 
