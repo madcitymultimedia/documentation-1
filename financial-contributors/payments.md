@@ -25,7 +25,7 @@ You can find the option to donate incognito (anonymously) on the second step of 
 5. Bank transfer, Paypal, or other method if made available by that Collective and their fiscal host.&#x20;
 
 {% hint style="info" %}
-**Cancelling a Bank Transfer**\
+**Cancelling a bank/wire/ACH transfer**\
 If you don't make a bank transfer, the pending order will expire and no further action is required.
 {% endhint %}
 
