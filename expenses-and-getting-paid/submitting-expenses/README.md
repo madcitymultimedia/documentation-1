@@ -123,7 +123,7 @@ When submitting an invoice or reimbursement you can now choose to submit in the 
 
 Supported Currencies&#x20;
 
-* Wise: Collective currency or payout method currency, with the limitation of the currencies that are supported by Wise
+* Wise: Collective currency or payout method currency, with the limitation of the [currencies that are supported by Wise](https://wise.com/help/articles/2897238/which-currencies-can-i-add-keep-and-receive-in-my-wise-account)
 * PayPal: [any currency supported by PayPal](https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/)
 * Other: Any currency accepted by the host. Please contact the host admin if you're unsure about whether it will be accepted.&#x20;
 
