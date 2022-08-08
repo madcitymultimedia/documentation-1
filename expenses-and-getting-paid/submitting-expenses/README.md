@@ -115,11 +115,9 @@ You can also cancel any recurring expense, just click on _**Edit details**_ in t
 
 ### Multi-Currency Expenses
 
-Open Collective is a platform enabled by a network of [hosts](http://opencollective.com/hosts). Hosts typically hold their Collectives' balances in a single currency but support members in many countries. Differences in foreign exchange rates can mean that people aren't paid exactly what they are due.&#x20;
+When submitting an invoice or reimbursement you can now choose to submit in the currency of the Collective, or the currency of your payment method.&#x20;
 
 ![Submit invoices and reimburse expenses using your currency instead of the Collective's](../../.gitbook/assets/expenses\_submitting\_multicurrency\_2022-08-3.png)
-
-When submitting an invoice or reimbursement you can now choose to submit in the currency of the Collective, or the currency of your payment method.&#x20;
 
 Supported Currencies&#x20;
 
@@ -129,8 +127,6 @@ Supported Currencies&#x20;
 
 When making a payment you will receive the full amount in the currency you selected, regardless of fluctuations in currency rates.&#x20;
 
-{% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
-
 #### How do we calculate our Exchange Rate?&#x20;
 
 * We rely on the payout provider (Wise, PayPal) whenever possible
@@ -139,4 +135,8 @@ When making a payment you will receive the full amount in the currency you selec
 {% hint style="warning" %}
 This feature is not available when the host currency differs from the collective currency.
 {% endhint %}
+
+{% embed url="https://www.loom.com/share/a6f4f8a0455343f3980002473811cf56" %}
+
+####
 
