@@ -151,3 +151,13 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
   * Edit the expense total down to leave enough for the fees and inform the user by leaving a comment
 * User's PayPal account is restricted
   * Ask the user to log into PayPal and resolve the issue on their side
+
+### Multi-Currency Expenses&#x20;
+
+Here is an example of how a Multi-Currency expense will show in the expense list. The amount will show in the expense currency, with the amount converted into the host currency below.&#x20;
+
+![](<../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_multi\_9-8-2022 (1).png>)
+
+The same will show in the pay expenses modal. Example below.&#x20;
+
+![](../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_9-8-2022.png)
