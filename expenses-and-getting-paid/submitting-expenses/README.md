@@ -89,13 +89,9 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 ### Regular, Recurring Expenses
 
-{% hint style="info" %}
-**Closed Beta:** This feature is only available on selected collectives.
-{% endhint %}
-
 You can set an expense to automatically recur on a periodic basis in the _**Expense Summary:**_&#x20;
 
-![](<../../.gitbook/assets/image (48) (1).png>)
+![](../../.gitbook/assets/expenses\_submittingexpenses\_recurringexpenses\_2022-08-15.png)
 
 Selected the desired _**Frequency**_ and (optionally) an _**End Date.** _&#x20;
 
