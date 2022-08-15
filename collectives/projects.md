@@ -50,9 +50,21 @@ There is currently an issue with this feature. To show the 'contribute money' bu
 
 ### Moving funds from Projects to Collectives&#x20;
 
-To move funds from a Project to a Collective:&#x20;
+To move all funds held by your Project to your Collective:&#x20;
 
-1. Navigate to the&#x20;
+1. Navigate to the project&#x20;
+2. Click on Settings&#x20;
+3. Advanced&#x20;
+4. Empty Project Balance - Click Send '$\_\_\_' to Collective'&#x20;
+
+To move a particular amount of money from your Project to your Collective.&#x20;
+
+1. Navigate to your Collective Page&#x20;
+2. Click Contribute&#x20;
+3. Select the desired amount&#x20;
+4. Select your Project from the Contribute as section&#x20;
+5. The Project balance should be automatically selected&#x20;
+6. Select Contribute&#x20;
 
 ### Zeroing a balance and closing a Project
 
