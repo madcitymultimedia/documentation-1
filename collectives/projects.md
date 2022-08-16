@@ -34,6 +34,10 @@ Updates are disabled by default on projects. To enable updates for a project cli
 
 Once enabled administrators can create and publish updates using the same steps described for Collectives.
 
+### Virtual Cards for Projects&#x20;
+
+Depending on your fiscal host, Projects may be eligible for their own [virtual card](https://docs.opencollective.com/help/expenses-and-getting-paid/virtual-cards) to spend just from within this distinct budget.
+
 ### Moving funds from Collectives to Projects
 
 To move funds from a Collective to a Project:
