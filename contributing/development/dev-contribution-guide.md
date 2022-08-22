@@ -68,7 +68,7 @@ _NOTE: If you're only contributing frontend code, you don't need to setup the AP
 
 ### API
 
-The API setup requires more effort than the frontend, as it requires installing the [PostgreSQL](https://www.postgresql.org/download/) and [PostGIS](https://postgis.net/install/) extensions. You might experience difficulty setting up the API on a Windows environment. We recommend using a Unix environment. 
+The API setup requires more effort than the frontend, as it requires installing the [PostgreSQL](https://www.postgresql.org/download/). You might experience difficulty setting up the API on a Windows environment. We recommend using a Unix environment. 
 
 Just like the front end, we have a separate document for the setup.
 
