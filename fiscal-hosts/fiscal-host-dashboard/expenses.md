@@ -82,7 +82,7 @@ Custom Date selection&#x20;
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24.png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24 (1).png>)
 
 This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention.&#x20;
 
@@ -99,7 +99,7 @@ After the user edits the expense, the expense is moved back to its previous stat
 
 ### Go to Pay
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24 (1).png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24.png>)
 
 Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the pay expense modal will be displayed and you'll be able to pay for the expense using a suitable method.
 
@@ -156,7 +156,7 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 
 Here is an example of how a Multi-Currency expense will show in the expense list. The amount will show in the expense currency, with the amount converted into the host currency below.&#x20;
 
-![](<../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_multi\_9-8-2022 (1).png>)
+![](../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_multi\_9-8-2022.png)
 
 The same will show in the pay expenses modal. Example below.&#x20;
 

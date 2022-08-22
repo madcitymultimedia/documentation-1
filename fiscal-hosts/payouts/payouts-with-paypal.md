@@ -75,7 +75,7 @@ If you're already in the beta test group, you can follow these instructions:
     * Open [PayPal's Developer](https://developer.paypal.com/developer/applications/) page and Log In.
     * In _My Apps & Credentials_ page, select the **Live** environment, and click in _Create app_.
 
-    ![](<../../.gitbook/assets/image (25).png>)
+    <img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">
 
     * Name this App after Open Collective, this way you'll always remember where this token is being used.
     * App Type: Merchant
