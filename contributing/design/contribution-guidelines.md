@@ -134,4 +134,4 @@ There are different ways to get in the loop of design-related tasks in GitHub:
 
 
 
-![](<../../.gitbook/assets/2 (3) (2) (1) (1) (2).png>)
+![](<../../.gitbook/assets/2 (3) (2) (1) (1) (3).png>)
