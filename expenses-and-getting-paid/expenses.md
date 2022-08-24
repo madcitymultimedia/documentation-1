@@ -25,3 +25,10 @@ Expenses for Collectives in [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) mana
 Right now our system can process outgoing payments to Paypal addresses and bank accounts (in countries served by Transferwise).
 
 Paying by other means is a manual process at the discretion of the Fiscal Host. If you are not able to use Paypal or bank account payments through Transferwise, get in touch with the fiscal host of the Collective and see what other options might be available.
+
+### How do I view all of my expenses?
+
+1. Click on your user profile in the top right hand corner of our website.&#x20;
+2. Under the **My Account** section head to **Transactions**&#x20;
+
+Here you will be able to view all of your transactions on our platform.&#x20;
