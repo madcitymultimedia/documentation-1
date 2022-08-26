@@ -79,13 +79,13 @@ Go to manage payment methods in your profile settings and select "add another pa
 
 _**Note:** Adding a new card does not change the card for existing recurring contributions._
 
-### Change the amount or payment method or cancel an existing contribution
+### Change the amount, payment method or cancel an existing contribution
 
 Open the dropdown menu next to your profile avatar and click on **Manage Contributions.**
 
 ![](<../.gitbook/assets/image (31).png>)
 
-You'll be redirected to a page with all of your recurring financial contributions. Click on the edit button at the bottom of the financial contribution card to update your payment method, amount or cancel your financial contribution.
+You'll be redirected to a page with all of your recurring financial contributions. Click on the edit button at the bottom of the financial contribution card to update your payment method, amount or cancel.
 
 ![From there you can see all your recurring contributions](<../.gitbook/assets/image (11).png>)
 
@@ -93,7 +93,7 @@ You'll be redirected to a page with all of your recurring financial contribution
 
 ### How to remove my payment method
 
-1. Click on your user profile in the top right hand corner
+1. Click on your user profile in the top right-hand corner
 2. Click on settings&#x20;
 
 ![](<../.gitbook/assets/financialcontributors\_payments\_removepaymentmethod\_2022-08-11 (1).png>)
