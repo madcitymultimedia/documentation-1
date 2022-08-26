@@ -22,13 +22,16 @@ Expenses for Collectives in [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) mana
 
 ### By what method can I get paid?
 
-Right now our system can process outgoing payments to Paypal addresses and bank accounts (in countries served by Transferwise).
+Right now our system can process outgoing payments to Paypal addresses and bank accounts (in countries served by Wise).
 
 Paying by other means is a manual process at the discretion of the Fiscal Host. If you are not able to use Paypal or bank account payments through Transferwise, get in touch with the fiscal host of the Collective and see what other options might be available.
 
-### How do I view all of my expenses?
+### What are the approximate fees charged by each payment processor (Credit Card, PayPal, Bank transfer)?
 
-1. Click on your user profile in the top right hand corner of our website.&#x20;
-2. Under the **My Account** section head to **Transactions**&#x20;
+Unfortunately, they can vary depending on the method of payout, the location/currency of the payee, and the amount of the transaction.
 
-Here you will be able to view all of your transactions on our platform.&#x20;
+The most cost-effective method is Bank Transfer ACH (USD to USD), which is generally .39 cents. With a bank transfer from USD to another currency, we default to Wise's fee structure on this and they vary depending on the country. More info is available [here](https://docs.opencollective.com/help/fiscal-hosts/payouts/payouts-with-transferwise#fees).
+
+PayPal's fees are the hardest to predict. In general, if PayPal and USD to USD, this will be cheaper than USD to any other currency. PayPal fees vary by country and amount because they charge based on the percentage of the transaction total. More info on PayPal fees [here](https://docs.opencollective.com/help/fiscal-hosts/payouts/payouts-with-paypal#fees).&#x20;
+
+It is really hard to estimate the fees. Hopefully, the Wise & PayPal documentation can give you some guidance on the estimated fees for your typical transactions.
