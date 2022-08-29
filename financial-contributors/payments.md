@@ -105,3 +105,9 @@ You'll be redirected to a page with all of your recurring financial contribution
 4\. Otherwise, just click "Remove" then "Ok"
 
 ![](../.gitbook/assets/financialcontributors\_payments\_remove\_2022-08-11.png)
+
+### Refunds&#x20;
+
+Refunds are approved and processed by the fiscal hosts subject to their terms and conditions. Please [contact](https://opencollective.com/contact) our team with details about your refund request, the amount, the date the transaction occurred and a link to the collective and we will pass your query along to the right fiscal host.&#x20;
+
+Open Source Collective [Refund Policy](https://docs.oscollective.org/faq/expenses#how-can-i-get-a-refund-on-a-payment-or-donation)&#x20;
