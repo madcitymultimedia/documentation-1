@@ -26,7 +26,7 @@ You can find the option to donate incognito (anonymously) on the second step of 
 
 {% hint style="info" %}
 **Cancelling a bank/wire/ACH transfer**\
-If you don't make a bank transfer, the pending order will expire and no further action is required.
+If you don't make a bank transfer, the pending order will expire after two months and no further action is required.
 {% endhint %}
 
 ## Recurring financial contributions (subscriptions)
