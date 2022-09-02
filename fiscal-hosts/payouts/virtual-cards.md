@@ -1,7 +1,7 @@
 # Virtual Card Settings
 
 {% hint style="warning" %}
-**This feature is currently in closed Beta test.**
+**This feature is currently in a closed Beta test.**
 {% endhint %}
 
 Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider [Stripe.com](https://www.stripe.com) and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website.
@@ -51,9 +51,9 @@ Hosts have complete control over when, how, and to who they provide Virtual Card
 
 ## Creating and assigning cards
 
-Virtual Cards are created using our provider [Privacy.com](https://privacy.com/). To create a card on [Privacy.com](https://privacy.com/) register and follow the details [here](https://privacy.com/virtual-card).
+Virtual Cards are created using our provider [Stripe](https://www.stripe.com). To create a card on [Stripe](https://www.stripe.com) register and follow the details [here](https://stripe.com/en-gb-fr/issuing).
 
-Once you have created a card on [Privacy.com](https://privacy.com/) you can assign it to a Collective:
+Once you have created a card on [Stripe ](https://stripe.com/en-gb-fr)you can assign it to a Collective:
 
 ![Assigning a Virtual Card](../../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
 
@@ -67,7 +67,7 @@ You can view all cards assigned to Collectives from the Virtual Cards settings p
 
 ![Filter virtual cards by status, merchant or collective.](../../.gitbook/assets/screenshot-2021-05-12-at-16.11.02.png)
 
-Each card shows the name, status, assigned collective, when the card was assigned and any limits set on the card in Privacy.com. The last four digits of the card are also shown. To view the full details of a card click 'view card details'.
+Each card shows the name, status, assigned collective, when the card was assigned and any limits set on the card in Stripe. The last four digits of the card are also shown. To view the full details of a card click 'view card details'.
 
 {% hint style="warning" %}
 Be aware of your surroundings when viewing a card's details as others may be able to see them.
@@ -75,13 +75,13 @@ Be aware of your surroundings when viewing a card's details as others may be abl
 
 ## Changing virtual card spending limits, owners and collectives
 
-Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card, delete the card then create and assign a new one instead.
+Virtual Card spending limits can be modified using Stripe. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card, delete the card then create and assign a new one instead.
 
-If you need to make a change to initiative's card, please update to the correct amount in Privacy.com, and then [contact us](https://opencollective.com/contact) with a screenshot so that our team can make the adjustment on the platform.
+If you need to make a change to the initiative's card, please update it to the correct amount in Stripe, and then [contact us](https://opencollective.com/contact) with a screenshot so that our team can make the adjustment on the platform.
 
 ## Pausing, resuming, and deleting a card
 
-Pausing, resuming, and deleting should be done through Privacy's dashboard. Don't worry about syncing the information to the platform, our work will take care of updating the card state or deleting the cards that were removed from your Privacy account every hour.
+Pausing, resuming, and deleting should be done through Stripe's dashboard. Don't worry about syncing the information to the platform, our work will take care of updating the card state or deleting the cards that were removed from your Stripe account every hour.
 
 ### Virtual Cards Charge Expense Explanation
 
@@ -95,7 +95,7 @@ Since there's a delay between the authorization of purchase and the actual charg
 During this period, the user can already attach a receipt to the expense, but they should bear in mind that the amount may change between the authorization and the actual charge.
 
 \
-If the authorization is canceled before there's an actual charge, we simply delete the expense.\
+If the authorization is cancelled before there's an actual charge, we simply delete the expense.\
 
 
 After the charge is received, this expense is then moved to the "PAID" status and we create the necessary transactions in the collective ledger using the final charged amount.
