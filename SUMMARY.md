@@ -124,6 +124,7 @@
 * [About Independent Collectives](independent-collectives/about-independent-collectives.md)
 * [Create an Independent Collective](independent-collectives/create-independent-collective/README.md)
   * [Migrate from Self-Hosted to Independent Collective](independent-collectives/create-independent-collective/migrate-from-self-hosted-to-independent-collective.md)
+  * [Migrate from a Fiscal Host to Independent Collective](independent-collectives/create-independent-collective/migrate-from-a-fiscal-host-to-independent-collective.md)
 * [Independent Collective Setup](independent-collectives/set-up-independent-collective.md)
 * [Independent Collective Management](independent-collectives/manage-independent-collective/README.md)
   * [Money coming in: Contributions](independent-collectives/manage-independent-collective/money-coming-in-contributions.md)
