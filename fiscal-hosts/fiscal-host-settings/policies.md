@@ -19,3 +19,14 @@ It is also possible to automatically prevent these collectives that have pending
 ![](<../../.gitbook/assets/image (54).png>)
 
 In this scenario, if you decide to open an exception to a collective that still doesn't satisfy the minimum number of admins, you'll make sure they only start to raise funds after they have enough signed-up admins.
+
+## Expense Approvals&#x20;
+
+Set rules for expense approval.&#x20;
+
+<figure><img src="../../.gitbook/assets/FiscalHosts_Policies_expenseapprovals_2022-09-04.png" alt=""><figcaption></figcaption></figure>
+
+## Expense Types&#x20;
+
+<figure><img src="../../.gitbook/assets/expenses_submittingexpenses_recurringexpenses_2022-08-15 (1).png" alt=""><figcaption></figcaption></figure>
+
