@@ -30,6 +30,8 @@ Set rules for expense approval.&#x20;
 
 Specify the types of expenses allowed for all the collectives you're hosting.
 
+{% embed url="https://www.loom.com/share/d456897424d943feb171f3ae0a2754e7" %}
+
 
 
 <figure><img src="../../.gitbook/assets/fiscalHosts_policies_expensetypes_2022-09-04.png" alt=""><figcaption></figcaption></figure>
