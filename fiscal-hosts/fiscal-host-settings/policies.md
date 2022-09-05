@@ -34,7 +34,7 @@ Specify the types of expenses allowed for all the collectives you're hosting.
 
 <figure><img src="../../.gitbook/assets/fiscalHosts_policies_expensetypes_2022-09-04.png" alt=""><figcaption></figcaption></figure>
 
-If you wish to customise these options for specific collectives head to the Hosted Collectives section.
+If you wish to customise these options for specific collectives head to the [Hosted Collectives](../fiscal-host-dashboard/hosted-collectives.md) section.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-09-02 at 8.19.32 AM.png" alt=""><figcaption></figcaption></figure>
 
