@@ -8,20 +8,20 @@ Refunds are processed by Fiscal Host administrators. If you are not the admin, c
 
 Go to the Collective page and head to the **Budget** section.
 
-![](../../.gitbook/assets/fiscal-hosts-refunds\_budget-section\_2019-11-25.png)
+<figure><img src="../../.gitbook/assets/fiscalhosts_refunds_budget_2022-09-06.png" alt=""><figcaption></figcaption></figure>
 
-Click on **View all transactions**.
+Click on the Transactions Tab and then **View all transactions**.
 
-![](../../.gitbook/assets/fiscal-hosts\_refunds\_view-all-transactions\_2019-11-25.png)
+<figure><img src="../../.gitbook/assets/fiscalhosts_refunds_transactions_2022-09-06.png" alt=""><figcaption></figcaption></figure>
 
-Find the transaction you want to refund on the list.
+Find the transaction you want to refund on the list and click on **View Details**.
 
-![](../../.gitbook/assets/fiscal-hosts\_refunds\_all-transactions\_2019-11-25.png)
+<figure><img src="../../.gitbook/assets/fiscalhosts_refunds_transactionssection_2022-09-06 (1).png" alt=""><figcaption></figcaption></figure>
 
-Click on **View details**. You will find a **refund** button right next to the transaction details.
+You will find a **refund** button right next to the transaction details.
 
-![](../../.gitbook/assets/fiscal-hosts\_refunds\_view-details\_2019-11-25.gif)
+<figure><img src="../../.gitbook/assets/fiscalhosts_refund_refund_2022-09-06.png" alt=""><figcaption></figcaption></figure>
 
 Click on it and confirm the operation.
 
-![](../../.gitbook/assets/fiscal-hosts\_refunds\_view-details\_confirm\_2019-11-25.gif)
+<figure><img src="../../.gitbook/assets/fiscalhosts_refunds_confirm_2022-09-06.png" alt=""><figcaption></figcaption></figure>
