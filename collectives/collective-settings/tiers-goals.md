@@ -18,7 +18,7 @@ You can choose between three different visual options.&#x20;
 
 **Auto**: Will switch from Logarithm to Linear when 30% of the goal is achieved.&#x20;
 
-**Logarithm**: Will make the progress appear larger to incentivises new contributors. This is backed by social proof.&#x20;
+**Logarithm**: Will make the progress bar appear larger to incentivise new contributions. This is backed by social proof.&#x20;
 
 **Linear**: Exact visual representation.&#x20;
 
