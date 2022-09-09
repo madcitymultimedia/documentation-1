@@ -108,6 +108,7 @@
   * [Reports (Beta)](fiscal-hosts/fiscal-host-dashboard/reports-beta.md)
 * [Receiving Money](fiscal-hosts/receiving-money/README.md)
   * [Bank Transfers](fiscal-hosts/receiving-money/bank-transfers.md)
+  * [Credit Card](fiscal-hosts/receiving-money/credit-card.md)
   * [Add Funds Manually](fiscal-hosts/receiving-money/add-funds-manually.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Virtual Card Settings](fiscal-hosts/payouts/virtual-cards.md)
