@@ -14,6 +14,16 @@ To create your own Collective goals, go to your Collective profile, click on **S
 
 ![](../../.gitbook/assets/collectives\_collectives\_goals\_and\_tiers\_2021-05-31.png)
 
+You can choose between three different visual options.&#x20;
+
+**Auto**: Will switch from Logarithm to Linear when 30% of the goal is achieved.&#x20;
+
+**Logarithm**: Will make the progress appear larger to incentivises new contributors. This is backed by social proof.&#x20;
+
+**Linear**: Exact visual representation.&#x20;
+
+### How to Create a Goal
+
 To create a goal, give it a **title**, select a **type:**
 
 * **Balance** goals are based on your current balance.
