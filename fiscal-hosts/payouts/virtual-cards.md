@@ -8,10 +8,20 @@ Virtual cards can be offered to collectives through Hosts. Hosts create virtual 
 
 ## Connecting to Stripe
 
-{% embed url="https://support.stripe.com/questions/getting-started-with-issuing" %}
+* Get the API Key from your Privacy.com account:
+  * Open a new tab and go to your [Privacy account settings](https://privacy.com/account).
+  * Click on "Enable API".
+  * Select "Production" environment.
+  * Enable Production Webhook and set the address to: `https://api.opencollective.com/webhooks/privacy`
+  * Copy your Production API Key for the next step.
 
-1. Go to the above page, contact the Issuing sales team to get set up with Stripe Virtual Cards.&#x20;
-2. Ensure [Stripe is connected](../receiving-money/credit-card.md) to your account.&#x20;
+![](../../.gitbook/assets/screenshot-from-2021-08-03-15-56-54.png)
+
+* Add your API key to your Collective settings:
+  * Open your Collective settings and open the "Sending Money" page.
+  * Paste your API Key in the "API Key" field and click on "Connect Privacy".
+
+![](../../.gitbook/assets/screenshot-from-2021-08-03-16-04-49.png)
 
 ## Accessing Virtual Card Settings
 
