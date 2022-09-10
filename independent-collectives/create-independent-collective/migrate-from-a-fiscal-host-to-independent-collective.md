@@ -12,7 +12,8 @@ If you have a Collective which is Fiscally Hosted, here are the steps to change 
 
 1. Empty your Collective balance, if it's not already empty, in one of these ways:
    1. Submit expenses to your Collective until you've spent all the money, or
-   2. Go to Settings > Advanced > Empty Collective Balance to send your balance to your Host
+   2. Go to Settings > Advanced > Empty Collective Balance to send your balance to your Host, or
+   3. Donate the balance to another Collective by making a Contribution with your Collective as the source of funds.
 2. Once the balance is zero, go to Settings > Fiscal Host > 'Remove Host'
 3. Select Independent Collective then click the button to activate
 4. In settings, go to Receiving Money and connect your Stripe and bank account
