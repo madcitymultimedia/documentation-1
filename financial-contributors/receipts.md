@@ -2,7 +2,7 @@
 
 You should have received a receipt by email from Open Collective at the time of your donation. However, if that is not available to you, here are instructions on how you can generate a receipt for tax purposes.
 
-**Instructions for Accessing Receipts via Settings**&#x20;
+### **Instructions for Accessing Receipts via Settings**&#x20;
 
 1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
 2. Click on your name in the top right-hand corner.&#x20;
@@ -12,7 +12,7 @@ You should have received a receipt by email from Open Collective at the time of 
 
 4\. Click on Payment Receipts, you should then be able to see all of your contributions&#x20;
 
-**Instructions for Accessing Receipts via Profile**&#x20;
+### **Instructions for Accessing Receipts via Profile**&#x20;
 
 1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
 2. Click on your name in the top right-hand corner.&#x20;
@@ -40,7 +40,7 @@ You should have received a receipt by email from Open Collective at the time of 
 
 9\. Click 'Download Receipt in the bottom right-hand corner.&#x20;
 
-**Instructions for Downloading a Tax Receipt from the Collectives page** &#x20;
+### **Instructions for Downloading a Tax Receipt from the Collectives page** &#x20;
 
 1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
 2. Go to the collectives page you supported
@@ -60,3 +60,13 @@ You should have received a receipt by email from Open Collective at the time of 
 7\. Click 'Download Receipt' and you will download a PDF of your receipt that can be used for tax purposes.&#x20;
 
 ![](../.gitbook/assets/financialcontributors\_receipts\_download\_2021-06-22.png)
+
+### How to change your details on a Receipt&#x20;
+
+If you log into your account, you can update the Billing information via your profile settings.&#x20;
+
+<figure><img src="../.gitbook/assets/financialcontributors_receipts_details_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/financialcontributors_receipts_info_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
+
+The receipt is generated from this data so after saving the new information, regenerate the receipt and you should see the updated information.
