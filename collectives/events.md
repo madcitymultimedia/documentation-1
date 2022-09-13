@@ -176,7 +176,7 @@ Enabling this will enable support for donations with Cryptocurrencies such as Bi
 
 Choose between Generic tier, Membership (recurring), Service (e.g. Support), Product (e.g. T-shirt) or Donation (Gift)
 
-<figure><img src="../.gitbook/assets/collectives_events_teirtypes_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_teirtypes_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Name&#x20;
 
@@ -231,17 +231,6 @@ Shows the activity that has happened on the event
 **Delete this Event** - This Event will be deleted, along with all related data.&#x20;
 
 <figure><img src="../.gitbook/assets/collectives_events_advanced_2022-09-13.png" alt=""><figcaption></figcaption></figure>
-
-## Edit or Delete an Event
-
-1. Log in to your Collective
-2. Click on the events tab
-3. Click on the name of the event
-4. Click "EDIT" on the event page
-
-You will now be able to edit your event.
-
-To delete, scroll down to the bottom and click "delete event".
 
 ### **How can I set a longer description?**
 
