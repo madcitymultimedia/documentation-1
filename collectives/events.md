@@ -14,25 +14,17 @@ This functionality is still in it's experimental phase.
 
 Log in to your Collective and scroll down to the Events section. Click on the **Create Event** button.
 
-![](../.gitbook/assets/collectives\_events\_creating-a-event.png)
+<figure><img src="../.gitbook/assets/collectives_events_createevent_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-* **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
+<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
+
 * **Name** of the event
-* **Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
+* **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
 * **Start** date & time
 * **End** date & time
+* **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
 * **Location:** the address will load a map
-
-### Tickets & Pricing
-
-You can create several kinds of tickets.
-
-* Type (supporters, sponsor, or ticket)
-* Name (eg, gold sponsor, free ticket, donation, etc)
-* Description (what the ticket includes or who it's for)
-* Amount (price) can be free or you can charge
-
-You can add more tickets with the "add another ticket" button.
+* **Private instructions:** These instructions will be provided by email to the participants.&#x20;
 
 #### Add Images
 
@@ -45,6 +37,55 @@ You'll need to host your image somewhere and link to it with markdown syntax. Us
 The size of the image should be 750 px wide max.
 
 #### Finally, click the "CREATE EVENT" button.
+
+## Event Settings&#x20;
+
+To access your event settings - click on the settings button on the right side of the page.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_settings_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+### Info
+
+Edit the basic event information of your event
+
+<figure><img src="../.gitbook/assets/collectives_events_settingspage_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+* **Name** of the event
+* **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
+* **Start** date & time
+* **End** date & time
+* **URL:** the online address your event will have - very important so you don't get a [404 error](events.md#i-cant-see-my-event-listed-or-get-a-404-error).
+* **Location:** the address will load a map
+* **Private instructions:** These instructions will be provided by email to the participants.&#x20;
+
+### Profile Page&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_page_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+### Custom Email&#x20;
+
+### Export&#x20;
+
+### Team
+
+### Tickets
+
+You can create several kinds of tickets.
+
+* Type (supporters, sponsor, or ticket)
+* Name (eg, gold sponsor, free ticket, donation, etc)
+* Description (what the ticket includes or who it's for)
+* Amount (price) can be free or you can charge
+
+You can add more tickets with the "add another ticket" button.
+
+### Tiers
+
+### Webhooks
+
+### Activity Log
+
+### Advanced
 
 ## Edit or Delete an Event
 
