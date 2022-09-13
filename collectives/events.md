@@ -102,7 +102,7 @@ Ticket - allow multiple tickets per order&#x20;
 
 #### Name&#x20;
 
-(eg, gold sponsor, free ticket, donation, etc)
+Name of the Ticket (eg, gold sponsor, free ticket, donation, etc)
 
 #### Description&#x20;
 
@@ -154,7 +154,7 @@ Click on the remove ticket text in the top right hand corner&#x20;
 
 ### Tiers
 
-Tiers can be utilised within the financial contribution section of your event.&#x20;
+Tiers can be utilised within the financial contribution section of your event. This is for people that want to give donations to your event, not purchase tickets.&#x20;
 
 You can choose to turn on Flexible Contributions, Crypto Contributions or Create your own tiers
 
@@ -171,6 +171,46 @@ Enabling this will enable support for donations with Cryptocurrencies such as Bi
 #### Create your own tiers
 
 <figure><img src="../.gitbook/assets/collectives_events_createtier_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Type&#x20;
+
+Choose between Generic tier, Membership (recurring), Service (e.g. Support), Product (e.g. T-shirt) or Donation (Gift)
+
+<figure><img src="../.gitbook/assets/collectives_events_teirtypes_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Name&#x20;
+
+Name of the Tier&#x20;
+
+#### Description&#x20;
+
+purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
+
+#### Interval&#x20;
+
+Choose between one-time, monthly, yearly or flexible&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_interval_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Amount&#x20;
+
+Choose the amount&#x20;
+
+#### Available quantity&#x20;
+
+Select the available quantity, leave empty for unlimited&#x20;
+
+#### Button text&#x20;
+
+Select your custom button text&#x20;
+
+#### Goal&#x20;
+
+Indicate an amount you wish to raise&#x20;
+
+#### Standalone page&#x20;
+
+Create a standalone page for this tier. It's like a mini-crowdfunding campaign page that you can add a detailed description and video to, and link to directly
 
 ### Webhooks
 
