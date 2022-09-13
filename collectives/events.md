@@ -210,13 +210,27 @@ Indicate an amount you wish to raise&#x20;
 
 #### Standalone page&#x20;
 
-Create a standalone page for this tier. It's like a mini-crowdfunding campaign page that you can add a detailed description and video to, and link to directly
+Create a standalone page for this tier. It's like a mini-crowdfunding campaign page that you can add a detailed description and video too, and link to directly
 
 ### Webhooks
 
+You can use Webhooks to build custom integrations with Open Collective. Slack and Discord webhooks are natively supported. You can also integrate them with tools like Zapier, IFTTT or Huginn.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_webhooks_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
 ### Activity Log
 
+Shows the activity that has happened on the event
+
 ### Advanced
+
+**Empty your Event balance** - Transfer the remaining balance to the collective. The Event balance must be zero to archive the Event.&#x20;
+
+**Archive this Event** - Archiving this Event means it will visually appear inactive and no new activity will be allowed&#x20;
+
+**Delete this Event** - This Event will be deleted, along with all related data.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_advanced_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 ## Edit or Delete an Event
 
