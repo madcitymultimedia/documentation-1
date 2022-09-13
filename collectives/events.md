@@ -16,7 +16,7 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 <figure><img src="../.gitbook/assets/collectives_events_createevent_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Name** of the event
 * **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
@@ -84,19 +84,17 @@ Events inherit the admins/team of the Collective.
 
 ### Tickets
 
-To add tickets to your event&#x20;
+To add tickets to your event click on the Create Ticket button on the Event Page or&#x20;
 
-collectives\_events\_export\_2022-09-13
+<figure><img src="../.gitbook/assets/collectives_events_hometickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 
 
-Click on the add another ticket button &#x20;
+Click on the add another ticket button within the event settings
 
 <figure><img src="../.gitbook/assets/collectives_events_tickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-### **How can I set an admin for my event?**&#x20;
-
-Events inherit the admins of the Collective.
+collectives\_events\_tickets\_2022-09-13
 
 You can create several kinds of tickets.
 
