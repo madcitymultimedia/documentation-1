@@ -16,7 +16,7 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 <figure><img src="../.gitbook/assets/collectives_events_createevent_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 * **Name** of the event
 * **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
@@ -58,17 +58,45 @@ Edit the basic event information of your event
 * **Location:** the address will load a map
 * **Private instructions:** These instructions will be provided by email to the participants.&#x20;
 
-### Profile Page&#x20;
+### Profile Page
+
+Drag and drop to reorder sections on your event page. Toggle on and off visibility with the visibility setting dropdown.&#x20;
 
 <figure><img src="../.gitbook/assets/collectives_events_page_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 ### Custom Email&#x20;
 
+Add a custom message to be included in the email sent to financial contributors/
+
+attendees of your Event
+
+<figure><img src="../.gitbook/assets/collectives_events_email_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
 ### Export&#x20;
+
+Export your contributors data in CSV or JSON format
+
+<figure><img src="../.gitbook/assets/collectives_events_export_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 ### Team
 
+Events inherit the admins/team of the Collective.
+
 ### Tickets
+
+To add tickets to your event&#x20;
+
+collectives\_events\_export\_2022-09-13
+
+
+
+Click on the add another ticket button &#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_tickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+### **How can I set an admin for my event?**&#x20;
+
+Events inherit the admins of the Collective.
 
 You can create several kinds of tickets.
 
@@ -97,10 +125,6 @@ You can add more tickets with the "add another ticket" button.
 You will now be able to edit your event.
 
 To delete, scroll down to the bottom and click "delete event".
-
-### **How can I set an admin for my event?**&#x20;
-
-Events inherit the admins of the Collective.
 
 ### **How can I set a longer description?**
 
