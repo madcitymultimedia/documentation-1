@@ -16,7 +16,7 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 <figure><img src="../.gitbook/assets/collectives_events_createevent_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 * **Name** of the event
 * **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
@@ -94,16 +94,63 @@ Click on the add another ticket button within the event settings
 
 <figure><img src="../.gitbook/assets/collectives_events_tickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-collectives\_events\_tickets\_2022-09-13
+<figure><img src="../.gitbook/assets/collectives_events_createtickets_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
-You can create several kinds of tickets.
+#### Type&#x20;
 
-* Type (supporters, sponsor, or ticket)
-* Name (eg, gold sponsor, free ticket, donation, etc)
-* Description (what the ticket includes or who it's for)
-* Amount (price) can be free or you can charge
+Ticket - allow multiple tickets per order&#x20;
+
+#### Name&#x20;
+
+(eg, gold sponsor, free ticket, donation, etc)
+
+#### Description&#x20;
+
+What the ticket includes or who it's for
+
+#### Amount type
+
+Fixed amount lets your define the fixed ticket amount (price)&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_fixedamount_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+Flexible amount lets you define two suggested amounts, a default amount and a minimum amount
+
+<figure><img src="../.gitbook/assets/collectives_events_flexible_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Available quantity
+
+Define how many tickets are available. Leave empty for unlimited.&#x20;
+
+#### Button Text&#x20;
+
+Set a custom button text&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_buttontext_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/collectives_events_examplebutton_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Goal
+
+Define the amount you aim to raise&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_goals_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Standalone page
+
+Create a standalone page for this tier. It's like a mini-crowdfunding campaign page that you can add a detailed description and video too, and link to directly.&#x20;
+
+#### Want to add more tickets?
 
 You can add more tickets with the "add another ticket" button.
+
+<figure><img src="../.gitbook/assets/collectives_events_addmoretickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+
+#### Want to remove a ticket?
+
+Click on the remove ticket text in the top right hand corner&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_events_removericket_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 ### Tiers
 
