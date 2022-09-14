@@ -81,7 +81,11 @@ _**Note:** Adding a new card does not change the card for existing recurring con
 
 ### Change the amount, payment method or cancel an existing contribution
 
-Open the dropdown menu next to your profile avatar and click on **Manage Contributions.**
+Make sure you are logged in and then click on your profile in the top right hand corner&#x20;
+
+<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14 (1).png" alt=""><figcaption></figcaption></figure>
+
+This should open the dropdown menu next to your profile avatar. Click on **Manage Contributions.**
 
 ![](<../.gitbook/assets/image (31).png>)
 
