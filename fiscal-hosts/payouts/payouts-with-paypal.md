@@ -101,3 +101,13 @@ In order to reduce risks related to having an active API token that is able to c
 
 * Keep just enough balance in PayPal to pay your expenses.
   * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
+
+
+
+## Disconnect from Paypal&#x20;
+
+Go to your Fiscal host settings&#x20;
+
+Sending money&#x20;
+
+Disable Paypal&#x20;
