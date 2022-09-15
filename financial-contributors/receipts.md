@@ -4,6 +4,10 @@ You should have received a receipt by email from Open Collective at the time of 
 
 ### **Instructions for Accessing Receipts via Settings**&#x20;
 
+{% hint style="warning" %}
+Consolidated Payment Receipts in the settings section only appear after the month has ended.
+{% endhint %}
+
 1. Ensure you are [signed in](https://opencollective.com/signin?next=%2F) with the email address you used to process the transaction.
 2. Click on your name in the top right-hand corner.&#x20;
 3. Under **My Account** click on Settings.&#x20;
