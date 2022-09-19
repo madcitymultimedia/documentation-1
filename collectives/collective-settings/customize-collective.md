@@ -4,11 +4,17 @@
 
 To access all settings for your Collective, click the settings button shown in the image below.
 
-![](../../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
+![](../../.gitbook/assets/collectives\_customize\_collective\_2021-05-31.png)
 
-## Page Sections
+## Profile Page
 
-As an admin, all sections will appear in your view, with invitations to add content. However, any sections without content will not appear to other users \(for example, **Updates** and **About**\).
+Show and hide different sections on your collective page.&#x20;
+
+<figure><img src="../../.gitbook/assets/collectives_settings_profilepage_2022_09_19.png" alt=""><figcaption></figcaption></figure>
+
+As an admin, all sections will appear in your view, with invitations to add content.
+
+&#x20;However, any sections without content will not appear to other users (for example, **Updates** and **About**).
 
 ![](../../.gitbook/assets/screen-shot-2019-09-18-at-11.12.02-am.png)
 
@@ -32,7 +38,6 @@ Click on **Edit main color** in the header area to set the color.
 
 ## Set Cover Image
 
-To change your cover image, click on **Edit cover**. By clicking on the image, you are able to move it around. You can also zoom in and out as you like. The optimal image size for a cover image is 2736x650. 
+To change your cover image, click on **Edit cover**. By clicking on the image, you are able to move it around. You can also zoom in and out as you like. The optimal image size for a cover image is 2736x650.&#x20;
 
 ![](../../.gitbook/assets/cover-image.gif)
-
