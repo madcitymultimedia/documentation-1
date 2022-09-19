@@ -106,8 +106,26 @@ In order to reduce risks related to having an active API token that is able to c
 
 ## Disconnect from Paypal&#x20;
 
-Go to your Fiscal host settings&#x20;
+1. Click on the admin button on the top right hand side of your fiscal host page.&#x20;
 
-Sending money&#x20;
+<figure><img src="../../.gitbook/assets/fiscalhosts_payouts_paypal_disable_2022_09_19.png" alt=""><figcaption></figcaption></figure>
 
-Disable Paypal&#x20;
+2\. Go to your Fiscal host settings
+
+<figure><img src="../../.gitbook/assets/fiscalhost_payouts_paypal_settings.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+
+
+3\. Click on Sending money
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/fiscalhost_payouts_paypal_sendingmoney_2022_09_19.png" alt=""><figcaption></figcaption></figure>
+
+
+
+4\. Disable Paypal&#x20;
+
+<figure><img src="../../.gitbook/assets/fiscalhost_payouts_paypal_2022_09_19.png" alt=""><figcaption></figcaption></figure>
