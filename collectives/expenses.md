@@ -55,22 +55,18 @@ The expense status is a single label that will change throughout the Expense flo
 
 When creating an expense, you are able to add relevant tags.&#x20;
 
-<figure><img src="../.gitbook/assets/collectives_expenses_createtags_2022_09_22 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_expenses_tagging_2022_09_22.gif" alt=""><figcaption></figcaption></figure>
+
+When you start utilising tags you will be able to select from existing tags, making the process faster and more streamlined.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_expenses_tags_2022_9_22.png" alt=""><figcaption></figcaption></figure>
 
 
 
 If an expense tag is wrong or missing, it's very easy to go back later and add or change it.&#x20;
 
+<figure><img src="../.gitbook/assets/collectives_expenses_aftertagging_2022_09_22.gif" alt=""><figcaption></figcaption></figure>
 
 
-
-
-You are able to add multiple tags.
-
-Select from the existing tags, which should correspond to the categories explained below.
-
-
-
-<figure><img src="../.gitbook/assets/collectives_expenses_tags_2022_9_22.png" alt=""><figcaption></figcaption></figure>
 
 ###
