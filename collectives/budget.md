@@ -39,7 +39,7 @@ Our new budget visualisation pulls information from your tagged expenses and you
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.43.22 AM.png" alt=""><figcaption></figcaption></figure>
 
-We recommend tagging your expenses to ensure your graphs display accurate expense data.  Click here to learn how to tag your expenses.&#x20;
+We recommend tagging your expenses to ensure your graphs display accurate expense data.  [Click here to learn how to tag your expenses. ](https://docs.opencollective.com/help/collectives/expenses#expense-tags)
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.47.13 AM.png" alt=""><figcaption></figcaption></figure>
 
