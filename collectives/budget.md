@@ -39,11 +39,11 @@ Our new budget visualisation pulls information from your tagged expenses and you
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.43.22 AM.png" alt=""><figcaption></figcaption></figure>
 
-We recommend tagging your expenses to ensure your graphs display accurate expense data.  [Click here to learn how to tag your expenses. ](https://docs.opencollective.com/help/collectives/expenses#expense-tags)
+We recommend tagging your expenses to ensure your graphs display accurate expense data.  Click here to learn how to tag your expenses.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.47.13 AM.png" alt=""><figcaption></figcaption></figure>
 
-This new budget visualisation tool will help your funders/contributors get a better sense of your financial well-being. Questions can now be easily answered; such as: How long has the project been actively raising money? - Is the funding consistent - How does the project currently spend its funding?
+This new budget visualisation tool will help your funders get a better sense of your financial well-being. Questions can now be easily answered; such as: How long has the project been actively raising money? - Is the funding consistent - How does the project currently spend its funding?
 
 
 
