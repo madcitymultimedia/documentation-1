@@ -2,7 +2,15 @@
 
 ## Inside the platform
 
-Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on. The Budget Section on the Collectives Page shows the most recent transactions alongside Todays Balance, Total Raised, Total Disbursed and Estimates Annual Budget.
+Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on.&#x20;
+
+We have two budget views. Our [Simple budget](budget.md#simple-budget) view shows **** overall monetary figures and a list of expenses and contributions.&#x20;
+
+Our [new budget visualisation](budget.md#undefined) pulls information from your expenses and contributions and showcases them with varying graphs.&#x20;
+
+### Simple Budget&#x20;
+
+The Budget Section on the Collectives Page shows the most recent transactions alongside - Todays Balance, Total Raised, Total Disbursed and Estimates Annual Budget.
 
 ![](../.gitbook/assets/collectives\_transparentbudgets\_budget\_2021-07-6.png)
 
@@ -24,4 +32,38 @@ You can click on View all transactions to view a more detailed breakdown this vi
 
 ![](../.gitbook/assets/collectives\_transparentbudget\_alltransactions\_2021-07-6.png)
 
-##
+### New Budget Visualisation&#x20;
+
+\
+Our new budget visualisation pulls information from your tagged expenses and your one-time and recurring contributions. These can then be filtered by different time frames and showcased with varying graphs.&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.43.22 AM.png" alt=""><figcaption></figcaption></figure>
+
+We recommend tagging your expenses to ensure your graphs display accurate expense data.  Click here to learn how to tag your expenses.&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.47.13 AM.png" alt=""><figcaption></figcaption></figure>
+
+This new budget visualisation tool will help your funders get a better sense of your financial well-being. Questions can now be easily answered; such as: How long has the project been actively raising money? - Is the funding consistent - How does the project currently spend its funding?
+
+
+
+### How to switch your Budget View
+
+\
+Toggl between the two budget views by going to your page settings&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_transparentbudget_settings_2022_09_22.png" alt=""><figcaption></figcaption></figure>
+
+Select Profile Page&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_transparentbudget_profilepage_2022_09_22.png" alt=""><figcaption></figcaption></figure>
+
+\
+Find the Budget section, you can then toggle between the two budget views and move this section on your profile page.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_transparentbudget_toggl_2022_09_22.png" alt=""><figcaption></figcaption></figure>
+
+\
+Then click save
+
+<figure><img src="../.gitbook/assets/collectives_transparentbudget_save_2022_09_22.png" alt=""><figcaption></figcaption></figure>
