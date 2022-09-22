@@ -1,20 +1,5 @@
 # Expenses
 
-## Expenses Status
-
-The expense status is a single label that will change throughout the Expense flow and indicates what is going on with the expense.
-
-* **Draft:** Expense is a Draft sent for someone else to complete. After 30 days, the draft will expire.
-* **Unverified:** The user submitted an Expense Draft and now we're waiting for the user to verify their email in order to move it to "PENDING".
-* **Pending:** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
-* **Approved:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
-* **Rejected:** Collective admin rejected the expense. This is a possible final state for the Expense.
-* **Scheduled for Payment:** Expense was scheduled for payment and will be paid in a batch of expenses. After being paid, the expense will be marked as "PROCESSING".
-* **Processing:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
-* **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
-* **Paid:** Expense was sucessfully paid. This is the final state for the expense.
-* **Spam:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
-
 ## FAQ
 
 ### How do I know when an expense is pending?
@@ -47,4 +32,45 @@ Submit an expense, select manual/custom payment method, and mark it as paid. The
 
 ### How can I delete a pending expense?&#x20;
 
-You will need to reject the expense, then you will be able to delete it.&#x20;
+You will need to reject the expense, then you will be able to delete it.
+
+## Expenses Status
+
+The expense status is a single label that will change throughout the Expense flow and indicates what is going on with the expense.
+
+* **Draft:** Expense is a Draft sent for someone else to complete. After 30 days, the draft will expire.
+* **Unverified:** The user submitted an Expense Draft and now we're waiting for the user to verify their email in order to move it to "PENDING".
+* **Pending:** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+* **Approved:** Expense was approved by a collective admin. We're now waiting for the Fiscal Host admin to pay for it.
+* **Rejected:** Collective admin rejected the expense. This is a possible final state for the Expense.
+* **Scheduled for Payment:** Expense was scheduled for payment and will be paid in a batch of expenses. After being paid, the expense will be marked as "PROCESSING".
+* **Processing:** Expense was paid by the Fiscal Host. We're waiting for a third-party service (Wise or PayPal) to confirm the transaction was completed.
+* **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
+* **Paid:** Expense was sucessfully paid. This is the final state for the expense.
+* **Spam:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
+
+## Expense tags&#x20;
+
+### Adding tags
+
+When creating an expense, you are able to add relevant tags.&#x20;
+
+<figure><img src="../.gitbook/assets/collectives_expenses_createtags_2022_09_22 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+If an expense tag is wrong or missing, it's very easy to go back later and add or change it.&#x20;
+
+
+
+
+
+You are able to add multiple tags.
+
+Select from the existing tags, which should correspond to the categories explained below.
+
+
+
+<figure><img src="../.gitbook/assets/collectives_expenses_tags_2022_9_22.png" alt=""><figcaption></figcaption></figure>
+
+###
