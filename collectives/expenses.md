@@ -67,6 +67,21 @@ If an expense tag is wrong or missing, it's very easy to go back later and add o
 
 <figure><img src="../.gitbook/assets/collectives_expenses_aftertagging_2022_09_22.gif" alt=""><figcaption></figcaption></figure>
 
+### Example Expense tags
 
-
-###
+* Employees - Wages and benefits for core team members
+* Contractors - Pay invoices from core team members
+* Accounting - A Team invoices, auditor fees
+* Legal - Lawyer bills
+* Software - SaaS subscriptions
+* Memberships - Fees for joining networks, coalitions, etc
+* Workspace - Home office setup costs or coworking expenses
+* Platform - Paid to Open Collective Inc
+* Engineering - Developing features & websites
+* Marketing - Illustrations, design, media content creation
+* Insurance - Liability insurance premiums (not health insurance benefits)
+* Meals & Entertainment - Team lunches, client meetings over a meal
+* Travel - Transportation and associated costs
+* Donations - Charitable contributions to other entities
+* Taxes & Licenses - Compliance-related expenses
+* General - Operation expenses & supplies not covered above
