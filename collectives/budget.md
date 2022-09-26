@@ -34,23 +34,22 @@ You can click on View all transactions to view a more detailed breakdown this vi
 
 ### New Budget Visualisation&#x20;
 
-\
-Our new budget visualisation pulls information from your tagged expenses and your one-time and recurring contributions. These can then be filtered by different time frames and showcased with varying graphs.&#x20;
+
+
+Our new budget visualisation enables a more accessible exploration of your data through graphs and categories. This feature pulls information from your tagged expenses and your one-time and recurring contributions. These can then be filtered by different time frames and showcased with varying graphs.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.43.22 AM.png" alt=""><figcaption></figcaption></figure>
 
-We recommend tagging your expenses to ensure your graphs display accurate expense data.  Click here to learn how to tag your expenses.&#x20;
+We recommend tagging your expenses to ensure your graphs display accurate expense data.  [Click here to learn how to tag your expenses. ](https://docs.opencollective.com/help/collectives/expenses#expense-tags)
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.47.13 AM.png" alt=""><figcaption></figcaption></figure>
 
-This new budget visualisation tool will help your funders get a better sense of your financial well-being. Questions can now be easily answered; such as: How long has the project been actively raising money? - Is the funding consistent - How does the project currently spend its funding?
-
-
+This new budget visualisation tool will help your funders/contributors get a better sense of your financial well-being. Questions can now be easily answered; such as: How long has the project been actively raising money? - Is the funding consistent - How does the project currently spend its funding?
 
 ### How to switch your Budget View
 
 \
-Toggl between the two budget views by going to your page settings&#x20;
+Toggle between the two budget views by going to your page settings&#x20;
 
 <figure><img src="../.gitbook/assets/collectives_transparentbudget_settings_2022_09_22.png" alt=""><figcaption></figcaption></figure>
 
