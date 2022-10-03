@@ -95,14 +95,16 @@ You'll be redirected to a page with all of your recurring financial contribution
 
 ![Click on "Edit" do see the options](<../.gitbook/assets/image (15).png>)
 
-### How to remove my payment method
+### How to change or remove payment method
 
 1. Click on your user profile in the top right-hand corner
 2. Click on settings&#x20;
 
 ![](<../.gitbook/assets/financialcontributors\_payments\_removepaymentmethod\_2022-08-11 (1).png>)
 
-3\. Click on Payment methods - If your card has active recurring contributions, you'll need to cancel them before you can remove your payment method.
+3\. To remove: Click on Payment methods - If your card has active recurring contributions, you'll need to cancel them before you can remove your payment method.\
+\
+To add a credit card: Click on add a credit card at the bottom.&#x20;
 
 ![](../.gitbook/assets/financialcontributors\_payments\_removecontributions\_2022-08-11.png)
 
