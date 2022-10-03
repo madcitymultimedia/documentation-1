@@ -73,12 +73,6 @@ Sign in directly by clicking on the "Sign in" button in the top navbar will have
 
 To view your current payment methods, go to your profile (under 'my account') and click 'edit profile', then 'payment methods'.
 
-### Save a new credit card for future transactions
-
-Go to manage payment methods in your profile settings and select "add another payment option". If you add a new card, you will have it as an option to make future contributions.
-
-_**Note:** Adding a new card does not change the card for existing recurring contributions._
-
 ### Change the amount, payment method or cancel an existing contribution
 
 Make sure you are logged in and then click on your profile in the top right hand corner&#x20;
@@ -95,7 +89,7 @@ You'll be redirected to a page with all of your recurring financial contribution
 
 ![Click on "Edit" do see the options](<../.gitbook/assets/image (15).png>)
 
-### How to change or remove payment method
+### How to add, change or remove payment method
 
 1. Click on your user profile in the top right-hand corner
 2. Click on settings&#x20;
@@ -105,6 +99,8 @@ You'll be redirected to a page with all of your recurring financial contribution
 3\. To remove: Click on Payment methods - If your card has active recurring contributions, you'll need to cancel them before you can remove your payment method.\
 \
 To add a credit card: Click on add a credit card at the bottom.&#x20;
+
+_**Note:** Adding a new card does not change the card for existing recurring contributions._
 
 ![](../.gitbook/assets/financialcontributors\_payments\_removecontributions\_2022-08-11.png)
 
