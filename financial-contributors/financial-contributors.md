@@ -30,6 +30,16 @@ You can also find open source dependencies using [Back Your Stack](https://backy
 
 You can usually pay by credit card through a Collective's page. Some [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) enable payments via bank transfer, Paypal, or other means for their Collectives, in addition to or instead of credit card payments. When you go through the contribution flow, you'll see all the available payment methods for that Collective.
 
+
+
+## Can I leave a message with my contribution?&#x20;
+
+To leave a message with your contribution navigate to the Our Contributors section of the Collectives page and find your Name.&#x20;
+
+<figure><img src="../.gitbook/assets/financialcontributors_FAQ_message_2022_10_21.png" alt=""><figcaption></figcaption></figure>
+
+Click on 'Leave a public message (optional)' and write your message.&#x20;
+
 ## Are my donations tax-deductible?
 
 It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collective. If the host has tax-exempt status, then your donation can be tax-deductible. It also may matter which country the host is in.
@@ -37,12 +47,6 @@ It depends on the [Fiscal Host ](../fiscal-hosts/fiscal-hosts.md)of the Collecti
 The Open Source Collective 501(c)(6) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself and therefore does not grant tax-exempt status. Donations to Collectives under Open Source Collective 501(c)(6) are not tax-deductible.
 
 In contrast, the Open Collective Foundation 501(c)(3), home to many groups focused on education, outreach, and social impact does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax-deductible in the US.
-
-## Can I update the billing address on my receipts?
-
-Yes. To do so, go to your Profile and click on the gear icon next to your avatar. You will find an Address field on the first page:
-
-![](../.gitbook/assets/financial-contributors\_address.jpeg)
 
 ## Can my Collective give to another Collective?
 
