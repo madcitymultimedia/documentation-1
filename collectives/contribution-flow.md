@@ -2,40 +2,38 @@
 
 The contribution flow is how users support a collective on Open Collective. The Contribution flow can be directly accessed via this link: e.g. [https://opencollective.com/webpack/donate](https://opencollective.com/webpack/donate)
 
-Replace 'webpack' with your collective slug to generate your own.&#x20;
+Replace 'webpack' with your collective slug to generate your own.
 
 ## URL parameters
 
 The contribution flow supports many URL parameters to pre-fill the contribution.
 
-Example: [https://opencollective.com/webpack/donate?amount=66.66\&platformContribution=3.34\&interval=month\&skipStepDetails=true](https://opencollective.com/webpack/donate/profile?amount=66.66\&interval=month).&#x20;
+Example: [https://opencollective.com/webpack/donate?amount=66.66\&platformContribution=3.34\&interval=month\&skipStepDetails=true](https://opencollective.com/webpack/donate/profile?amount=66.66\&interval=month).
 
 This link will bring you directly to the profile step of the contribution flow for webpack, with a monthly contribution of $66.66.
 
-| name | type | description | default | example |
-| ---- | ---- | ----------- | ------- | ------- |
-| `amount` | amount | Default contribution amount |  | `&amount=42.42` |
-| `quantity` | integer | Default number of units (for products and tickets only) | 1 | `&quantity=5` |
-| `interval` | interval | The contribution interval (must be supported by the selected tier, if any) |  | `&interval='month'` |
-| `description` | string | A custom description |  |  |
-| `contributeAs` | string | Slug of the default profile to use to contribute | Logged in user personal profile |  |
-| `email` | string | Guest contributions only: The email to use to contribute |  | `&email=test@opencollective.com` |
-| `name` | string | Guest contributions only: The name to use to contribute |  | `&name=John Doe` |
-| `disabledPaymentMethodTypes` | comma-separated list | To disable specific payment method types |  | `&disabledPaymentMethodTypes=MANUAL,BANK_TRANSFER` |
-| `redirect` | string | The URL to redirect to after a successful contribution |  | `&redirect=https://www.example.com/thank-you` |
-| `tags` | comma-separated list | Some tags to attach to the contribution |  | `&tags=tag1,tag2` |
-| `hideFAQ` | boolean | Embed only: Whether we need to hide the right-column FAQ | false | `&hideFAQ=true` |
-| `hideHeader` | boolean | Embed only: Whether we need to hide the contribution flow header | false | `&hideHeader=true` |
-| `backgroundColor` | color | Embed only: A custom color to use as the background color of the contribution flow |  | `&backgroundColor=#ff0000` |
-| `useTheme` | boolean | Embed only: Whether to use the collective theme (custom colors) | false | `&useTheme=true` |
-| `totalAmount` | alias | Deprecated: Use `amount` instead |  | `&totalAmount=4200` |
-| `platformContribution` | alias | Deprecated: Use `platformTip` instead |  |  |
-| `defaultEmail` | alias | Deprecated: Use `email` instead |  |  |
-| `defaultName` | alias | Deprecated: Use `name` instead |  |  |
+| name                         | type                 | description                                                                        | default                         | example                                            |
+| ---------------------------- | -------------------- | ---------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------- |
+| `amount`                     | amount               | Default contribution amount                                                        |                                 | `&amount=42.42`                                    |
+| `quantity`                   | integer              | Default number of units (for products and tickets only)                            | 1                               | `&quantity=5`                                      |
+| `interval`                   | interval             | The contribution interval (must be supported by the selected tier, if any)         |                                 | `&interval='month'`                                |
+| `description`                | string               | A custom description                                                               |                                 |                                                    |
+| `contributeAs`               | string               | Slug of the default profile to use to contribute                                   | Logged in user personal profile |                                                    |
+| `email`                      | string               | Guest contributions only: The email to use to contribute                           |                                 | `&email=test@opencollective.com`                   |
+| `name`                       | string               | Guest contributions only: The name to use to contribute                            |                                 | `&name=John Doe`                                   |
+| `disabledPaymentMethodTypes` | comma-separated list | To disable specific payment method types                                           |                                 | `&disabledPaymentMethodTypes=MANUAL,BANK_TRANSFER` |
+| `redirect`                   | string               | The URL to redirect to after a successful contribution                             |                                 | `&redirect=https://www.example.com/thank-you`      |
+| `tags`                       | comma-separated list | Some tags to attach to the contribution                                            |                                 | `&tags=tag1,tag2`                                  |
+| `hideFAQ`                    | boolean              | Embed only: Whether we need to hide the right-column FAQ                           | false                           | `&hideFAQ=true`                                    |
+| `hideHeader`                 | boolean              | Embed only: Whether we need to hide the contribution flow header                   | false                           | `&hideHeader=true`                                 |
+| `backgroundColor`            | color                | Embed only: A custom color to use as the background color of the contribution flow |                                 | `&backgroundColor=#ff0000`                         |
+| `useTheme`                   | boolean              | Embed only: Whether to use the collective theme (custom colors)                    | false                           | `&useTheme=true`                                   |
+| `totalAmount`                | alias                | Deprecated: Use `amount` instead                                                   |                                 | `&totalAmount=4200`                                |
+| `platformContribution`       | alias                | Deprecated: Use `platformTip` instead                                              |                                 |                                                    |
+| `defaultEmail`               | alias                | Deprecated: Use `email` instead                                                    |                                 |                                                    |
+| `defaultName`                | alias                | Deprecated: Use `name` instead                                                     |                                 |                                                    |
 
-
-
-## Embed Contribution flow&#x20;
+## Embed Contribution flow
 
 To integrate a "Contribute" option directly on your website
 
@@ -45,12 +43,12 @@ This feature is currently in a beta-test phase. If you face any issue or need as
 
 The embed contribution flow is a way to integrate Open Collective on your own website. Visitors will be able to contribute directly, by simply providing an email address.
 
-![Embedded contribution on the website of an initiative](<../.gitbook/assets/image (4).png>)
+![Embedded contribution on the website of an initiative](<../.gitbook/assets/image (4) (2).png>)
 
 ### General considerations
 
 * The widget will look better if it has some space, ideally the full page height & width
-* Some parameters can be used to customize the UI. See [URL Parameters](#url-parameters) above
+* Some parameters can be used to customize the UI. See [URL Parameters](contribution-flow.md#url-parameters) above
 
 ### Embed the default tier (Donate)
 

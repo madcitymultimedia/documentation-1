@@ -97,6 +97,44 @@ After the user edits the expense, the expense is moved back to its previous stat
 * Newest First&#x20;
 * Oldest First&#x20;
 
+## Paying Expenses
+
+### Security Checks
+
+{% hint style="info" %}
+This feature was recently merged and is currently being worked on. You can contribute with feedbacks here: [https://:.com/opencollective/opencollective/issues/6097](https://github.com/opencollective/opencollective/issues/6097)
+{% endhint %}
+
+Recently merged, Expense Security Check is a tool that provides contextual information into the actors involved in the expense request so Fiscal Host admins can take a better decision before paying for the expense.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
+
+You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
+
+The security checks are categorized in scope and risk level. The categories are:
+
+* **User:** The user who submitted the expense, the author of the expense or draft sent as an invite to submit the expense.
+* **Payee:** If the beneficiary is not the user who originally submitted the expense, we also list checks on that profile through the _Payee_ scope.
+* **Payout Method:** The actual beneficiary information that is going to be paid by the expense.
+
+The risk levels are:
+
+* <mark style="color:green;">**PASS**</mark>: Opposite of a security risk, actually indicates good record or behavior.
+* <mark style="color:blue;">**INFO/LOW**</mark>: Contextual information for transparency sake, these are informations that may be important on a particular context but are not meaningful by themselves.
+* <mark style="color:yellow;">**MEDIUM**</mark>: Important to consider, may require some investigation given the context.
+* <mark style="color:red;">**HIGH**</mark>: Represents a risk or complete lack of information and requires investigation. This behavior was previously related to fraud.
+
+It is important to understand that these checks are evaluated independently and it is up to the host admin to evaluate the whole context and take their decision. The security checks currently implemented are listed below, but keep in mind that we'll keep working on adding new check routines and adjusting their existing levels. Some of the existing security checks include:
+
+* User impersonation checks based on IP correlation and Connected Accounts username overlaps.
+* User 2FA status conveys the secure risk of the author account itself.
+* User role in the Collective and/or Fiscal Host exposing how the user relates to the collective or fiscal host.
+* Past user behavior based on expenses rejected or marked as spam.
+* Past expenses submitted in the platform and in the same collective.
+* Bank account information and PayPal email correlation between users and collectives.
+
 ### Go to Pay
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24.png>)
