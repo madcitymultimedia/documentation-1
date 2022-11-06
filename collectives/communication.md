@@ -12,6 +12,8 @@ We offer a rich editor to write your fantastic updates to your Contributors! Eac
 
 ![](../.gitbook/assets/collectives\_updates\&comms\_richtexteditor\_2022-07-16.png)
 
+If you’d only like this update to go to only your contributors please check the Private update.&#x20;
+
 ![The Updates section of a Collective page after being populated with two posts.](../.gitbook/assets/collectives\_updates-and-comms\_all-updates.png)
 
 ### Uploading Images
