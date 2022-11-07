@@ -86,4 +86,12 @@ If you are getting paid through the platform, we will need some personally ident
 
 Your legal name identifies you to admins of Collectives you work with, to Hosts of Collectives you work with and some staff at Open Collective Inc. the company that operates the Open Collective platform. \
 \
-You can add your legal name to your profile in your [User Settings](user-profile.md#other-settings)\
+You can add your legal name to your profile in your [User Settings](user-profile.md#other-settings)
+
+### Update/Change your Email
+
+Head to your User Settings, either via the settings button on your profile or in the user menu.&#x20;
+
+Go to the Advanced Section&#x20;
+
+Update/Change your email and click the save button
