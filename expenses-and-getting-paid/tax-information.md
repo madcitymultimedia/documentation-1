@@ -46,7 +46,7 @@ If you have submitted >$600 in invoice expenses to Open Source Collective and Op
 
 You will also see a warning on the pending expense tell you that you will not be paid until you submit the tax form.
 
-The automated system works through HelloWorks, a service we use to make submitting the info easier for users and to collect it securely and accurately.
+The automated system works through Dropbox Forms, a service we use to make submitting the info easier for users and to collect it securely and accurately.
 
 #### Is my information secure?
 
