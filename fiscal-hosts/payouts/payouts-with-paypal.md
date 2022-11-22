@@ -6,8 +6,6 @@ description: Instructions on how to safely connect to PayPal.
 
 There are two ways you can process expenses using PayPal: using PayPal Adaptive Payments or PayPal Payouts.
 
-
-
 ## PayPal Payouts
 
 {% hint style="info" %}
@@ -94,7 +92,19 @@ In order to reduce risks related to having an active API token that is able to c
 * Keep just enough balance in PayPal to pay your expenses.
   * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
 
+## Adaptive Payments
 
+{% hint style="warning" %}
+PayPal adaptive is deprecated and will be removed soon. Please migrate to PayPal payouts if you're currently using it.
+{% endhint %}
+
+Adaptive Payments are the easy way and it is automatically enabled for everyone.
+
+From your host dashboard, you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
+
+On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal (this is a security feature).
+
+For single payments larger than $2,000, make a manual payment
 
 ## Disconnect from Paypal&#x20;
 
@@ -121,17 +131,3 @@ In order to reduce risks related to having an active API token that is able to c
 4\. Disable Paypal&#x20;
 
 <figure><img src="../../.gitbook/assets/fiscalhost_payouts_paypal_2022_09_19.png" alt=""><figcaption></figcaption></figure>
-
-## Adaptive Payments
-
-{% hint style="warning" %}
-PayPal adaptive is deprecated and will be removed soon. Please migrate to PayPal payouts if you're currently using it.
-{% endhint %}
-
-Adaptive Payments are the easy way and it is automatically enabled for everyone.
-
-From your host dashboard, you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
-
-On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal (this is a security feature).
-
-For single payments larger than $2,000, make a manual payment.
