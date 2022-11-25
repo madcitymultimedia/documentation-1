@@ -42,6 +42,7 @@
   * [Collective Goals & Tiers](collectives/collective-settings/tiers-goals.md)
   * [Expense Policy](collectives/collective-settings/expense-policy.md)
   * [Data Export](collectives/collective-settings/data-export.md)
+  * [Security](collectives/collective-settings/security.md)
   * [Integrations](collectives/collective-settings/integrations.md)
   * [Zero Collective Balance](collectives/collective-settings/zero-collective-balance.md)
   * [Closing a Collective](collectives/collective-settings/closing-a-collective.md)
