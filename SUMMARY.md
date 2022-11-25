@@ -99,6 +99,7 @@
   * [Info](fiscal-hosts/fiscal-host-settings/add-more-info.md)
   * [Customize Profile Page](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
   * [Connect external accounts](fiscal-hosts/fiscal-host-settings/connected-accounts.md)
+  * [Security](fiscal-hosts/fiscal-host-settings/security.md)
   * [Manage updates](fiscal-hosts/fiscal-host-settings/manage-updates.md)
   * [Policies](fiscal-hosts/fiscal-host-settings/policies.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
