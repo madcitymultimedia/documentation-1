@@ -6,7 +6,7 @@ Hosts will have particular requirements and policies that will need to be follow
 
 [OCF requirements and policies ](https://docs.opencollective.foundation/what-we-offer/virtual-cards-policy)
 
-[OSC requirements and policies ](https://docs.oscollective.org/getting-started/expenses/virtual-cards)
+[OSC requirements and policies ](https://docs.oscollective.org/what-we-offer/virtual-cards#requirements-policy)
 
 ## Requesting a card
 
