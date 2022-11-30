@@ -77,7 +77,7 @@ To view your current payment methods, go to your profile (under 'my account') an
 
 Make sure you are logged in and then click on your profile in the top right hand corner&#x20;
 
-<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14.png" alt=""><figcaption></figcaption></figure>
 
 This should open the dropdown menu next to your profile avatar. Click on **Manage Contributions.**
 
@@ -113,3 +113,23 @@ _**Note:** Adding a new card does not change the card for existing recurring con
 Refunds are approved and processed by the fiscal hosts subject to their terms and conditions. Please [contact](https://opencollective.com/contact) our team with details about your refund request, the amount, the date the transaction occurred and a link to the collective and we will pass your query along to the right fiscal host.&#x20;
 
 Open Source Collective [Refund Policy](https://docs.oscollective.org/faq/expenses#how-can-i-get-a-refund-on-a-payment-or-donation)&#x20;
+
+## Credit cards verification
+
+To comply with banking regulations, we may have to ask financial contributors to verify their credit cards. This mostly happens in Europe, where 3DSecure / Strong Customer Authentication (SCA) policies can trigger flows where contributors have to confirm the payment through a second authentication factor such as a phone, banking app, or dedicated device.
+
+While processing recurring contributions, contributors whose credit cards need confirmation will receive an email looking like this:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
+
+Click on the "Verify my credit card" button, then you'll be redirected to https://opencollective.com where you may have to sign in with your email address if you're not already. Finally, a prompt with the confirmation page of your bak will appear (the way it will look will depend on your bank):
+
+_Screenshot to be added_
+
+### FAQ
+
+*   **What will happen if I don't verify my credit card?**
+
+    If you don't verify your credit card, we will not be able to process your recurring payment. We will retry in the coming days, then after 6 attempts, your recurring contribution will be cancelled.
+* **Why does it fail when I try to verify my credit card?**\
+  ****Make sure you turn extensions such as ad blockers off, and that your browser is up-to-date. Some errors can also originate from the bank verification services not working properly. If everything else fails, feel free to contact [support@opencollective.com](mailto:support@opencollective.com).

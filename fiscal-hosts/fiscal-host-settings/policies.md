@@ -42,4 +42,4 @@ If you wish to customise these options for specific collectives head to the [Hos
 
 ## Rejected categories
 
-<figure><img src="../../.gitbook/assets/FiscalHosts_Policies_rejectedcategories_2022-09-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FiscalHosts_Policies_rejectedcategories_2022-09-04 (1).png" alt=""><figcaption></figcaption></figure>
