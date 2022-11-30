@@ -116,13 +116,13 @@ Open Source Collective [Refund Policy](https://docs.oscollective.org/faq/expense
 
 ## Credit cards verification
 
-To comply with banking regulations, we may have to ask financial contributors to verify their credit cards. This mostly happens in Europe, where 3DSecure / Strong Customer Authentication (SCA) policies can trigger flows where contributors have to confirm the payment through a second authentication factor such as a phone, banking app, or dedicated device.
+To comply with banking regulations, we may have to ask financial contributors to verify their credit cards. This happens today mostly in Europe but this is being deployed in more countries over time. In Europe, the policy is named [Strong Customer Authentication](https://en.wikipedia.org/wiki/Strong\_customer\_authentication) and the most common way of authenticating an online card payment relies on 3D Secure, which asks you to confirm the payment through your phone, banking app, or dedicated device.
 
 While processing recurring contributions, contributors whose credit cards need confirmation will receive an email looking like this:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
 
-Click on the "Verify my credit card" button, then you'll be redirected to https://opencollective.com where you may have to sign in with your email address if you're not already. Finally, a prompt with the confirmation page of your bak will appear (the way it will look will depend on your bank):
+Click on the "Verify my credit card" button, then you'll be redirected to https://opencollective.com where you may have to sign in with your email address if you're not already. Finally, a prompt with the confirmation page of your bank will appear (the way it will look will depend on your bank):
 
 _Screenshot to be added_
 
