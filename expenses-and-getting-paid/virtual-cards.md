@@ -2,17 +2,17 @@
 
 Virtual cards are an additional benefit offered to collectives through hosts. Hosts create virtual cards and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. This is particularly useful for covering recurring costs like hosting a website.
 
-Hosts will have particular requirements and policies that will need to be followed.&#x20;
+Hosts will have particular requirements and policies that will need to be followed.
 
-[OCF requirements and policies ](https://docs.opencollective.foundation/what-we-offer/virtual-cards-policy)
+[OCF requirements and policies](https://docs.opencollective.foundation/what-we-offer/virtual-cards-policy)
 
-[OSC requirements and policies ](https://docs.oscollective.org/what-we-offer/virtual-cards#requirements-policy)
+[OSC requirements and policies](https://docs.oscollective.org/what-we-offer/virtual-cards#requirements-policy)
 
 ## Requesting a card
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
 
-![Request a virtual card from your host from your collective's profile page](<../.gitbook/assets/requestcard (1).png>)
+![Request a virtual card from your host from your collective's profile page](../.gitbook/assets/requestcard.png)
 
 ## Using a virtual card
 
@@ -20,11 +20,11 @@ Virtual cards can be used to make purchases on behalf of your collective. Each c
 
 ### Exclusions and Limitations
 
-Our payments provider does not accept payments to money transfer services like PayPal, Payoneer or Paysend. \
+Our payments provider does not accept payments to money transfer services like PayPal, Payoneer or Paysend.\
 \
 Virtual cards should not be used to pay individuals or contractors including through interpediaries like Upwork, 99Designs, Fiver etc. Attempts to pay for services via these providers will be declined.
 
-Some providers — most notably Google — do not accept virtual cards as a payment mechanism. We are monitoring this situation while the service is developing.&#x20;
+Some providers — most notably Google — do not accept virtual cards as a payment mechanism. We are monitoring this situation while the service is developing.
 
 ## Billing Details
 
@@ -37,7 +37,7 @@ In most cases, cards charged using your personal details will be accepted. If yo
 
 To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu:
 
-![View Virtual Cards assigned to your Collective from the Collective's Seting menu. ](../.gitbook/assets/screenshot-2021-05-13-at-10.15.27.png)
+![View Virtual Cards assigned to your Collective from the Collective's Seting menu.](../.gitbook/assets/screenshot-2021-05-13-at-10.15.27.png)
 
 To view the details of a card click 'view card details'.
 
@@ -49,11 +49,11 @@ Hosts can choose to pause virtual cards if there are any incomplete expenses. Th
 Be aware of your surroundings when viewing a card's details as others may be able to see them.
 {% endhint %}
 
-### **Companies that don't accept Virtual Cards**&#x20;
+### **Companies that don't accept Virtual Cards**
 
 There are a few websites that don't accept virtual credit cards. Here are a few that we are aware of:
 
-* Google&#x20;
+* Google
 * Zipcar
 * DigitalOcean
 * Sendle

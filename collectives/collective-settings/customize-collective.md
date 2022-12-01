@@ -8,7 +8,7 @@ To access all settings for your Collective, click the settings button shown in t
 
 ### Info&#x20;
 
-<figure><img src="../../.gitbook/assets/Collectives_settings_customise_2022_10_06 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collectives_settings_customise_2022_10_06.png" alt=""><figcaption></figcaption></figure>
 
 The info section of the Collective settings enables you to add and change basic information about your page.&#x20;
 
