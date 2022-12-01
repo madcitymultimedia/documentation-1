@@ -114,9 +114,9 @@ Refunds are approved and processed by the fiscal hosts subject to their terms an
 
 Open Source Collective [Refund Policy](https://docs.oscollective.org/faq/expenses#how-can-i-get-a-refund-on-a-payment-or-donation)&#x20;
 
-## Credit cards verification
+## Credit Card Verification
 
-To comply with banking regulations, we may have to ask financial contributors to verify their credit cards. This happens today mostly in Europe but this is being deployed in more countries over time. In Europe, the policy is named [Strong Customer Authentication](https://en.wikipedia.org/wiki/Strong\_customer\_authentication) and the most common way of authenticating an online card payment relies on 3D Secure, which asks you to confirm the payment through your phone, banking app, or dedicated device.
+To comply with banking regulations, we may have to ask financial contributors to verify their credit cards. This mainly occurs in Europe but is being deployed across more countries. In Europe, the policy is named [Strong Customer Authentication](https://en.wikipedia.org/wiki/Strong\_customer\_authentication). 3D Secure is the most common way of authenticating an online card payment, which asks you to confirm the payment through your phone, banking app, or dedicated device.
 
 While processing recurring contributions, contributors whose credit cards need confirmation will receive an email looking like this:
 
@@ -132,4 +132,4 @@ _Screenshot to be added_
 
     If you don't verify your credit card, we will not be able to process your recurring payment. We will retry in the coming days, then after 6 attempts, your recurring contribution will be cancelled.
 * **Why does it fail when I try to verify my credit card?**\
-  ****Make sure you turn extensions such as ad blockers off, and that your browser is up-to-date. Some errors can also originate from the bank verification services not working properly. If everything else fails, feel free to contact [support@opencollective.com](mailto:support@opencollective.com).
+  ****Make sure you turn extensions such as ad blockers off and that your browser is up-to-date. Some errors can also originate from the bank verification services not working correctly. If everything else fails, feel free to [contact us](https://opencollective.com/contact).
