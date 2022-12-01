@@ -46,6 +46,6 @@ When the payee finishes editing the expense, the summary of the expense is displ
 
 After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the payee validates their email. After the payee validates their email, the expense is marked as pending and is displayed on the expenses page for the Collective's admins to approve (and you will get an email notification).&#x20;
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40) (1).png>)
 
 Once the expense is there on the list, click "approve" on it

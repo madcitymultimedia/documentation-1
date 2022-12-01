@@ -32,6 +32,6 @@ Once you’ve set up 2FA on your account, it’s really important to not delete 
 
 When you have 2FA enabled on your account, you will be prompted to enter a 6-digit code whenever you click the [one-time login link](https://docs.opencollective.com/help/product/log-in-system) we email to you.
 
-![](../.gitbook/assets/screenshot-2020-11-20-at-12.48.45.png)
+![](../.gitbook/assets/product\_2fa\_login\_2022-07-21.png)
 
 For information about enabling two-factor authentication for payouts please refer [here](../fiscal-hosts/payouts/two-factor-authentication-for-payouts.md).&#x20;

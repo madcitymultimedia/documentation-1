@@ -77,7 +77,7 @@ To view your current payment methods, go to your profile (under 'my account') an
 
 Make sure you are logged in and then click on your profile in the top right hand corner&#x20;
 
-<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14.png" alt=""><figcaption></figcaption></figure>
 
 This should open the dropdown menu next to your profile avatar. Click on **Manage Contributions.**
 
@@ -87,7 +87,7 @@ You'll be redirected to a page with all of your recurring financial contribution
 
 ![From there you can see all your recurring contributions](<../.gitbook/assets/image (11).png>)
 
-![Click on "Edit" do see the options](<../.gitbook/assets/image (15).png>)
+![Click on "Edit" do see the options](<../.gitbook/assets/image (15) (1).png>)
 
 ### How to add, change or remove payment method
 
@@ -120,7 +120,7 @@ To comply with banking regulations, we may have to ask financial contributors to
 
 While processing recurring contributions, contributors whose credit cards need confirmation will receive an email looking like this:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
 
 Click on the "Verify my credit card" button, then you'll be redirected to https://opencollective.com where you may have to sign in with your email address if you're not already. Finally, a prompt with the confirmation page of your bank will appear (the way it will look will depend on your bank):
 
