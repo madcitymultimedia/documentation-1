@@ -29,6 +29,7 @@
 * [Moderation](product/moderation.md)
 * [Security](product/security.md)
 * [Notifications](product/notifications.md)
+* [Activity Log](product/activity-log.md)
 * [Two-factor Authentication](product/two-factor-authentication.md)
 
 ## Collectives
