@@ -34,13 +34,13 @@ Using the filters at the top of the page, you can sort them by the period of tim
 
 #### **2.** This opens the Collective Settings panel
 
-![](../../.gitbook/assets/fiscalhost\_dashboard\_collexctivesettings\_2022-05-11.png)
+<figure><img src="../../.gitbook/assets/fiscalhost_dashboard_fees_2022-12-08.png" alt=""><figcaption></figcaption></figure>
 
-#### **Enabling Grants**&#x20;
+#### **Expense Types**&#x20;
 
-To enable grants, tick the 'Enable grants' tickbox. Grants are enabled by default for most fiscal hosts.&#x20;
+Use the Global host settings or Enable or Disable Invoices, Reimbursements or Grants.&#x20;
 
-#### **Custom Fee**
+#### **Set Fee Structure**
 
 You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective.&#x20;
 
