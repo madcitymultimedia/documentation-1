@@ -1,7 +1,5 @@
 # Expenses
 
-![](<../../.gitbook/assets/Fiscal Host\_dashboard\_Expenses\_2022-05-24.png>)
-
 ### **Filter**&#x20;
 
 #### **Type**&#x20;
@@ -102,14 +100,16 @@ After the user edits the expense, the expense is moved back to its previous stat
 ### Security Checks
 
 {% hint style="info" %}
-This feature was recently merged and is currently being worked on. You can contribute with feedbacks here: [https://:.com/opencollective/opencollective/issues/6097](https://github.com/opencollective/opencollective/issues/6097)
+This is the first batch of security checks we have implemented. They were created based on past cases we had on the platform, and we plan to keep iterating on these checks with the input of fiscal hosts. You can contribute with feedback here: [https://:.com/opencollective/opencollective/issues/6097](https://github.com/opencollective/opencollective/issues/6097)
 {% endhint %}
 
-Recently merged, Expense Security Check is a tool that provides contextual information into the actors involved in the expense request so Fiscal Host admins can take a better decision before paying for the expense.
+We're adding warnings about payees to protect Collectives and Hosts from fraudulent expense claims.
+
+These warnings are designed to inform you as to whether you should approve or pay an expense. They are not a part of an enforcible policy within Open Collective but we encourage hosts and Collectives to consider creating and documenting policies as part of their terms or code of conducts if needed.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
 
-You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
+You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high-security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
 
@@ -126,13 +126,13 @@ The risk levels are:
 * <mark style="color:yellow;">**MEDIUM**</mark>: Important to consider, may require some investigation given the context.
 * <mark style="color:red;">**HIGH**</mark>: Represents a risk or complete lack of information and requires investigation. This behavior was previously related to fraud.
 
-It is important to understand that these checks are evaluated independently and it is up to the host admin to evaluate the whole context and take their decision. The security checks currently implemented are listed below, but keep in mind that we'll keep working on adding new check routines and adjusting their existing levels. Some of the existing security checks include:
+It is important to understand that these checks are evaluated independently, and it is up to the host admin to evaluate the whole context and take their decision. The security checks currently implemented are listed below, but keep in mind that we'll keep working on adding new check routines and adjusting their existing levels. Some of the existing security checks include:
 
 * User impersonation checks based on IP correlation and Connected Accounts username overlaps.
-* User 2FA status conveys the secure risk of the author account itself.
+* User 2FA status conveys the security risk of the author account itself.
 * User role in the Collective and/or Fiscal Host exposing how the user relates to the collective or fiscal host.
-* Past user behavior based on expenses rejected or marked as spam.
-* Past expenses submitted in the platform and in the same collective.
+* Past user behaviour based on expenses rejected or marked as spam.
+* Past expenses that have been submitted on the platform and in the same collective.
 * Bank account information and PayPal email correlation between users and collectives.
 
 ### Go to Pay
