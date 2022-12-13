@@ -35,9 +35,11 @@ it as either a goal **balance** or **yearly budget,** specify the **amount** you
 
 ## Tiers
 
-You can also control contributions and tiers by accessing the **Tiers** section.
+Tiers can be used to provide perks and rewards to supporters, set membership fees, build funding drives (when used with goals), or simply categorise your contributions. \
+\
+You can control tiers by accessing the **Tiers** section in your collectives Settings:
 
-![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
+![Select tiers from your collective's settings to view, add, and amend tiers.](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
 
 ### Enabling flexible contributions
 
@@ -49,11 +51,15 @@ You can accept contributions using cryptocurrencies by enabling this tier. Note 
 
 ### Creating custom tiers
 
-You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:
+You can also create custom tiers on the same page. Click on **add another tier:**
 
-![](../../.gitbook/assets/collective\_collective\_goals\_and\_tiers\_2021-05-31.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28.png" alt=""><figcaption><p>Click 'add another tier' to open the create tier form.</p></figcaption></figure>
 
-### Configuration for Tiers
+A preview of the tier you are creating will appear alongside your the configured settings:
+
+### Configuring Tiers
+
+The following options are available when creating a new tier:
 
 #### **Type**
 
@@ -95,25 +101,23 @@ For limited edition contributions (such as special edition items, one-time event
 
 The action word on the Tier card users click (such as donate, join, contribute). You can also add emojis if you wish!
 
-![Example of a Tier with an emoji](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-emoji-button.png)
-
 #### **Goal**
 
 Target amount you're trying to raise in this Tier.
 
 #### **Force standalone page**
 
-If you want to force the creation of a page for this tier. Here's what it looks like:
+You can create a standalone page for the tier to send as a direct link to potential contributors:
 
-![](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-standalone-page.png)
+![A standalone tier page.](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-standalone-page.png)
 
-You can access it from your Collective page by clicking on **Read more**.
-
-![](../../.gitbook/assets/collectives\_tiers-and-goals\_tiers-read-more.png)
+You can access it from your Collective page by clicking on **Read more.**&#x20;
 
 To add more Tiers, click the blue "add another tier" button.
 
-Don't forget to **save** your changes so they show up on your Collective page.
+{% hint style="warning" %}
+Don't forget to **save** your changes.
+{% endhint %}
 
 ## Support Tiers
 
@@ -132,7 +136,7 @@ With the above tier example, your responsibilities as a Collective are:
 
 The Sponsor's responsibilities are:
 
-* Contacting you with via the specified channels&#x20;
+* Contacting you via the specified channels&#x20;
 * Limiting their support requirements to the time slots specified
 * Scheduling the time slots at least a week in advance
 
@@ -156,7 +160,7 @@ Members will need to stop recurring payments from their accounts. Here is more i
 
 ### For companies
 
-By subscribing to a support tier, you not only get private time for your team to discuss the open-source project that you are depending on, but you are also helping the collective to maintain it. It's a great way to balance your interests with the interests of the community.
+By subscribing to a support tier, you not only get private time for your team to discuss the open-source project that you depend upon, but you are also helping the collective to maintain it. It's a great way to balance your interests with the interests of the community.
 
 #### Do I get an invoice?
 
