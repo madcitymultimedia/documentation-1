@@ -14,7 +14,7 @@ Click on the **More Action** buttons at the bottom of the expense to edit, downl
 
 
 
-![](../.gitbook/assets/expensesandgettingpaid\_editordownload\_moreactions\_2022-05-27.gif.png)
+![](<../.gitbook/assets/expensesandgettingpaid\_editordownload\_moreactions\_2022-05-27.gif (1).png>)
 
 {% hint style="warning" %}
 Downloading an expense is only available for invoices.

@@ -32,7 +32,9 @@ Both! The person to whom you gave the gift card is the one picking the collectiv
 
 ### What kind of payment methods can I use?
 
-The simplest option is to use a credit card, as you can set it up by yourself in a few minutes. This works great for small companies and limited usage \(2-10 gift cards\) but if you're willing to process a large number of transactions we **strongly** recommend using a prepaid budget instead to avoid credit card processor fees and to limit the number of transactions that will appear on your bank account.
+The simplest option is to use a credit card, as you can set it up by yourself in a few minutes. This works great for small companies and limited usage (2-10 gift cards) but if you're willing to process a large number of transactions we **strongly** recommend using a prepaid budget instead to avoid credit card processor fees and to limit the number of transactions that will appear on your bank account.&#x20;
+
+**Note:**  Each gift card charge will create a credit card transaction and currently we don't charge the full amount up-front.&#x20;
 
 ## Create gift cards
 
@@ -55,4 +57,3 @@ _This section has not been written yet. Help us by sharing your knowledge!_
 ### _3._ Download a PDF with printable gift cards - To distribute at events
 
 _This section has not been written yet. Help us by sharing your knowledge!_
-
