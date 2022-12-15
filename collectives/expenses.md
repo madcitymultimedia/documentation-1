@@ -48,6 +48,7 @@ The expense status is a single label that will change throughout the Expense flo
 * **Error:** Expense was paid by the Fiscal Host but something went wrong with the transaction. This is a possible final state for the Expense, the Fiscal Host will probably reach out to the User to solve any possible issue.
 * **Paid:** Expense was sucessfully paid. This is the final state for the expense.
 * **Spam:** This Expense was marked as SPAM and will be ignored. This is the final state for the expense.
+* **Incomplete**: Expense needs more info in order to be paid, fiscal host admin marked as incomplete, stated a reason in the comments, and removed from Ready to pay queue.
 
 ## Expense tags&#x20;
 
