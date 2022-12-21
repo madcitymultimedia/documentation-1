@@ -11,7 +11,7 @@ See our dedicated [Gift Cards](https://opencollective.com/gift-cards) page for a
 ## FAQ
 
 ### How do I use the gift cards?
-To use a gift card, you first have to activate it on your account from [Redeem Gift Card](https://opencollective.com/redeem). Then go to make a donation as usual, and select your gift card when asked for payment.
+To use a gift card, you first have to activate it on your account from [Redeem Gift Card](https://opencollective.com/redeem). Then go to make a contribution, and select your gift card when asked for payment.
 **Note:** Some gift cards might be limited to specific fiscal hosts or project types (e.g., open source).
 
 ### What happens if the gift cards are not used?
