@@ -14,6 +14,15 @@ Connecting your account will provide you a few automation options based on how m
 
 ![Options for activating automated tweets whenever a Collective you host reach 10, 100 and 1,000 financial contributors.](../../.gitbook/assets/fiscal-host\_fiscal-host-settings\_settings-connected-accounts-settings\_2020-07-13.png)
 
+To use a template parameter, put it in brackets like this: `{collective}`. Here are the parameters supported by each template:
+
+| Parameter                  | Templates                                                                     | Description                                                                    | Example                                                                                                                                    |
+| -------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `backerTwitterHandle`      | New financial contributors                                                    | Twitter Handle of the contributor without the `@` prefix (can be empty)        | `myUsername`                                                                                                                               |
+| `amount`                   | New financial contributors                                                    | Contribution amount with the currency                                          | `$10.00`                                                                                                                                   |
+| `collective`               | <p>Ten contributors<br>Fifty contributors<br>One hundred contributors<br></p> | Either the collective name or, if set, the Twitter handle prefixed with an `@` | `@babel`                                                                                                                                   |
+| `topBackersTwitterHandles` | Ten contributors                                                              | Top 10 contributors names or handles                                           | Facebook, @airbnb, company3, joe, @anotherAccount, anotherAccount2, anotherAccount3, anotherAccount4, anotherAccount5, anotherAccount6, +6 |
+
 ## Receiving contributions through PayPal
 
 {% hint style="info" %}
