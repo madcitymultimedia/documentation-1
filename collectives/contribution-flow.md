@@ -29,7 +29,6 @@ This link will bring you directly to the profile step of the contribution flow f
 | `backgroundColor`            | color                | Embed only: A custom color to use as the background color of the contribution flow |                                 | `&backgroundColor=#ff0000`                         |
 | `useTheme`                   | boolean              | Embed only: Whether to use the collective theme (custom colors)                    | false                           | `&useTheme=true`                                   |
 | `totalAmount`                | alias                | Deprecated: Use `amount` instead                                                   |                                 | `&totalAmount=4200`                                |
-| `platformContribution`       | alias                | Deprecated: Use `platformTip` instead                                              |                                 |                                                    |
 | `defaultEmail`               | alias                | Deprecated: Use `email` instead                                                    |                                 |                                                    |
 | `defaultName`                | alias                | Deprecated: Use `name` instead                                                     |                                 |                                                    |
 
