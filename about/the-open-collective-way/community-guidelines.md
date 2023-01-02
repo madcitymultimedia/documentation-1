@@ -59,7 +59,7 @@ We are a community of, and in solidarity with, people of every ability, age, bod
 
 Open Collective community participants act with integrity. We are honest about who we are, what we are doing, what we plan to be doing, and why.&#x20;
 
-We do not engage in [misinformation or disinformation](community-guidelines.md#docs-internal-guid-aec484a0-7fff-5cff-0bda-2dab04342d64), and if we do so unknowingly, we correct it. Dishonesty and hidden intentions are damaging not only to the individual but to all community participants. Do not bring mistrust into the Open Collective community.
+We do not engage in [misinformation or disinformation](community-guidelines.md#docs-internal-guid-aec484a0-7fff-5cff-0bda-2dab04342d64), and if we do so unknowingly, we correct it. Dishonesty and hidden intentions are damaging not only to the individual but to all community participants.&#x20;
 
 ### Transparency
 
