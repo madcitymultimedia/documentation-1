@@ -47,10 +47,6 @@ If you start the contribution flow (ie. [http://opencollective.com/babel/donate]
 Above a certain amount, the system will ask you additional information such as your physical address. This information is required for legal purpose, and stays private.
 {% endhint %}
 
-{% hint style="warning" %}
-Guest contributions are not yet supported for recurring contributions or in case the email that you're trying to use is already a verified account on Open Collective. We are currently working on removing these limitations.
-{% endhint %}
-
 ![Guest contribution form](<../.gitbook/assets/image (5) (1).png>)
 
 ### Claiming a Guest Account
