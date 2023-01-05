@@ -2,6 +2,14 @@
 
 #### **An Independent Collective holds money for itself in its own bank account (instead of joining a** [**Fiscal Host**](../fiscal-hosts/fiscal-hosts.md) **to hold money on its behalf).**
 
+{% hint style="warning" %}
+If you're going to use this platform as an independent collective, it's important that you make sure the ledger is accurate. Open Collective is **not** accounting software that will do this automatically.
+
+OC does not hold any money, it’s only a reflection of what’s in your bank account. It’s up to you to keep that up to date.&#x20;
+
+Open Collective is a ledger, **not** an account.
+{% endhint %}
+
 ## FAQ
 
 ### Should I be an Independent Collective?
@@ -26,4 +34,6 @@ If the above doesn't describe your situation, [join a Fiscal Host](../collective
 * You have to manage more admin tasks.
 * You hold legal liability.
 * You are responsible for accounting and taxes.
+
+
 
