@@ -80,7 +80,7 @@ Notes:
 * `email` returns null unless you make an authenticated call using the `accessToken` of one of the admins of the collective
 * all amounts are in the smaller unit of the currency \(cents\)
 * `type` can be `USER`, `ORGANIZATION` or `COLLECTIVE`
-* `role` can be `ADMIN`, `MEMBER`, `BACKER`, `ATTENDEE`, `FOLLOWER`, `FUNDRAISER`
+* `role` can be `ADMIN`, `MEMBER`, `BACKER`, `ATTENDEE`, `FOLLOWER`
 * `tier` is the name of the tier
 * `isActive` specifies if the backer has an active subscription
 
