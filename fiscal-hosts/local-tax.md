@@ -16,9 +16,9 @@ VAT will only apply if the collective creates a `SERVICE` or `PRODUCT` tier and 
 
 Once VAT is set up for a collective, we will start asking the country of residency and an optional VAT number to everyone who orders tiers or tickets from the collective. We will apply the VAT rules accordingly:
 
-- Charge VAT from the country of the event if it's an event
-- VAT percentage depends on the country where the collective is
-- Don't charge VAT if a VAT number is provided and contribution comes from another EU country
+* Charge VAT from the country of the event if it's an event
+* VAT percentage depends on the country where the collective is
+* Don't charge VAT if a VAT number is provided and contribution comes from another EU country
 
 ### Enable VAT at the host level
 
@@ -32,7 +32,7 @@ Your host is now ready to start accepting VAT. You still need to enable it on a 
 
 If the collective has a VAT number and should be responsible for collecting VAT itself, you can enable that by following the exact same steps as before, except that you'll choose the option `Use my own VAT number` on the last step.
 
-![](<../.gitbook/assets/image (16) (2) (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (16) (2) (2) (1) (1) (1) (1).png>)
 
 ## GST (New Zealand)
 
