@@ -69,11 +69,21 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
-1. Now, copy the necessary information to Open Collective.
-   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
-   * Open your Host collective settings page and click on the _Sending Money_ option in the menu.
-   * Copy and paste _Client ID_ and _Secret_ in the respective fields.
-   * Click _Connect PayPal_
+2\. In App settings, make sure the following boxes are checked:
+
+* Accept payments (if you wish to enable payments with PayPal)
+* Payouts (if you wish to enable expenses payout with PayPal)
+* Customer Disputes
+* Transaction Search
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+3\. Now, copy the necessary information to Open Collective.
+
+* Open a new tab and go to [Open Collective](https://www.opencollective.com).
+* Open your Host collective settings page and click on the _Sending Money_ option in the menu.
+* Copy and paste _Client ID_ and _Secret_ in the respective fields.
+* Click _Connect PayPal_
 
 ![](../../.gitbook/assets/peek-2021-04-15-16-00.gif)
 
