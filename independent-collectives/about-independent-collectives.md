@@ -3,11 +3,9 @@
 #### **An Independent Collective holds money for itself in its own bank account (instead of joining a** [**Fiscal Host**](../fiscal-hosts/fiscal-hosts.md) **to hold money on its behalf).**
 
 {% hint style="warning" %}
-If you're going to use this platform as an independent collective, it's important that you make sure the ledger is accurate. Open Collective is **not** accounting software that will do this automatically.
+**Open Collective does not hold money for Independent Collectives—the funds stay in your own bank account and it's up to you to manage them.**&#x20;
 
-OC does not hold any money, it’s only a reflection of what’s in your bank account. It’s up to you to keep that up to date.&#x20;
-
-Open Collective is a ledger, **not** an account.
+While OC offers form bookkeeping tools and useful ways to process payments, It's not **** fully-fledged accounting software and does not automatically sync all activity with your bank account. It's up to you to handle your own accounting, bank syncing, and money movements. Open Collective is a virtual ledger, no an actual bank account.
 {% endhint %}
 
 ## FAQ
@@ -19,7 +17,7 @@ Being an Independent Collective is a good option if:
 * You have a personal or company bank account you can use to hold your Collective's money.
 * You only intend to have a single Collective associated with this bank account (if you'd like to manage multiple Collectives using your own entity, [create a Fiscal Host](../fiscal-hosts/create-a-fiscal-host.md) instead).
 * You can take responsibility for accounting, taxes, liability, payments, and financial admin for your Collective.
-* You can set up a Stripe, Paypal, and Wise account connected to this bank account (not required but highly recommended so you can use Open Collective's financial automation features).
+* You can set up a Stripe, Paypal, and/or Wise account connected to this bank account (not required but highly recommended so you can use Open Collective's financial automation features).
 
 If the above doesn't describe your situation, [join a Fiscal Host](../collectives/add-fiscal-host.md) instead.
 
