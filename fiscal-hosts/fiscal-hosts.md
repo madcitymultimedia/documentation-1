@@ -20,15 +20,19 @@ Fiscal Hosts can be in any location and take any form of legal entity (as long a
 
 Below are the hosts that Open Collective manages, plus some more examples.
 
-| [Open Source Collective](https://opencollective.com/opensource)               | Open source software projects        | 10%   |
-| ----------------------------------------------------------------------------- | ------------------------------------ | ----- |
-| [Open Collective Foundation 501(c)(3)](https://opencollective.com/foundation) | US 501(c)(3) fiscal sponsor          | 8%    |
-| [Open Collective Europe](https://opencollective.com/europe)                   | EU-based Collectives                 | 6%    |
-| [Gift Collective ](https://opencollective.com/giftcollective)                 | NZ charity fundholder                | 8%    |
-| [Open Collective NZ](https://opencollective.com/ocnz)                         | NZ social enterprise fundholder      | 5.75% |
-| [Women Who Code](https://opencollective.com/wwcodeinc)                        | Local chapters                       | 10%   |
-| [All For Climate](https://opencollective.com/allforclimate)                   | Climate and social justice in Europe | 3%    |
-| [Accountable](https://opencollective.com/the-social-change-nest)              | UK social impact initiatives         | 0%    |
+| [Open Source Collective](https://opencollective.com/opensource)               | Open source collectives                                                        | 10%                                                                                                           |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [Open Collective Foundation 501(c)(3)](https://opencollective.com/foundation) | US charitable collectives                                                      | 5% for credit card payments, progressive fee structure for manual payments (8% down to 4% for larger budgets) |
+| [Open Collective Inc](https://opencollective.com/opencollective)              | Our own transparent budget                                                     | 0%                                                                                                            |
+| [Open Collective Europe](https://opencollective.com/europe)                   | EU-based Collectives                                                           | 6%                                                                                                            |
+| [Gift Collective ](https://opencollective.com/giftcollective)                 | NZ charitable collectives                                                      | 8%                                                                                                            |
+| [Open Collective Paris](https://opencollective.com/paris)                     | Paris-based collectives                                                        | 0%                                                                                                            |
+| [Open Collective NZ](https://opencollective.com/ocnz)                         | New Zealand fundholder                                                         | 5.75%                                                                                                         |
+| [Open Collective Brussels](https://opencollective.com/brussels)               | Brussels citizen initiatives                                                   | 6%                                                                                                            |
+| [Women Who Code](https://opencollective.com/wwcodeinc)                        | Local chapters                                                                 | 10%                                                                                                           |
+| [Operation Code](https://opencollective.com/operationcode)                    | Local chapters                                                                 | 30%                                                                                                           |
+| [All For Climate](https://opencollective.com/allforclimate)                   | Citizen initiatives and movements for climate and social justice across Europe | 3%                                                                                                            |
+| [Accountable](https://opencollective.com/the-social-change-nest)              | Supporting people-powered networks                                             | 0%                                                                                                            |
 
 ### Why are there different Fiscal Hosts?
 
@@ -46,6 +50,6 @@ Go to the fiscal host's page and click “Apply”. You can see [all hosts here]
 
 If you already set up a profile for your collective, you can also apply wtihin your Collective's **Settings** -> **Fiscal Host.**
 
-### I'm interested in creating a Fiscal Host
+### I'm interested in becoming a Fiscal Host
 
 Please see our documentation on [becoming a Fiscal Host](become-a-fiscal-host.md).

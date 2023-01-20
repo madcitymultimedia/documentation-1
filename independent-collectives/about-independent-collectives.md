@@ -5,7 +5,7 @@
 {% hint style="warning" %}
 **Open Collective does not hold money for Independent Collectives—the funds stay in your own bank account and it's up to you to manage them.**&#x20;
 
-While OC offers form bookkeeping tools and useful ways to process payments, It's not **** fully-fledged accounting software and does not automatically sync all activity with your bank account. It's up to you to handle your own accounting, bank syncing, and money movements. Open Collective is a virtual ledger, no an actual bank account.
+While OC offers some bookkeeping tools and useful ways to process payments, It's not **** fully-fledged accounting software and does not automatically sync all activity with your bank account. It's up to you to handle your own accounting, banking, and money movements. Open Collective is a virtual ledger, not an actual bank account.
 {% endhint %}
 
 ## FAQ
