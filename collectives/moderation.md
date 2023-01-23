@@ -7,6 +7,7 @@ We understand it's important to have control over who can interact with your Col
 If you would prefer to remove a sponsor from your Collective for any reason, you can now 'Reject' the contribution. This will:
 
 * refund the financial contributor
+* cancel any future recurring payments
 * remove their membership from your Collective so that they are no longer listed as a sponsor
 * and also let you send them a message telling them why you have rejected their contribution if you wish to do so
 
