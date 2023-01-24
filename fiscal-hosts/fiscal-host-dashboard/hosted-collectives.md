@@ -80,3 +80,11 @@ Before un-hosting, a Collective's [balance must be zeroed](https://docs.opencoll
 
 <figure><img src="../../.gitbook/assets/fiscalhost_dashboard_hostedcollectives_unhostfunds_2022-12-08.png" alt=""><figcaption></figcaption></figure>
 
+#### Steps to unhost a Collective (if they want to join another Fiscal Host)
+
+1. The collective will make a one-time donation to their new fiscal host in the amount of the balance.
+   1. Make sure _"The payee is covering the fees"_ is checked when paying the Expense so the Collective can empty the balance precisely to the cent.
+2. The collective admin will need to update the collective's status on the platform to ‘un-host’ it from their current Fiscal Host.
+3. The collective admin will need to apply to the new Fiscal Host.
+4. The new Fiscal Host will add them to their hosted collectives and reallocate the balance via ‘add funds’ to the collective.
+
