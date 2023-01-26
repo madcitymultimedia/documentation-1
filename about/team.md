@@ -34,6 +34,14 @@ Shropshire, United Kingdom
 
 [Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
+### Caroline Woolard
+
+Chief Cultivation Officer of Open Collective Research & Partnerships - Open Collective Foundation
+
+Berlin, Germany
+
+[Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
+
 ### **Benjamin Piouffle**
 
 Software Engineer\
@@ -44,9 +52,16 @@ La Ciotat, France
 ### **Leo Kewitz**
 
 Software Engineer\
-Florianopolis, Brazil
+Spain&#x20;
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
+
+### Sudharaka Palamakumbura
+
+Software Designer\
+Vancouver, British Columbia, Canada&#x20;
+
+[Linkedin ](https://www.linkedin.com/in/sudharakap/)
 
 ### **Guillermo Esparza**
 
@@ -55,9 +70,16 @@ Guadalajara, Mexico
 
 [Github](https://github.com/Memo-Es), [Linkedin](https://www.linkedin.com/in/memo-es/)
 
+### Ronen Hirsch
+
+Product Manager \
+Mociu, Romania
+
+[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
+
 ### **Alina Manko**
 
-Operations Support and Financial Admin\
+Operations, Support and Financial Admin\
 Wellington, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/alinamanko/)
@@ -69,46 +91,19 @@ Navi Mumbai, India
 
 [Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
-### Caroline Woolard
-
-Research & Partnerships - Open Collective Foundation
-
-Berlin, Germany
-
-[Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
-
 ### Shannon Wray
 
-Documentation and Marketing\
-Remote, New Zealand
+Support, Documentation and Marketing\
+Remote
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
 
-### Kayla&#x20;
-
-Admin Support - Open Collective Foundation \
-United States
-
-### Sudharaka Palamakumbura
-
-Software Designer\
-Vancouver, British Columbia, Canada&#x20;
-
-[Linkedin ](https://www.linkedin.com/in/sudharakap/)
-
 ### Nathan Hewitt
 
-Open Collective Foundation \
+\
 New York, United States
 
 [Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
-
-### Ronen Hirsch
-
-Product Manager, Open Source Collective \
-Mociu, Romania
-
-[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
 
 ## Advisors
 
