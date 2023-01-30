@@ -42,6 +42,13 @@ Berlin, Germany
 
 [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
 
+### Ronen Hirsch
+
+Senior Product Manager \
+Mociu, Romania
+
+[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
+
 ### **Benjamin Piouffle**
 
 Software Engineer\
@@ -84,13 +91,6 @@ Guadalajara, Mexico
 
 [Github](https://github.com/Memo-Es), [Linkedin](https://www.linkedin.com/in/memo-es/)
 
-### Ronen Hirsch
-
-Product Manager \
-Mociu, Romania
-
-[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
-
 ### **Alina Manko**
 
 Operations, Support and Financial Admin\
@@ -114,7 +114,7 @@ Remote
 
 ### Nathan Hewitt
 
-\
+Product Manager\
 New York, United States
 
 [Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
