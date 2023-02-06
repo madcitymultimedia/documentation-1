@@ -49,10 +49,9 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
+<figure><img src="../../.gitbook/assets/paypal-features.png" alt=""><figcaption><p>To receive contributions, enable "Accept payments" and "Transactions search"</p></figcaption></figure>
+
 * [ ] Then scroll down to "Live App Settings" and make sure "**Accept payments"** and **"Payouts"** are checked
-
-![](<../../.gitbook/assets/image (13).png>)
-
 * [ ] Now, copy the necessary information to Open Collective.
   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
   * Open your Host collective settings page and click in the _Receiving Money_ option in the menu.
