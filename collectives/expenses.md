@@ -66,7 +66,7 @@ When you start utilising tags you will be able to select from existing tags, mak
 
 If an expense tag is incorrect or missing, it's very easy to go back later and add or change it. Just find the expense and make your adjustments.&#x20;
 
-<figure><img src="../.gitbook/assets/collectives_expenses_aftertagging_2022_09_22 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_expenses_aftertagging_2022_09_22.gif" alt=""><figcaption></figcaption></figure>
 
 ### Example Expense tags
 

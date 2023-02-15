@@ -39,7 +39,9 @@ Tiers can be used to provide perks and rewards to supporters, set membership fee
 \
 You can control tiers by accessing the **Tiers** section in your collectives Settings:
 
-![Select tiers from your collective's settings to view, add, and amend tiers.](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
+![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.23.36.png" alt="Screenshot of Tiers Settings page"><figcaption><p>Access tiers from your Collective's settings</p></figcaption></figure>
 
 ### Enabling flexible contributions
 
@@ -50,6 +52,8 @@ You can define whether you can to allow flexible contributions or not by manipul
 Currently, only collectives hosted by Open Source Collective can enable payments with crypto.
 
 You can accept contributions using cryptocurrencies, start by enabling this feature.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28 (1).png" alt="Screenshot of Create Tier modal "><figcaption><p>Creating a new Tier</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-02-14 at 1.32.26 PM.png" alt=""><figcaption></figcaption></figure>
 
