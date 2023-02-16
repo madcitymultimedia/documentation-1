@@ -1,8 +1,6 @@
 # Transparent Budget
 
-## Inside the platform
-
-Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on.&#x20;
+Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on.
 
 We have two budget views. Our [Simple budget](budget.md#simple-budget) view shows **** overall monetary figures and a list of expenses and contributions.&#x20;
 
@@ -34,8 +32,6 @@ You can click on View all transactions to view a more detailed breakdown this vi
 
 ### New Budget Visualisation&#x20;
 
-
-
 Our new budget visualisation enables a more accessible exploration of your data through graphs and categories. This feature pulls information from your tagged expenses and your one-time and recurring contributions. These can then be filtered by different time frames and showcased with varying graphs.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-17 at 9.43.22 AM.png" alt=""><figcaption></figcaption></figure>
@@ -66,3 +62,12 @@ Find the Budget section, you can then toggle between the two budget views and mo
 Then click save
 
 <figure><img src="../.gitbook/assets/collectives_transparentbudget_save_2022_09_22.png" alt=""><figcaption></figcaption></figure>
+
+### Budget Calculations&#x20;
+
+Estimated Annual Budget - It's a projection based on current recurring contributions and activity in the past year. It's counting:
+
+* 1\) All active monthly subscriptions. Multiply by 12.
+* 2\) All active yearly subscriptions.
+* 3\) All one-time subscriptions in the past year.
+* 4\) All inactive monthly subscriptions that have contributed in the past year.
