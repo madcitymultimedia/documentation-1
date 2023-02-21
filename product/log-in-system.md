@@ -1,8 +1,10 @@
 # Log-in System
 
-Open Collective works with a **no-password system,** because our users appreciate not having to remember another password, especially when on mobile.
+Open Collective works primarily as a **passwordless system**. We generally think it's better to not force users to set a password, as it can actually be a security threat (more details below).
 
-### **How it works**
+However, users are able to later set a password and sign in with it. In that case, the use of a password manager is recommended.
+
+### **How passwordless works**
 
 You type in your email and the system instantly knows if you're an existing user or a new user.
 
@@ -13,6 +15,16 @@ If you already have an account, we send you an email with a unique link that log
 ![](../.gitbook/assets/product\_log-in-system\_magic-link\_2019-11-12.png)
 
 If you're a new user, you'll be prompted to create an account.
+
+### **How it works with a password**
+
+For users willing to set a password, you can do so from the "Security" section of their user "Settings".
+
+When signin in, after entering their email, you will simply be prompted for your password.
+
+If you don't have your password available, there are two alternatives:
+* Sign in with email: it works the same as an account without password.
+* Reset password: you will receive an email to help you set a new password.
 
 ## About security
 
