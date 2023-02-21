@@ -28,4 +28,4 @@ The following diagram describes the ideal workflow of a sprint of 10 working day
 
 ### Sprint workflow and key players
 
-![](<../../.gitbook/assets/5 (2) (2) (2) (2) (2) (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/5 (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1).png>)

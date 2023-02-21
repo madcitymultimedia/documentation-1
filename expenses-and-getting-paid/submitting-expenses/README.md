@@ -40,7 +40,9 @@ If your country does not allow Wise payment, and no other alternatives exist, we
 Add any relevant info necessary to complete the transaction.
 
 {% hint style="warning" %}
-In order to be paid, submitted expenses must be approved by a Collective admin, who ensures valid use of the Collective's funds. Then it proceeds to the fiscal host admin for processing.
+In order to be paid, submitted expenses must be approved by a Collective admin, who ensures valid use of the Collective's funds. Then it proceeds to the fiscal host admin for processing.\
+\
+Expenses cannot be paid if there are insufficient funds in the Collective balance. They must be either less than or equal to the amount of funds you already have.
 {% endhint %}
 
 ### Reimbursements
