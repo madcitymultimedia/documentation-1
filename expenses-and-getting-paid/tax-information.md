@@ -52,6 +52,10 @@ The automated system works through Dropbox Forms, a service we use to make submi
 
 Yes. Forms submitted through the automated system are encrypted and only shared with the fiscal hosts' accountants, who are bound by extensive data security regulations.
 
+### Can you advise me on a specific tax form?
+
+We can not advise you on how to fill in the forms. If you have specific questions regarding your countries requirements, it would be best to talk to your tax advisor or a tax preparer.
+
 ## Info For Collectives
 
 Collectives that live under the umbrella of a [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), don't need to worry about accounting and tax obligations, because the host manages that (this is the awesome value of fiscal hosting). If you need tax or accounting information for some reason, get in touch with your fiscal host.

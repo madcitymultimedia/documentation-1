@@ -54,7 +54,7 @@ These are the notifications triggered by updates and newsletters sent by our pla
 
 In this section, you can subscribe and unsubscribe from our monthly newsletter, and also tweak which collectives that you collaborate to can reach you out through email:
 
-<figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 These are the notification settings related to the activities that occur on the platform. These activities may have been triggered directly by you or by someone else in the context of a Collective or Organization that you are a core contributor.
 
@@ -88,4 +88,4 @@ These are the notifications triggered by updates and newsletters sent by our pla
 
 In this section, you can subscribe and unsubscribe from our monthly newsletter and also tweak which collectives that you contribute to that can reach out to you through email:
 
-<figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>

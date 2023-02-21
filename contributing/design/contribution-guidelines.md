@@ -60,7 +60,7 @@ Lack of transparency erodes trust in a product. We can prevent this erosion by d
 
 ## The process
 
-![](<../../.gitbook/assets/3 (3).png>)
+![](<../../.gitbook/assets/3 (3) (1).png>)
 
 **Exploration/Ideation:**
 
@@ -92,17 +92,17 @@ The first thing you encounter with is this primary breakdown of the work:
 * [02 → Web App](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
 * [PRJ → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (3) (1).png>)
 
 **UX/UI Contribution**
 
 Most of the projects related with interface design will be hosted inside the [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com) folder, that breaks down again the efforts with this organization:
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (4) (1).png>)
 
 The next level is each individual file, that may include several interface elements, pages and flows of the platform and the website, it looks something like [this](https://www.figma.com/file/e71tBo0Sr8J7R5n6iMkqI42d/OC.COM-07-%2F-Collectives?node-id=182%3A0):
 
-![](<../../.gitbook/assets/figma-file-visualization (1).png>)
+![](<../../.gitbook/assets/figma-file-visualization (1) (1).png>)
 
 Here you can obtain assets, individual characteristics of each elements and make specific questions.
 
@@ -120,18 +120,18 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](<../../.gitbook/assets/contributing\_design\_design-contributing-guidelines\_breakdown-tasks-2019-07-09 (1) (1) (1).png>)
+![](<../../.gitbook/assets/contributing\_design\_design-contributing-guidelines\_breakdown-tasks-2019-07-09 (1) (1) (1) (1) (2).png>)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**Project Boards**](https://github.com/opencollective/opencollective/projects)
 
-![](<../../.gitbook/assets/7 (1) (2) (2) (1).png>)
+![](<../../.gitbook/assets/7 (1) (2) (2) (1) (1) (1).png>)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)
 
-![](<../../.gitbook/assets/8 (2).png>)![](<../../.gitbook/assets/9 (2) (2) (1).png>)
+![](<../../.gitbook/assets/8 (2) (1).png>)![](<../../.gitbook/assets/9 (2) (2) (1) (1) (1) (1).png>)
 
 
 
-![](<../../.gitbook/assets/2 (3) (2) (1) (1) (3).png>)
+![](<../../.gitbook/assets/2 (3) (2) (1) (1) (1) (2).png>)
