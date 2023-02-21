@@ -16,7 +16,7 @@ Log in to your Collective and scroll down to the Events section. Click on the **
 
 <figure><img src="../.gitbook/assets/collectives_events_createevent_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_create_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Name** of the event
 * **Short Description:** purpose, schedule, etc. Use something short (less than 255 characters). You'll be able to set a longer description directly on the event page after its creation.
@@ -86,7 +86,7 @@ Events inherit the admins/team of the Collective.
 
 To add tickets to your event click on the Create Ticket button on the Event Page or&#x20;
 
-<figure><img src="../.gitbook/assets/collectives_events_hometickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_hometickets_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -94,7 +94,7 @@ Click on the add another ticket button within the event settings
 
 <figure><img src="../.gitbook/assets/collectives_events_tickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/collectives_events_createtickets_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_createtickets_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 #### Type&#x20;
 
@@ -116,7 +116,7 @@ Fixed amount lets your define the fixed ticket amount (price)&#x20;
 
 Flexible amount lets you define two suggested amounts, a default amount and a minimum amount
 
-<figure><img src="../.gitbook/assets/collectives_events_flexible_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-13 at 11.24.21 AM (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Available quantity
 
@@ -150,7 +150,7 @@ You can add more tickets with the "add another ticket" button.
 
 Click on the remove ticket text in the top right hand corner&#x20;
 
-<figure><img src="../.gitbook/assets/collectives_events_removericket_2022-09-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_removericket_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Tiers
 
@@ -176,7 +176,7 @@ Enabling this will enable support for donations with Cryptocurrencies such as Bi
 
 Choose between Generic tier, Membership (recurring), Service (e.g. Support), Product (e.g. T-shirt) or Donation (Gift)
 
-<figure><img src="../.gitbook/assets/collectives_events_teirtypes_2022-09-13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_teirtypes_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 #### Name&#x20;
 

@@ -18,7 +18,7 @@ The fees are charged by Wise and its value will vary with the currencies and val
 
 These fees are paid by the collective the expense was submitted for. This means that transactions in Wise will display the fees but that value will also be deducted from the collective balance in our platform as a _payment processor fee_.
 
-![An expense submitted to Open Collective Engineering paid using TransferWise.](<../../.gitbook/assets/image (17).png>)
+![An expense submitted to Open Collective Engineering paid using TransferWise.](<../../.gitbook/assets/image (17) (1).png>)
 
 ## Limitations
 

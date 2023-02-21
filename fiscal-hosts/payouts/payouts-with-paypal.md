@@ -76,7 +76,7 @@ If you're already in the beta test group, you can follow these instructions:
 * Customer Disputes
 * Transaction Search
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 3\. Now, copy the necessary information to Open Collective.
 

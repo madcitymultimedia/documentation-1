@@ -114,14 +114,14 @@ Remote
 
 ### Nathan Hewitt
 
-Product Manager\
+Program Manager\
 New York, United States
 
 [Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
 
 ### Jacinta Del Solar Dorrego
 
-Communications and Company Organisation&#x20;
+Communications and Pias PA
 
 Madrid, Spain
 
