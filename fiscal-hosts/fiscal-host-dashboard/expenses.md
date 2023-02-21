@@ -80,7 +80,7 @@ Custom Date selection&#x20;
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete2\_2022-05-24 (1).png>)
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24.png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_incomplete\_2022-05-24 (1).png>)
 
 This action allows a comment to be added to the Expense activity logs and also emails the user requesting their attention.&#x20;
 
@@ -107,11 +107,11 @@ We're adding warnings about payees to protect Collectives and Hosts from fraudul
 
 These warnings are designed to inform you as to whether you should approve or pay an expense. They are not a part of an enforcible policy within Open Collective but we encourage hosts and Collectives to consider creating and documenting policies as part of their terms or code of conducts if needed.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
 
 You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high-security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
 
 The security checks are categorized in scope and risk level. The categories are:
 
@@ -137,7 +137,7 @@ It is important to understand that these checks are evaluated independently, and
 
 ### Go to Pay
 
-![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24 (1).png>)
+![](<../../.gitbook/assets/fiscal host\_dashboard\_gotopay\_2022-05-24.png>)
 
 Green button showing that an expense has been approved and there are sufficient funds. If you click this button, the pay expense modal will be displayed and you'll be able to pay for the expense using a suitable method.
 
@@ -194,7 +194,7 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 
 Here is an example of how a Multi-Currency expense will show in the expense list. The amount will show in the expense currency, with the amount converted into the host currency below.&#x20;
 
-![](<../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_multi\_9-8-2022 (1).png>)
+![](../../.gitbook/assets/fiscalhosts\_dashboard\_expenses\_multi\_9-8-2022.png)
 
 The same will show in the pay expenses modal. Example below.&#x20;
 

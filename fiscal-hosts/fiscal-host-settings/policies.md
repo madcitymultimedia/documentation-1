@@ -16,7 +16,7 @@ Note that, after setting a minimum number of admins **you won't be able to appro
 
 It is also possible to automatically prevent these collectives that have pending admins from receiving contributions with the freeze feature:
 
-![](<../../.gitbook/assets/image (54) (1).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 In this scenario, if you decide to open an exception to a collective that still doesn't satisfy the minimum number of admins, you'll make sure they only start to raise funds after they have enough signed-up admins.
 
@@ -42,4 +42,4 @@ If you wish to customise these options for specific collectives head to the [Hos
 
 ## Rejected categories
 
-<figure><img src="../../.gitbook/assets/FiscalHosts_Policies_rejectedcategories_2022-09-04 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FiscalHosts_Policies_rejectedcategories_2022-09-04.png" alt=""><figcaption></figcaption></figure>

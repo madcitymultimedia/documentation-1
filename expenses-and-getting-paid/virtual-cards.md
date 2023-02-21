@@ -12,7 +12,7 @@ Hosts will have particular requirements and policies that will need to be follow
 
 Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page:
 
-![Request a virtual card from your host from your collective's profile page](<../.gitbook/assets/requestcard (1).png>)
+![Request a virtual card from your host from your collective's profile page](../.gitbook/assets/requestcard.png)
 
 Complete the form, adding an assignee (who will responsible for uploading receipts) a reason and any required spending controls. Your host will respond to your request.&#x20;
 
