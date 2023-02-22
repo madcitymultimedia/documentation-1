@@ -96,7 +96,7 @@ To view your current contributions, go to your profile (under 'my account') and 
 
 Make sure you are logged in, then click on your profile in the top right-hand corner&#x20;
 
-<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributor_payments_cancel_2022-09-14 (1).png" alt=""><figcaption></figcaption></figure>
 
 This should open the dropdown menu next to your profile avatar. Click on **Manage Contributions.**
 

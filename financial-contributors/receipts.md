@@ -22,7 +22,7 @@ Consolidated Payment Receipts in the settings section only appear after the mont
 2. Click on your name in the top right-hand corner.&#x20;
 3. Under **My Account** click on **Profile**.&#x20;
 
-![](<../.gitbook/assets/financial\_contributors\_receipts\_profile\_2021-06-22 (1).png>)
+![](<../.gitbook/assets/financial\_contributors\_receipts\_profile\_2021-06-22 (1) (1).png>)
 
 4\.  Scroll down to 'Budget and click 'Contributions'
 
@@ -32,11 +32,11 @@ Consolidated Payment Receipts in the settings section only appear after the mont
 
 7\. Use the Download Receipts to download all receipts from a specific time period.
 
-![](<../.gitbook/assets/financial\_contributors\_receipts\_download\_receipts\_2021-06-22 (3) (3) (1) (1) (1) (2).gif>)
+![](<../.gitbook/assets/financial\_contributors\_receipts\_download\_receipts\_2021-06-22 (3) (3) (1) (1) (1) (1) (1).gif>)
 
 6\. Use the Search Function to find a specific transaction.
 
-![](<../.gitbook/assets/financial\_contributiors\_receipts\_searc-h\_2021-06-22 (2) (1).png>)
+![](<../.gitbook/assets/financial\_contributiors\_receipts\_searc-h\_2021-06-22 (2).png>)
 
 8\. Once you've found the correct Transaction Click 'View Details'.&#x20;
 
@@ -69,8 +69,8 @@ Consolidated Payment Receipts in the settings section only appear after the mont
 
 If you log into your account, you can update the Billing information via your profile settings.&#x20;
 
-<figure><img src="../.gitbook/assets/financialcontributors_receipts_details_2022-09-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributors_receipts_details_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/financialcontributors_receipts_info_2022-09-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributors_receipts_info_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
 
 The receipt is generated from this data so after saving the new information, regenerate the receipt and you should see the updated information. View instructions above on how to download a new receipt.&#x20;

@@ -18,19 +18,22 @@ If you're a new user, you'll be prompted to create an account.
 
 ### **How it works with a password**
 
-For users willing to set a password, you can do so from the "Security" section of their user "Settings".
+As a user willing to set a password, you can do so from the "Security" section of your personal "Settings".
 
-When signin in, after entering their email, you will simply be prompted for your password.
+When signing in, after entering your email, you will simply be prompted for your password.
+
+![](<../.gitbook/assets/Screenshot 2023-02-22 at 11.05.34.png>)
 
 If you don't have your password available, there are two alternatives:
-* Sign in with email: it works the same as an account without password.
-* Reset password: you will receive an email to help you set a new password.
+
+* _Send me an email_: it works the same as an account without password.
+* _Reset my password_: you will receive an email to help you set a new password.
 
 ## About security
 
 It might sound counterintuitive, but passwords don’t always make things more secure. They can be hard to remember, and easy for fraudsters to guess. Not everyone uses a password manager, and people often don’t follow good password practices and either reuse passwords, or pick obvious ones (ie. their country code, their birthday, etc). Passwords can also make you more vulnerable to [phishing](http://www.phishing.org/what-is-phishing), a type of fraud where someone tricks you into telling them your password.
 
-Most websites allow you to reset your password by email, a feature fraudsters can use to work around any protection provided by a password. These websites start from the premise that if your email is compromised, your account will be too. The main way to avoid that is Two Factor Authentication (2FA), which [you can enable](https://docs.opencollective.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts#enabling-2fa-for-login) on your Open Collective account. We don't send 2FA codes to mobile phones, we rely on OTP apps like Google Authenticator.&#x20;
+Most websites allow you to reset your password by email, a feature fraudsters can use to work around any protection provided by a password. These websites start from the premise that if your email is compromised, your account will be too. The main way to avoid that is Two Factor Authentication (2FA), which [you can enable](https://docs.opencollective.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts#enabling-2fa-for-login) on your Open Collective account. We don't send 2FA codes to mobile phones, we rely on OTP apps like Google Authenticator.
 
 According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/):
 

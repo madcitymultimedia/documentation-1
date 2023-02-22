@@ -53,7 +53,7 @@ Currently, only collectives hosted by Open Source Collective can enable payments
 
 You can accept contributions using cryptocurrencies, start by enabling this feature.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28 (1).png" alt="Screenshot of Create Tier modal "><figcaption><p>Creating a new Tier</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28.png" alt="Screenshot of Create Tier modal "><figcaption><p>Creating a new Tier</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-02-14 at 1.32.26 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ Note that contributions are settled (converted) into your currency on collection
 
 You can also create custom tiers on the same page. Click on **add another tier:**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28.png" alt=""><figcaption><p>Click 'add another tier' to open the create tier form.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28 (1).png" alt=""><figcaption><p>Click 'add another tier' to open the create tier form.</p></figcaption></figure>
 
 A preview of the tier you are creating will appear alongside your the configured settings:
 

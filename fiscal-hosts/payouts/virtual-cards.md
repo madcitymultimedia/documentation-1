@@ -71,7 +71,7 @@ Once connected, cards can be created from your Host Settings (Select 'Virtual ca
 
 Select the Collective to assign the card to (this is automatically filled if creating from a Collective's profile page), the assignee, a name for the card and limit:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-12-22 at 11.11.13.png" alt=""><figcaption><p>Creating a virtual card.<br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-12-22 at 11.11.13 (1).png" alt=""><figcaption><p>Creating a virtual card.<br></p></figcaption></figure>
 
 ### Card Limits
 
