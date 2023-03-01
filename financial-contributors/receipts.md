@@ -32,7 +32,7 @@ Consolidated Payment Receipts in the settings section only appear after the mont
 
 7\. Use the Download Receipts to download all receipts from a specific time period.
 
-![](<../.gitbook/assets/financial\_contributors\_receipts\_download\_receipts\_2021-06-22 (3) (3) (1) (1) (1) (1) (1).gif>)
+![](<../.gitbook/assets/financial\_contributors\_receipts\_download\_receipts\_2021-06-22 (3) (3) (1) (1).gif>)
 
 6\. Use the Search Function to find a specific transaction.
 

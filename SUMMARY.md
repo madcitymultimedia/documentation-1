@@ -113,6 +113,7 @@
   * [Bank Transfers](fiscal-hosts/receiving-money/bank-transfers.md)
   * [Credit Card](fiscal-hosts/receiving-money/credit-card.md)
   * [Add Funds Manually](fiscal-hosts/receiving-money/add-funds-manually.md)
+  * [Pending Contributions](fiscal-hosts/receiving-money/pending-contributions.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Virtual Card Settings](fiscal-hosts/payouts/virtual-cards.md)
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)

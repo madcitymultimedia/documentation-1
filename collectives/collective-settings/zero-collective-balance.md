@@ -18,7 +18,7 @@ When emptying the balance for a collective, you have the option of charging the 
 
 When these conditions are met, the host admins will see a checkbox on the _Pay expense modal_:
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (3).png>)
 
 #### Dealing with small leftovers
 

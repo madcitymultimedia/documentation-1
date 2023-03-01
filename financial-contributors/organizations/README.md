@@ -17,7 +17,7 @@ An Organization is a profile that represents a company or entity instead of an i
 
 Go to your profile menu (top right) and look for the My Organizations section. Click "**+"**.&#x20;
 
-![User menu - click on "+" to create a new organization](<../../.gitbook/assets/image (45).png>)
+![User menu - click on "+" to create a new organization](<../../.gitbook/assets/image (45) (1).png>)
 
 Once set up, you will be able to select your individual or organization profile when making a contribution.
 
@@ -33,7 +33,7 @@ Go through the process of contributing to a Collective, and you'll be able to cr
 
 Use the cog icon next to the organization that you want to edit.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 
 
@@ -49,4 +49,4 @@ To access your Organization's contributions, go to the Organization's page and c
 Sometimes, the **`Manage contributions`** button can  be nested inside the **Actions** menu
 {% endhint %}
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)

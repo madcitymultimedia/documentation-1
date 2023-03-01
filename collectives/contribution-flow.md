@@ -48,7 +48,7 @@ This feature is currently in a beta-test phase. If you face any issue or need as
 
 The embed contribution flow is a way to integrate Open Collective on your own website. Visitors will be able to contribute directly, by simply providing an email address.
 
-![Embedded contribution on the website of an initiative](<../.gitbook/assets/image (4) (2).png>)
+![Embedded contribution on the website of an initiative](<../.gitbook/assets/image (4).png>)
 
 ### General considerations
 

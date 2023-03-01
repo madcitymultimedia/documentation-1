@@ -107,11 +107,11 @@ We're adding warnings about payees to protect Collectives and Hosts from fraudul
 
 These warnings are designed to inform you as to whether you should approve or pay an expense. They are not a part of an enforcible policy within Open Collective but we encourage hosts and Collectives to consider creating and documenting policies as part of their terms or code of conducts if needed.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>You'll find the Security Checks with other expense processing buttons.</p></figcaption></figure>
 
 You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high-security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
 
 The security checks are categorized in scope and risk level. The categories are:
 

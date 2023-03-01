@@ -116,7 +116,7 @@ Fixed amount lets your define the fixed ticket amount (price)&#x20;
 
 Flexible amount lets you define two suggested amounts, a default amount and a minimum amount
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-13 at 11.24.21 AM (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/collectives_events_flexible_2022-09-13.png" alt=""><figcaption></figcaption></figure>
 
 #### Available quantity
 

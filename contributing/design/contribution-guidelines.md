@@ -120,18 +120,18 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](<../../.gitbook/assets/contributing\_design\_design-contributing-guidelines\_breakdown-tasks-2019-07-09 (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/contributing\_design\_design-contributing-guidelines\_breakdown-tasks-2019-07-09 (1) (1) (1).png>)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
 1. [**Project Boards**](https://github.com/opencollective/opencollective/projects)
 
-![](<../../.gitbook/assets/7 (1) (2) (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/7 (1) (2) (2) (1).png>)
 
 1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)
 
-![](<../../.gitbook/assets/8 (2).png>)![](<../../.gitbook/assets/9 (2) (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/8 (2).png>)![](<../../.gitbook/assets/9 (2) (2) (1).png>)
 
 
 
-![](<../../.gitbook/assets/2 (3) (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/2 (3) (2) (1) (1) (3).png>)

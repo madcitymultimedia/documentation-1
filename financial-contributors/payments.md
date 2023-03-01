@@ -70,7 +70,7 @@ If you start the contribution flow (ie. [http://opencollective.com/babel/donate]
 Above a certain amount, the system will ask you additional information such as your physical address. This information is required for legal purpose, and stays private.
 {% endhint %}
 
-![Guest contribution form](<../.gitbook/assets/image (5) (1).png>)
+![Guest contribution form](<../.gitbook/assets/image (5).png>)
 
 ### Claiming a Guest Account
 
@@ -78,11 +78,11 @@ There are two ways to claim a guest account:
 
 #### 1. By clicking on "Join Open Collective" on the success page
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
 You'll then get an email to register on Open Collective. Click on the given link and your account will be verified!
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 #### 2. By signing in
 
@@ -100,7 +100,7 @@ Make sure you are logged in, then click on your profile in the top right-hand co
 
 This should open the dropdown menu next to your profile avatar. Click on **Manage Contributions.**
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 You'll be redirected to a page with all of your recurring financial contributions. Click on the edit button at the bottom of the financial contribution card to update your payment method, amount or cancel.
 
@@ -143,7 +143,7 @@ To comply with banking regulations, we may have to ask financial contributors to
 
 While processing recurring contributions, contributors whose credit cards need confirmation will receive an email looking like this:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>"Verify your credit card" email</p></figcaption></figure>
 
 Click on the "Verify my credit card" button, then you'll be redirected to https://opencollective.com where you may have to sign in with your email address if you're not already. Finally, a prompt with the confirmation page of your bank will appear (the way it will look will depend on your bank):
 
