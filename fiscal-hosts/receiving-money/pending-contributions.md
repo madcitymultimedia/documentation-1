@@ -13,23 +13,23 @@ Pending contributions can be found in your fiscal host administration:
 
 ### **Creating a Pending Contribution**
 
-When you become aware of expected funds (for example when notified by a collective administrator) you can create a new pending contribution. Go to your “Fiscal Host Administration” and select pending contributions. At the top of the screen click “Add New Pending Contribution”
+When you become aware of expected funds (for example, when notified by a collective administrator), you can create a new pending contribution. Go to your “Fiscal Host Administration” and select "Pending Contributions". At the top of the screen, click “Create +”
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (37).png>)
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Create Pending Contribution Modal</p></figcaption></figure>
 
 The form is divided into three sections:
 
-1. In the first section you can indicate:
+1. In the first section, you can indicate:
    1. To which of your hosted collectives the funding is going to be allocated.&#x20;
    2. You can decide within the collective if the funds are supposed to go to the main collective account or to a project or event. You can also link the funding to a specific contribution tier.
-2. In the second section you can indicate where the money is coming from:
+2. In the second section, you can indicate where the money is coming from:
    1. Select an existing organization or create a new one.&#x20;
    2. Add contribution-specific contact information (name and email) for this funding. If you provide a contact email address, they will be automatically notified when the funding is allocated to the collective.&#x20;
    3. If you are interacting with a funders payment system and have a purchase order number to track, you can add it here.
-3. In the third section you can indicate:
-   1. How much money is expected
+3. In the third section, you can indicate:
+   1. The expected amount.
    2. The expected payment method.
    3. Set the host fees.
    4. Add an internal note to document information related to this pending contribution.
@@ -37,7 +37,7 @@ The form is divided into three sections:
 \
 **Review & Edit a Pending Contribution**
 
-When you find a pending contribution (see Searching for Pending Contributions) you can click on its title to review its details.
+When you find a pending contribution (see Searching for Pending Contributions), you can click on its title to review its details.
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ You can search for a pending contribution based on any of the information you’
 
 ### **Reconciling Pending Contributions**
 
-When you’ve found a pending contribution that matches incoming funds you can reconcile it by clicking on “Mark as Completed" which will display this reconciliation screen.
+When you’ve found a pending contribution that matches incoming funds, you can reconcile it by clicking on “Mark as Completed" which will display this reconciliation screen.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,11 +76,11 @@ The reconciled pending contribution will no longer appear under pending contribu
 
 The expected dates on pending contributions are informational estimates. When the expected date passes it will be emphasized with a highlight to indicate it may be overdue.&#x20;
 
-If you no longer expect a pending contribution to be fulfilled you can mark it as expired.
+If you no longer expect a pending contribution to be fulfilled, you can mark it as expired.
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-If, for some reason, the funds for an expired pending contribution do arrive, you will still be able to search for it and reconcile it.\
+If for some reason, the funds for an expired pending contribution do arrive, you will still be able to search for it and reconcile it.\
 \
