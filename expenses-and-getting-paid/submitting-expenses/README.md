@@ -18,22 +18,29 @@ Additionally, the invoice form will ask for your country, physical address, and 
 
 ![Additional info requested by the invoice form](../../.gitbook/assets/expenses-and-getting-paid\_submitting-expenses\_invoice-additional-info\_2020-05-12.png)
 
-The availability of certain options depends on which plan the organization adopts, and may include **PayPal**, **wire transfers**, or a **custom method**.
+### Payout Methods&#x20;
 
-#### PayPal
+The availability of certain options depends on which plan the organization adopts, and may include **bank transfers, PayPal**, or a **custom method**.
 
-To use **PayPal**, you can either select one of the saved PayPal accounts or add a new one by adding the email address registered in said account.
-
-#### Wire transfers
+#### Bank transfers
 
 You can either select a saved bank account or add a new one. To add a new bank account:
 
 1. Select the currency in which you would like to receive your payment.
+2. Transaction Method: Select 'local bank account'&#x20;
+
+Account Information
+
+1. Select Personal or Business
 2. Fill all fields with the requested info, making sure to not use any acronyms. **All fields are mandatory** and may vary depending on the selected currency.
 
 Our bank transfer feature uses Wise and is only available in countries Wise serves. For an up-to-date list of countries, please refer [to their website](https://transferwise.com).
 
 If your country does not allow Wise payment, and no other alternatives exist, we will suggest looking into [Payoneer ](../receiving-payment-through-payoneer-or-wise.md)as a possible option.&#x20;
+
+#### PayPal
+
+To use **PayPal**, you can either select one of the saved PayPal accounts or add a new one by adding the email address registered in said account.
 
 #### Custom payment method
 
