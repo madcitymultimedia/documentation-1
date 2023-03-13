@@ -111,7 +111,7 @@ These warnings are designed to inform you as to whether you should approve or pa
 
 You can review the Security Checks by clicking the shield button. This button varies in color following the highest risk level we found in the expense. In the case the expense poses a high-security level, we're also presenting this information as a necessary confirmation before you go to the Pay modal.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>The Security Checks modal.</p></figcaption></figure>
 
 The security checks are categorized in scope and risk level. The categories are:
 

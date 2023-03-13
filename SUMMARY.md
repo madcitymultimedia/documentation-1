@@ -16,6 +16,7 @@
 * [Hiring](about/hiring.md)
 * [Investors](about/investors.md)
 * [Contributing](about/contributing.md)
+* [Contact Us](about/contact-us.md)
 
 ## Product
 
