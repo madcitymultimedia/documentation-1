@@ -16,6 +16,10 @@ Please ensure your expense meets the expense policy of the Collective, which app
 
 Basic data for all expenses, like the amount and description, are public. But attachments, payment details, addresses, and comments are private, as they may contain personal information. Only the Admins and the submitter can see full expense details.
 
+### **Can I submit an Anonymous Expense?**&#x20;
+
+You can use a pseudonym on your main profile while maintaining legal requirements with our legal name option in your [User Settings](../product/user-profile.md).&#x20;
+
 ### When will I get paid?
 
 Expenses for Collectives in [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) managed by Open Collective are paid twice weekly. Other hosts have their own policies and schedules.
