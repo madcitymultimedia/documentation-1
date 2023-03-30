@@ -29,7 +29,3 @@ We try to be very transparent about our own finances. We raised a total of $2,81
 
 [Contact us ](https://opencollective.com/contact)or join our [Slack](https://slack.opencollective.com/).
 
-### Internal Documentation&#x20;
-
-Here is a link to our [internal documentation](http://localhost:5000/o/-LWSZizNMEjL8\_DrMNdF/s/-MkoLSqv45-IqGUC\_Gy-/).
-
