@@ -6,7 +6,7 @@ description: >-
 
 # The Open Collective Way
 
-This section is our core. What our values are and our community guidelines. Want to learn more about how we organise and compensate ourselves [head to our internal docs. ](https://docs-internal.opencollective.com/human-resources/staff-benefits)
+This section is our core. What our values are and our community guidelines.&#x20;
 
 ## [Mission and Values ](mission-and-values.md)
 
