@@ -16,9 +16,9 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [Open Source Collective](https://opencollective.com/opensource) - [Documentation](http://docs.oscollective.org/) - [Website ](https://www.oscollective.org/)
 
-![](../.gitbook/assets/opencollectivebrussells.png)
+<figure><img src="../.gitbook/assets/No-Background copy.png" alt=""><figcaption></figcaption></figure>
 
-[Open Collective Brussels](https://opencollective.com/brussels) - [Documentation ](https://docs.opencollective.com/brussels/)
+[Open Collective Europe](https://opencollective.com/europe) - [Documentation](http://localhost:5000/o/-LWSZizNMEjL8\_DrMNdF/s/-Lm4naYlyngjgKnRsThx-887967055/) -[ ](https://docs.opencollective.com/brussels/)[Website](https://www.oceurope.org/)
 
 ![](../.gitbook/assets/allforclimatelogo.jpg)
 
