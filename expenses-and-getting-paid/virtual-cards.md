@@ -40,7 +40,7 @@ There are a few websites that don't accept virtual credit cards. Here are a few 
 In most cases, cards charged using your personal details will be accepted. If you wish, you can add the details for your host organisation, which you'll find alongside your Collective's name on your Collective's profile page. Address information for Open Source Collective and Open Collective Foundation can be found at:
 
 * [Open Source Collective's information](https://docs.oscollective.org/about/official-info-and-docs#address-and-contact-info)
-* [OCF Open Collective Foundation's information](https://docs.opencollective.foundation/how-it-works/policies/virtual-cards-policy#requirements-policy)
+* [Open Collective Foundation's information](https://docs.opencollective.foundation/how-it-works/policies/virtual-cards-policy#requirements-policy)
 
 ## Viewing card details
 
