@@ -2,9 +2,9 @@
 description: Documenting how we handle translations in the code
 ---
 
-# Internationalization \(i18n\) system
+# Internationalization (i18n) system
 
-We use [react-intl](https://github.com/formatjs/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command \(CI will notify you if the translation files are outdated\). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
+We use [react-intl](https://github.com/formatjs/react-intl) to manage our translations. They are extracted from the code to `src/lang/${locale}.json` files using the `npm run build:langs` command (CI will notify you if the translation files are outdated). **Don't translate the strings directly in the files**, we use [Crowdin](https://crowdin.com/project/opencollective) to manage our translatations.
 
 ## Good practices
 
@@ -14,7 +14,6 @@ We use [react-intl](https://github.com/formatjs/react-intl) to manage our transl
 
 ```jsx
 <FormattedMessage
-    id="withSelect"
     defaultMessage="{action, select, delete {Delete this} archive {Archive this} other {Do something with this}}"
     values={{ action: 'delete' }}
 />
@@ -22,7 +21,6 @@ We use [react-intl](https://github.com/formatjs/react-intl) to manage our transl
 // => "Delete this"
 
 <FormattedMessage
-    id="withSelect"
     defaultMessage="{action, select, delete {Delete this} archive {Archive this} other {Do something with this}}"
     values={{ action: 'eat' }}
 />
@@ -58,8 +56,7 @@ The order of the words may change from a language to another. For this reason we
 
 // Good
 <div>
-    <FormattedMessage 
-        id="str" 
+    <FormattedMessage  
         defaultMessage="Pending approval from {host}" 
         values ={{ 
           host: <Link route={`/${host.slug}`}>{host.name} </Link>
@@ -75,12 +72,11 @@ Splitting a string is alway problematic, because translators loose the context: 
 ```jsx
 // Bad
 <FormattedMessage
-  id="_"
   defaultMessage="Do you want to {createSomething} in this list?"
   values={{
     createSomething: (
       <blink>
-        <FormattedMessage id="_" defaultMessage="create something"/>
+        <FormattedMessage defaultMessage="create something"/>
       </blink>
     )
   }}
@@ -88,7 +84,6 @@ Splitting a string is alway problematic, because translators loose the context: 
 
 // Good
 <FormattedMessage
-  id="_"
   defaultMessage="Do you want to <blink>create something</blink> in this list?"
   values={{
     createSomething: function BlinkComponent(msg) {
@@ -98,7 +93,7 @@ Splitting a string is alway problematic, because translators loose the context: 
 />
 ```
 
-### Use I18nFormatters to format rich text \(bold, italic...etc\)
+### Use I18nFormatters to format rich text (bold, italic...etc)
 
 ```jsx
 import I18nFormatters from '../../I18nFormatters';
@@ -110,6 +105,17 @@ import I18nFormatters from '../../I18nFormatters';
 />
 ```
 
+### Provide an ID when the translation depends on the context
+
+In many Latin languages, the translation for a string like "Created at" will depend on the context because of the feminine/masculine forms. The best way to provide this context is to set an ID on the string:
+
+```jsx
+<FormattedMessage
+  id="expense.createdAt"
+  defaultMessage"Created at"
+/>
+```
+
 ### Translate links inline
 
 In some parts of the code we translate links like this:
@@ -117,7 +123,6 @@ In some parts of the code we translate links like this:
 ```jsx
 // Please don't do that!
 <FormattedMessage
-  id="ReadTheDocs"
   defaultMessage="Please check our {documentationLink} to learn more!"
   values={{
     documentationLink: (
@@ -136,7 +141,6 @@ import { getI18nLink } from './I18nFormatters';
 
 // External link
 <FormattedMessage
-  id="ReadTheDocs"
   defaultMessage="Please check our <link>documentation</link> to learn more!"
   values={{
     link: getI18nLink({ href: 'https://docs.opencollective.com' }),
@@ -147,7 +151,6 @@ import { getI18nLink } from './I18nFormatters';
 import Link from './Link';
 
 <FormattedMessage
-  id="CheckHosts"
   defaultMessage="Please check <link>hosts page</link> to learn more!"
   values={{
     link: getI18nLink({ as: Link, route: 'hosts' }),
@@ -182,9 +185,8 @@ For VSCode users, you can use the following snippet to make your life easier:
 
 #### Add the language on Crowdin
 
-Just go to [https://crowdin.com/project/opencollective/settings\#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update`.
+Just go to [https://crowdin.com/project/opencollective/settings#translations](https://crowdin.com/project/opencollective/settings#translations), click on `Target languages` pick the language and click `Update`.
 
 #### Activate the language in the code
 
-To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js).
-
+To activate a language on the website, we usually wait to have a correct translated ratio (20-30%). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js).
