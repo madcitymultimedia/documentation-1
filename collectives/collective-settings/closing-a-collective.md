@@ -22,6 +22,6 @@ If your Collective has transactions associated with it, you will have to archive
 
 ## Archive a Collective
 
-If your Collective has transactions, you can archive it instead of deleting. This will mark the Collective as inactive and prevent any new donations.
+If your Collective has transactions, you can archive it instead of deleting. This will mark the Collective as inactive and prevent any new donations. If you want to re-activate your collective at a later stage, please follow the same steps shown below and find an updated button to unarchive the collective).
 
 ![](../../.gitbook/assets/collectives\_closing-a-collective\_archive.png)
