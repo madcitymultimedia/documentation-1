@@ -26,7 +26,7 @@ Projects have many of the same features that Collectives have. Clicking 'setting
 
 ### Managing Project team members
 
-You cannot add, remove or edit team members for projects separately from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective.&#x20;
+You can add, remove or edit team members for projects separately from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective.&#x20;
 
 ### Creating an Update
 
