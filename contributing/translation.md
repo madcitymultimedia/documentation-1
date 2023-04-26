@@ -7,10 +7,10 @@ description: >-
 # Translation
 
 {% hint style="info" %}
-We use Crowdin to manage all our translations. You can join and contribute on: [https://crowdin.com/project/opencollective/](https://crowdin.com/project/opencollective/)
+We use Crowdin to manage all our translations. You can join and contribute on: [https://translate.opencollective.com/](https://translate.opencollective.com/)
 {% endhint %}
 
-## Quick tour
+Quick tour
 
 {% embed url="https://www.loom.com/share/467aeead7ed74128935a2b1e03bc9220" %}
 
