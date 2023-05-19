@@ -53,7 +53,7 @@ If they still can't find them, the easiest way to re-trigger the emails is:
 ### Troubleshooting:
 
 * The first thing to try is to check your spam folder.&#x20;
-* If there is still no invite email, follow the instructions above to resend. ****&#x20;
+* If there is still no invite email, follow the instructions above to resend. &#x20;
 * **Make sure you clicked 'Save' at the bottom of the Add Admin page.**
 * [Email](https://opencollective.com/contact)&#x20;
 {% endhint %}

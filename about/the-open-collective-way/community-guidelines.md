@@ -18,14 +18,14 @@ We recommend reading this whole document, but here is a brief overview.
 
 The Open Collective community strives to live [our values](community-guidelines.md#docs-internal-guid-0863550b-7fff-2761-8190-f7326b1ade2f):
 
-* ****[**Impact**](community-guidelines.md#docs-internal-guid-cef7da6b-7fff-611d-6cb6-55ea0a6b7559)**:** we are not a neutral platform
-* ****[**Collectivity**](community-guidelines.md#collectivity)**:** we are building collective power
-* ****[**Inclusivity**](community-guidelines.md#inclusivity)**:** we are here for many different kinds of people
-* ****[**Honesty**](community-guidelines.md#honesty)**:** we act with integrity
-* ****[**Transparency**](community-guidelines.md#transparency)**:** we are authentically and accessibly open
-* ****[**Privacy**](community-guidelines.md#privacy)**:** we respect individual privacy
-* ****[**Dignity**](community-guidelines.md#dignity)**:** we treat others with respect
-* ****[**Sustainability and resilience**](community-guidelines.md#sustainability-and-resilience)**:** we are here for the long haul
+* [**Impact**](community-guidelines.md#docs-internal-guid-cef7da6b-7fff-611d-6cb6-55ea0a6b7559)**:** we are not a neutral platform
+* [**Collectivity**](community-guidelines.md#collectivity)**:** we are building collective power
+* [**Inclusivity**](community-guidelines.md#inclusivity)**:** we are here for many different kinds of people
+* [**Honesty**](community-guidelines.md#honesty)**:** we act with integrity
+* [**Transparency**](community-guidelines.md#transparency)**:** we are authentically and accessibly open
+* [**Privacy**](community-guidelines.md#privacy)**:** we respect individual privacy
+* [**Dignity**](community-guidelines.md#dignity)**:** we treat others with respect
+* [**Sustainability and resilience**](community-guidelines.md#sustainability-and-resilience)**:** we are here for the long haul
 
 Open Collective **does not tolerate** [hate and discrimination](community-guidelines.md#hate-and-discrimination), [bullying and harassment](community-guidelines.md#docs-internal-guid-21306fd1-7fff-7d1c-bbc8-b2e8c9535856), [misinformation and disinformation](community-guidelines.md#docs-internal-guid-aec484a0-7fff-5cff-0bda-2dab04342d64), or [disrupting the experience of others](community-guidelines.md#disrupting-the-experience-of-others).
 

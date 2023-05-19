@@ -238,7 +238,7 @@ You'll be able to set a longer description from your profile page. Scroll down t
 
 ![](<../.gitbook/assets/image (16) (1).png>)
 
-****
+
 
 
 

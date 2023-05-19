@@ -102,7 +102,7 @@ You can set an expense to automatically recur on a periodic basis in the _**Expe
 
 ![](<../../.gitbook/assets/expenses\_submittingexpenses\_recurringexpenses\_2022-08-15 (1).png>)
 
-Selected the desired _**Frequency**_ and (optionally) an _**End Date.** _&#x20;
+Selected the desired _**Frequency**_ and (optionally) an _**End Date.**_&#x20;
 
 After the period of time selected has passed a new, draft expense will be created and the author is notified to review, complete and submit the expense.
 

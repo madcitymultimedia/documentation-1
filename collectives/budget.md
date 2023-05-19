@@ -2,7 +2,7 @@
 
 Collectives have transparent budgets, where all transactions are automatically reported. Everyone can see where the money comes from and what it's spent on.
 
-We have two budget views. Our [Simple budget](budget.md#simple-budget) view shows **** overall monetary figures and a list of expenses and contributions.&#x20;
+We have two budget views. Our [Simple budget](budget.md#simple-budget) view shows overall monetary figures and a list of expenses and contributions.&#x20;
 
 Our [new budget visualisation](budget.md#undefined) pulls information from your expenses and contributions and showcases them with varying graphs.&#x20;
 

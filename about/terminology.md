@@ -72,7 +72,7 @@ An Independent Collective holds money for itself in its own bank account (Instea
 
 Learn more about Independent Collectives [here](broken-reference).&#x20;
 
-****
+
 
 ## User actions & relationships
 

@@ -25,11 +25,11 @@ If you are an open-source project with at least 100 stars on GitHub (or equivale
 To see your Fiscal Host options, go to your Collective Page, click on the settings button and head to the **Fiscal Host** page.
 
 * **No one:** No bank account or Host connected, not able to receive and spend money.
-* **Ourselves:** Use your personal or company bank account to hold funds for a single Collective.
-* **Our Organization:** Run your own Fiscal Host that holds money for multiple Collectives.
+* **Independent Collective:** Use your personal or company bank account to hold funds for a single Collective.
+* **Our Own Fiscal Host:** Run your own Fiscal Host that holds money for multiple Collectives.
 * **Apply to a Fiscal Host:** Join a Host that provides this service to Collectives like you.
 
-![](../.gitbook/assets/screen-shot-2021-04-14-at-6.33.13-pm.png)
+<figure><img src="../.gitbook/assets/Collectives_AddFiscalHost_Settings_2023-05-19.png" alt=""><figcaption></figcaption></figure>
 
 ## Applying to a fiscal host
 

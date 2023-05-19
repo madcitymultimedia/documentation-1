@@ -37,7 +37,7 @@ Use the cog icon next to the organization that you want to edit.
 
 
 
-From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**, **** manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
+From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**, manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
 
 Don't forget to **save your changes**!
 

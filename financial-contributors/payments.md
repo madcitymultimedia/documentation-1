@@ -155,4 +155,4 @@ _Screenshot to be added_
 
     If you don't verify your credit card, we will not be able to process your recurring payment. We will retry in the coming days, then after 6 attempts, your recurring contribution will be cancelled.
 * **Why does it fail when I try to verify my credit card?**\
-  ****Make sure you turn extensions such as ad blockers off and that your browser is up-to-date. Some errors can also originate from the bank verification services not working correctly. If everything else fails, feel free to [contact us](https://opencollective.com/contact).
+  Make sure you turn extensions such as ad blockers off and that your browser is up-to-date. Some errors can also originate from the bank verification services not working correctly. If everything else fails, feel free to [contact us](https://opencollective.com/contact).

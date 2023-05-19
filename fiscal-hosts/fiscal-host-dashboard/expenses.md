@@ -46,7 +46,7 @@ Custom Date selection&#x20;
 
 #### Status&#x20;
 
-* **Pending:** **** Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
+* **Pending:**  Expense was submitted to the collective. We're waiting for the collective admin to approve this expense.
 
 ![](<../../.gitbook/assets/fiscal host\_dashboard\_pending\_2022-05-24.png>)
 

@@ -70,7 +70,7 @@ To add a Fiscal Host,  click on the **Start accepting contributions** button on 
 
 ![A message on your Collective page prompting you to choose a Fiscal Host.](../.gitbook/assets/screen-shot-2020-08-28-at-10.38.52-am.png)
 
-****
+
 
 When asked who will hold your money, choose **Our organization.**
 

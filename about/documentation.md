@@ -8,7 +8,11 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 
 
-![ ](../.gitbook/assets/opencollectivefoundation.png)
+<div align="left">
+
+<img src="../.gitbook/assets/opencollectivefoundation.png" alt=" ">
+
+</div>
 
 [Open Collective Foundation](https://opencollective.com/foundation) - [Documentation](https://docs.opencollective.foundation/) - [Website ](https://opencollective.foundation/)
 
@@ -20,11 +24,19 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 [Open Collective Europe](https://opencollective.com/europe) - [Documentation](http://localhost:5000/o/-LWSZizNMEjL8\_DrMNdF/s/-Lm4naYlyngjgKnRsThx-887967055/)[ ](https://docs.opencollective.com/oceurope/)-[ ](https://docs.opencollective.com/brussels/)[Website](https://www.oceurope.org/)
 
-![](../.gitbook/assets/allforclimatelogo.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/allforclimatelogo.jpg" alt="">
+
+</div>
 
 [All for Climate](https://allforclimate.earth/) - [Documentation ](https://docs.allforclimate.earth/) - [Website](https://opencollective.com/allforclimate)
 
-![](../.gitbook/assets/thesocialchangeagency.png)
+<div align="left">
+
+<img src="../.gitbook/assets/thesocialchangeagency.png" alt="">
+
+</div>
 
 [The Social Change Agency](https://opencollective.com/the-social-change-nest) - [Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b\_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) - [Website](https://thesocialchangeagency.org/)
 

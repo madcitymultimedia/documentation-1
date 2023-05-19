@@ -29,8 +29,8 @@ description: A few ways to get in touch with the Open Collective Team
 
 <figure><img src="../.gitbook/assets/About_ContactUs_collectives_2023-03-13.png" alt=""><figcaption></figcaption></figure>
 
-* Contact [**Open Collective Foundation**](https://docs.opencollective.foundation/about/contact-us)****
-* Contact [**Open Source Collective**](https://docs.oscollective.org/about/contact)****
+* Contact [**Open Collective Foundation**](https://docs.opencollective.foundation/about/contact-us)
+* Contact [**Open Source Collective**](https://docs.oscollective.org/about/contact)
 * Contact [Open Collective Europe](https://docs.opencollective.com/oceurope/about-1/contact-us)
 
 ### Find Us Elsewhere

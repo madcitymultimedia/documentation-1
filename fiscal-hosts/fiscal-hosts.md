@@ -2,7 +2,7 @@
 
 ### What is a Fiscal Host?
 
-__[_View our illustrated guide about fiscal hosts_](https://opencollective.com/fiscal-hosting)__
+[_View our illustrated guide about fiscal hosts_](https://opencollective.com/fiscal-hosting)
 
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. In other contexts, this is sometimes called _fiscal sponsorship_.
 
