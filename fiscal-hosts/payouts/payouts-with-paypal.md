@@ -100,8 +100,10 @@ In order to reduce risks related to having an active API token that is able to c
 
 ## Adaptive Payments
 
-{% hint style="warning" %}
-PayPal adaptive is deprecated and will be removed soon. Please migrate to PayPal payouts if you're currently using it.
+{% hint style="danger" %}
+**PayPal deprecated Adaptive Payments for quite some time already,** maintaining this feature has proven to be a challenge and this is why we're also deprecating Adaptive Payments on our side.
+
+**Please migrate to PayPal Payouts** if you're currently using it as we can no longer guarantee the future operation of this feature.
 {% endhint %}
 
 Adaptive Payments are the easy way and it is automatically enabled for everyone.
@@ -114,7 +116,7 @@ For single payments larger than $2,000, make a manual payment
 
 ## Disconnect from Paypal&#x20;
 
-1. Click on the admin button on the top right hand side of your fiscal host page.&#x20;
+1. Click on the admin button on the top right-hand side of your fiscal host page.&#x20;
 
 <figure><img src="../../.gitbook/assets/fiscalhosts_payouts_paypal_disable_2022_09_19.png" alt=""><figcaption></figcaption></figure>
 
