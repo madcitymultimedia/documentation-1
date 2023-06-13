@@ -6,9 +6,14 @@ Setting up a Collective is free, but fees may apply to accept and pay out money.
 
 #### Current pricing terminology
 
-<table><thead><tr><th width="182.87016081000593">Term</th><th>Meaning</th><th>Note</th></tr></thead><tbody><tr><td><strong>Platform Tip</strong></td><td>Voluntary donation to Open Collective</td><td>Financial contributors see the tip option at checkout</td></tr><tr><td><strong>Host Fee</strong></td><td>Fee charged by Fiscal Hosts to Collectives for their hosting services</td><td>Varies depending on the Fiscal Host (commonly 0%-10%)</td></tr><tr><td><strong>Platform Share</strong></td><td>Host Fee revenue shared with Open Collective</td><td>15% of Host Fees charged by Fiscal Hosts goes to the platform</td></tr><tr><td><strong>Owed</strong></td><td>Platform Share and Platform Tip amounts due to be paid</td><td>Seen in Host reports and data exports</td></tr></tbody></table>
+| Term               | Meaning                                                               | Note                                                          |
+| ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Platform Tip**   | Voluntary donation to Open Collective                                 | Financial contributors see the tip option at checkout         |
+| **Host Fee**       | Fee charged by Fiscal Hosts to Collectives for their hosting services | Varies depending on the Fiscal Host (commonly 0%-10%)         |
+| **Platform Share** | Host Fee revenue shared with Open Collective                          | 15% of Host Fees charged by Fiscal Hosts goes to the platform |
+| **Owed**           | Platform Share and Platform Tip amounts due to be paid                | Seen in Host reports and data exports                         |
 
-_Want to see a detailed tour of_ [_how money flows on Open Collective_](https://blog.opencollective.com/how-money-flows/)_?_
+_Want to see a detailed tour of _[_how money flows on Open Collective_](https://blog.opencollective.com/how-money-flows/)_?_
 
 #### Previous pricing terminology
 
