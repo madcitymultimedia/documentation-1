@@ -71,6 +71,8 @@ If you log into your account, you can update the Billing information via your pr
 
 <figure><img src="../.gitbook/assets/financialcontributors_receipts_details_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/financialcontributors_receipts_info_2022-09-12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FinancialContributors_Receipts_Location_2023-06-13.png" alt=""><figcaption></figcaption></figure>
 
-The receipt is generated from this data so after saving the new information, regenerate the receipt and you should see the updated information. View instructions above on how to download a new receipt.&#x20;
+<figure><img src="../.gitbook/assets/FinancialContributors_Receipts_Address_2023-06-13.png" alt=""><figcaption></figcaption></figure>
+
+The receipt is generated from this data, so after saving the new information, regenerate the receipt and you should see the updated information. View the instructions above on how to download a new receipt.&#x20;
