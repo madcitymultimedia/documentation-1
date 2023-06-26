@@ -47,18 +47,6 @@ You can control tiers by accessing the **Tiers** section in your collectives Set
 
 You can define whether you can to allow flexible contributions or not by manipulating the **Enable flexible contributions** checkbox.
 
-### Enabling Crypto contributions
-
-Currently, only collectives hosted by Open Source Collective can enable payments with crypto.
-
-You can accept contributions using cryptocurrencies, start by enabling this feature.&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.27.28 (1).png" alt="Screenshot of Create Tier modal "><figcaption><p>Creating a new Tier</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-14 at 1.32.26 PM.png" alt=""><figcaption></figcaption></figure>
-
-Note that contributions are settled (converted) into your currency on collection. Read more about [contributing cryptocurrency](../../financial-contributors/crypto.md).
-
 ### Creating custom tiers
 
 You can also create custom tiers on the same page. Click on **add another tier:**
