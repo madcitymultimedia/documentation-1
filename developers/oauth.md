@@ -31,13 +31,7 @@ The web application flow to authorize users for your app is:
 
 #### **Parameters**
 
-| Name            | Type   | Description                                                                                                                                                                                                                                                                     |
-| --------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `client_id`     | string | **Required.** The client ID you copied after [creating your app](oauth.md#creating-an-oauth-app).                                                                                                                                                                               |
-| `response_type` | string | **Required.** Only supported value for now is `code`                                                                                                                                                                                                                            |
-| `redirect_uri`  | string | The URL in your application where users will be sent after authorization. If left out, Open Collective will redirect users to the callback URL configured in the OAuth Application settings. If provided, the redirect URL's host and port must exactly match the callback URL. |
-| `scope`         | string | A comma-separated list of scopes. If not provided, `scope` defaults to an empty list.                                                                                                                                                                                           |
-| `state`         | string | Use it to pass some state back to your application after redirecting and to protect against cross-site request forgery attacks (CSRF) by including an unguessable random string. See [scopes below](oauth.md#scopes-for-oauth-apps).                                            |
+<table><thead><tr><th width="150">Name</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>client_id</code></td><td>string</td><td><strong>Required.</strong> The client ID you copied after <a href="oauth.md#creating-an-oauth-app">creating your app</a>.</td></tr><tr><td><code>response_type</code></td><td>string</td><td><strong>Required.</strong> Only supported value for now is <code>code</code></td></tr><tr><td><code>redirect_uri</code></td><td>string</td><td>The URL in your application where users will be sent after authorization. If left out, Open Collective will redirect users to the callback URL configured in the OAuth Application settings. If provided, the redirect URL's host and port must exactly match the callback URL.</td></tr><tr><td><code>scope</code></td><td>string</td><td>A comma-separated list of scopes. If not provided, <code>scope</code> defaults to an empty list.</td></tr><tr><td><code>state</code></td><td>string</td><td>Use it to pass some state back to your application after redirecting and to protect against cross-site request forgery attacks (CSRF) by including an unguessable random string. See <a href="oauth.md#scopes-for-oauth-apps">scopes below</a>.</td></tr></tbody></table>
 
 ### 2. Users are redirected back to your site
 
@@ -49,13 +43,7 @@ Otherwise, you can exchange the `code` you received as a parameter for an access
 
 #### Parameters
 
-| Parameter       | Type   | Description                                                                                                                              |
-| --------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `grant_type`    | string | **Required.** The only supported value for now is `authorization_code`                                                                   |
-| `client_id`     | string | **Required.** The client ID of your OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                     |
-| `client_secret` | string | **Required.** The client secret of you OAuth application (from [Creating an OAuth App](oauth.md#creating-an-oauth-app))                  |
-| `code`          | string | **Required.** The code you received as a response to [Step 1](oauth.md#1.-request-a-users-open-collective-identity), after the redirect) |
-| `redirect_uri`  | string | **Required.** The URL in your application where users are sent after authorization.                                                      |
+<table><thead><tr><th width="150">Parameter</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>grant_type</code></td><td>string</td><td><strong>Required.</strong> The only supported value for now is <code>authorization_code</code></td></tr><tr><td><code>client_id</code></td><td>string</td><td><strong>Required.</strong> The client ID of your OAuth application (from <a href="oauth.md#creating-an-oauth-app">Creating an OAuth App</a>)</td></tr><tr><td><code>client_secret</code></td><td>string</td><td><strong>Required.</strong> The client secret of you OAuth application (from <a href="oauth.md#creating-an-oauth-app">Creating an OAuth App</a>)</td></tr><tr><td><code>code</code></td><td>string</td><td><strong>Required.</strong> The code you received as a response to <a href="oauth.md#1.-request-a-users-open-collective-identity">Step 1</a>, after the redirect)</td></tr><tr><td><code>redirect_uri</code></td><td>string</td><td><strong>Required.</strong> The URL in your application where users are sent after authorization.</td></tr></tbody></table>
 
 #### Response
 

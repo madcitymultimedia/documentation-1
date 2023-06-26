@@ -111,7 +111,15 @@ You can create a standalone page for the tier to send as a direct link to potent
 
 You can access it from your Collective page by clicking on **Read more.**&#x20;
 
-To add more Tiers, click the blue "add another tier" button.
+### **Edit and delete a tier**
+
+To edit a tier, click on the 'Edit Tier' Button.&#x20;
+
+<figure><img src="../../.gitbook/assets/collectives_goals&#x26;tiers_edit_2023-06-26.png" alt=""><figcaption></figcaption></figure>
+
+To delete a tier, click the delete button in the bottom left-hand corner
+
+<figure><img src="../../.gitbook/assets/collectives_goals&#x26;tiers_delete_2023-06-26.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Don't forget to **save** your changes.
