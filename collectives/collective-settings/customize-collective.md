@@ -8,31 +8,31 @@ To access all settings for your Collective, click the settings button shown in t
 
 ### Info&#x20;
 
-<figure><img src="../../.gitbook/assets/Collectives_settings_customise_2022_10_06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/collectives_customize_info_2023-06-27.png" alt=""><figcaption></figcaption></figure>
 
 The info section of the Collective settings enables you to add and change basic information about your page.&#x20;
 
 **Display name** - Display names are public and used wherever this profile appears publicly, like contributions, comments on updates, public info on expenses, etc.&#x20;
 
-**Short description** - This description appears at the top of your collective page.&#x20;
+**Legal Name (optional)** - Legal names are private and used in receipts, tax forms, payment details on expenses and other non-profit contexts. Legal names are only visible to admins.&#x20;
+
+**Short description** - This description appears at the top of your collective page. Example 'Test Test Test Collective'
 
 <figure><img src="../../.gitbook/assets/collective_settings_customise_description_2022_10_06.png" alt=""><figcaption></figcaption></figure>
 
-**URL slug** - the unique identifier that directs to your collectives page on Open Collective 'www.opencollective.com/yourcollectiveslug'&#x20;
+**Handle** - the unique identifier that directs to your collectives page on Open Collective 'www.opencollective.com/yourcollectiveslug'&#x20;
 
-**Twitter** - Link to your Twitter Account&#x20;
-
-**Code repository** - Link to your Github Account&#x20;
-
-**Website** - Link to your website
-
-**Address** - Your Collectives address
-
-**Country** - Your Collectives Country&#x20;
+**Location -**&#x20;
 
 **Currency** - Your preferred currency&#x20;
 
 **Tags** - Identifiers utilised by search to find your collective&#x20;
+
+**Social Links** - Link to your website, Git repository and social media
+
+<figure><img src="../../.gitbook/assets/collectives_customize_sociallinks_2023-06-27.png" alt=""><figcaption></figcaption></figure>
+
+Available links include: Discord, Discource, Facebook, Ghost, Git Repository, Github, GitLab, Instagram, Linkedin, Mastodon, Mattermost, Meetup, Peertube, Pixelfed, Slack, Tiktok, Tumblr, Twitter, Website, Youtube
 
 ## Profile Page
 
