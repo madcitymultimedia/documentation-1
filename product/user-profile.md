@@ -40,11 +40,9 @@ You can either choose any of the preset colors, add your own custom color or res
 
 To modify other profile information, click on the gear icon next to your profile image.
 
-![](../.gitbook/assets/product\_userprofile\_settings\_2022-08-3.png)
+<figure><img src="../.gitbook/assets/product_userprofile_settings_2023-06-4.png" alt=""><figcaption></figcaption></figure>
 
-Here you are able to edit basic info such as **Name**, **Legal Name,** **Company**, **Short description** and **URL slug.** Link out to your **Twitter**, **Github Code repository** and **website**. Add your **Address**, **Country**, **Currency** and **Tags**.&#x20;
-
-
+Here you can edit basic info such as **Display** **Name**, **Legal Name,** **Company**, **Short description** and **Handle.** Add your **Currency** and **Tags, Social Links** and your **Location**.&#x20;
 
 Access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Gift Cards**, **Webhooks, Authorised Apps, Two-factor authentication, For developers** and **Advanced**.
 
@@ -52,14 +50,14 @@ Access other settings such as **Profile Page**, **Payment Methods**, **Payment R
 
 ### Changing your email address
 
-Go to **Advanced** and specify your new email address in the box under the **Email address** section. You'll get a confirmation and then your new email will be active.
+Go to **Advanced** and specify your new email address in the box under the **Email address** section. You'll get a confirmation, and then your new email will be active.
 
 ![](<../.gitbook/assets/product\_user-profile\_new-email\_2019-11-15 (1).gif>)
 
 ### Deleting your account
 
 {% hint style="warning" %}
-You are only able to delete your account if it has no activity registered such as donations and expenses. Therefore, accounts with a history of transactions cannot be deleted —they are part of Collective budgets and their integrity and accuracy depend on those records. You may archive your account instead.
+You can only delete your account if it has no activity registered such as donations and expenses. Therefore, accounts with a history of transactions cannot be deleted —they are part of Collective budgets and their integrity and accuracy depend on those records. You may archive your account instead.
 {% endhint %}
 
 To delete your account, go to the **Delete this Account** section and click on **Delete this account**.

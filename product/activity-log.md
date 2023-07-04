@@ -8,7 +8,7 @@ You can access your Activity log via your Account Settings, Collective Settings 
 
 ![Step 4 screenshot](https://images.tango.us/workflows/98e4f91b-e41c-4f19-8ef7-77aa4b8b03a4/steps/19fea364-1ce1-4a53-abab-d43ec8035745/6bd4230c-417a-4f09-8cb0-c40776f954e7.png?crop=focalpoint\&fit=crop\&fp-x=0.1207\&fp-y=0.7552\&fp-z=2.1580\&w=1200\&mark-w=0.2\&mark-pad=0\&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n\&ar=2742%3A1536)
 
-***
+
 
 <figure><img src="../.gitbook/assets/product_activitylog_2022-12-08.png" alt=""><figcaption></figcaption></figure>
 
