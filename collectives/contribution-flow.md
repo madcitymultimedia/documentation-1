@@ -8,7 +8,7 @@ Replace 'webpack' with your collective slug to generate your own.
 
 The contribution flow supports many URL parameters to pre-fill the contribution.
 
-Example: [https://opencollective.com/webpack/donate?amount=66.66\&platformContribution=3.34\&interval=month\&skipStepDetails=true](https://opencollective.com/webpack/donate/profile?amount=66.66\&interval=month).
+Example: https://opencollective.com/webpack/donate?amount=66.66\&platformContribution=3.34\&interval=month\&skipStepDetails=true.
 
 This link will bring you directly to the profile step of the contribution flow for webpack, with a monthly contribution of $66.66.
 
