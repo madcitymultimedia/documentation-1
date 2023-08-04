@@ -32,7 +32,7 @@ Once you have set the level and frequency of your contribution, you can edit you
 
 
 
-<figure><img src="../.gitbook/assets/financialcontributor_platformtips_2023-08-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/financialcontributor_platformtips_2023-08-04.png" alt="" width="549"><figcaption></figcaption></figure>
 
 There are four ways to set your platform tip total:
 
