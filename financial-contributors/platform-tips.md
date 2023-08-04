@@ -30,6 +30,10 @@ You will now be taken to the “contribute to…” page.
 
 Once you have set the level and frequency of your contribution, you can edit your platform tip by adjusting the box below.
 
+
+
+<figure><img src="../.gitbook/assets/financialcontributor_platformtips_2023-08-04.png" alt=""><figcaption></figcaption></figure>
+
 There are four ways to set your platform tip total:
 
 * Keep the platform tip at the default amount&#x20;

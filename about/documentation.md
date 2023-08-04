@@ -22,7 +22,7 @@ If you are looking for more specific Fiscal Host Documentation, please head alon
 
 <figure><img src="../.gitbook/assets/No-Background copy.png" alt=""><figcaption></figcaption></figure>
 
-[Open Collective Europe](https://opencollective.com/europe) - [Documentation](http://localhost:5000/o/-LWSZizNMEjL8\_DrMNdF/s/-Lm4naYlyngjgKnRsThx-887967055/)[ ](https://docs.opencollective.com/oceurope/)-[ ](https://docs.opencollective.com/brussels/)[Website](https://www.oceurope.org/)
+[Open Collective Europe](https://opencollective.com/europe) - [Documentation](http://127.0.0.1:5000/o/-LWSZizNMEjL8\_DrMNdF/s/-Lm4naYlyngjgKnRsThx-887967055/)[ ](https://docs.opencollective.com/oceurope/)-[ ](https://docs.opencollective.com/brussels/)[Website](https://www.oceurope.org/)
 
 <div align="left">
 
