@@ -70,6 +70,7 @@
 * [Financial Contributors FAQ](financial-contributors/financial-contributors.md)
 * [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
+* [Platform Tips](financial-contributors/platform-tips.md)
 * [Crypto Contributions](financial-contributors/crypto.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Receipts](financial-contributors/receipts.md)
