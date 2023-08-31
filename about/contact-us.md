@@ -11,7 +11,7 @@ description: A few ways to get in touch with the Open Collective Team
 
 ### In Slack
 
-* [Join our Slack](https://opencollective.slack.com/ssb/redirect) to reach the OC Team and the wider community
+* Join [our Slack](https://slack.opencollective.com) to reach the OC Team and the wider community
 * Feel free to introduce yourself or post content related to Open Collective in [#general](https://opencollective.slack.com/archives/C0HSLRNVC). We encourage you to mention your collective or fiscal host in your profile so that other members can easily connect with you.
 * Fiscal Host Specific Channels - If you’re hosted by one of our larger fiscal hosts, you can join a dedicated channel to ask questions and share information:
   * [#opensource](https://opencollective.slack.com/archives/C0RD4S62E) - Open Source Collective
