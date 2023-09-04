@@ -39,3 +39,9 @@ Internal memos are used to indicate, to yourself and other administrators, anyth
 * A check number or bank transaction identifier
 * A grant application and associated award
 
+The emmo will appear to any administrator under 'view details on the transaction list:\
+\
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-04 at 16.38.35.png" alt=""><figcaption><p>Viewing an added funds contribution with a memo</p></figcaption></figure>
+
