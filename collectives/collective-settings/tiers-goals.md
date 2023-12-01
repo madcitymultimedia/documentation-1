@@ -39,13 +39,11 @@ Tiers can be used to provide perks and rewards to supporters, set membership fee
 \
 You can control tiers by accessing the **Tiers** section in your collectives Settings:
 
-![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-tiers-settings\_2020-08-12.png)
+<figure><img src="../../.gitbook/assets/tiers-goals_tiers1.png" alt="Screenshot of Tiers Settings page"><figcaption><p>Access tiers from your Collective's settings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-01 at 10.23.36.png" alt="Screenshot of Tiers Settings page"><figcaption><p>Access tiers from your Collective's settings</p></figcaption></figure>
+### Enabling default contribution tier
 
-### Enabling flexible contributions
-
-You can define whether you can to allow flexible contributions or not by manipulating the **Enable flexible contributions** checkbox.
+You can enable or disable the default contribution tier with the **Enable default contribution tier** checkbox. The default contribution tier doesn't enforce any minimum amount or interval, but it cannot be customized.
 
 ### Creating custom tiers
 
