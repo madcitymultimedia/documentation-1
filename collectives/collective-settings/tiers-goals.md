@@ -27,9 +27,10 @@ You can choose between three different visual options.&#x20;
 To create a goal, give it a **title**, select a **type:**
 
 * **Balance** goals are based on your current balance.
-* Yearly budget goals are based on your estimated annual budge &#x20;
+* Yearly budget goals are based on your estimated annual budget
+* Monthly budget goals are based on your estimated average monthly budget
 
-it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
+Set it as either a **balance** or **yearly budget** goal, specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
 ![](../../.gitbook/assets/collectives\_collective-goals-and-tiers\_collective-goal-customization\_2020-08-12.png)
 
