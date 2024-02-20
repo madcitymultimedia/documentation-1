@@ -36,4 +36,4 @@ Donation amounts will be denominated in the currency of the Collective's [Fiscal
 * Uruguayan Peso - UYU
 * South African Rand - ZAR
 
-**The currency a Fiscal Host supports is determined by the currency used by their Stripe account. If you'd like to chance the currency on your OC Fiscal Host, please check the primary currency of the Stripe account and change it there.** If this doesn't work or you're having issues, please [contact us](https://opencollective.com/contact).
+**The currency a Fiscal Host supports is determined by the currency used by their Stripe account. If you'd like to change the currency on your OC Fiscal Host, please check the primary currency of the Stripe account and change it there.** If this doesn't work or you're having issues, please [contact us](https://opencollective.com/contact).
