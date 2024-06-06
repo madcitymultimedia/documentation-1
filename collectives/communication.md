@@ -1,24 +1,27 @@
 # Updates & Comms
 
-## Updates to Backers
+A lot of Collectives like to periodically update their Financial Contributors, to let them know what their donations are enabling, express thanks, or notify everyone of a change.&#x20;
 
-A lot of Collectives like to periodically email their Backers, to let them know what their donations are enabling, express thanks, or notify everyone of a change.
+Similarly, hosts often need to contact the administrators of the Collectives they are hosting.
 
-To create an Update, go to your Collective page and click "Create an Update".
+To create an Update, go to your Dashboard, navigate to the **Updates** section and click on **Create Update**. Updates will appear in the Connect section of your public Collective page and you have the option to also notify your collective admins and/or contributors via email.&#x20;
 
-![](../.gitbook/assets/screen-shot-2019-05-31-at-12.23.38-pm.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-29 at 4.08.44 PM.png" alt=""><figcaption></figcaption></figure>
 
-You can also send Updates via email using **backers@$collective.opencollective.com**
+We offer a rich editor to write your updates! Each update requires a Title and content for the Message. You can also write and publish exclusive updates for your Contributors by changing the **Update Type** to  **Restricted**.
 
-_$collective = the slug of your Collective, which appears in your Collective URL_
 
-Updates will be emailed and appear in the Updates section of your Collective page.
 
-![](../.gitbook/assets/screen-shot-2019-02-05-at-6.02.51-pm.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-29 at 4.13.44 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Uploading Images
+
+![Uploading Images ](<../.gitbook/assets/Screen Shot 2022-07-07 at 2.32.24 PM.png>)
+
+Click the above image in the rich text editor. Selecting the desired image will insert it into your update. Image formats are compatible: jpg, png etc.&#x20;
 
 ## Contacting a Collective
 
-To receive communication via your Collective, senders can email **info@$collective.opencollective.com** to reach the Core Contributors.
+Users can contact you via the contact form of your collective. It is linked in your collective page through the `Contact` button. The forms stands on `/{your-collective}/contact`. If you don't want to use this feature, please contact us and we'll disable it for you.
 
-We recommend you share this address, or another email address you prefer, in your Collective description, so people know how to reach you.
-
+![](<../.gitbook/assets/image (126).png>)

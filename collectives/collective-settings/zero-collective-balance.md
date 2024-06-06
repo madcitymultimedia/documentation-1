@@ -1,0 +1,31 @@
+# Zero Collective Balance
+
+{% hint style="danger" %}
+With the implementation of the new [Dashboard interface](https://docs.opencollective.com/help/product/understanding-your-dashboard), we are currently in the process of updating our documentation and some pages may be out of date. Thank you for your patience. Please [contact](https://opencollective.com/contact) our support team if you need any assistance.
+{% endhint %}
+
+Before [changing hosts](../add-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
+
+You can move money out of your Collective in several ways:
+
+* [Submitting expenses](../../expenses-and-getting-paid/submitting-expenses/) to withdraw funds.
+* [Donating to another Collective](../../financial-contributors/collective-to-collective.md) in the same fiscal host.
+* Giving the remaining balance to your Fiscal Host. You can access that option by visiting your Collective's page, clicking on the gear icon next to your logo, and heading to the **Advanced** page.
+
+![](../../.gitbook/assets/collectives\_empty-balance.png)
+
+## Leftover Balance
+
+#### Let the Payee cover the fees
+
+When emptying the balance for a collective, you have the option of charging the payment processor fees on the payee which will guarantee that 100% of the collective's balance will go out. This option is only available for bank transfers for hosts that support Transferwise at the moment.
+
+When these conditions are met, the host admins will see a checkbox on the _Pay expense modal_:
+
+![](<../../.gitbook/assets/image (56).png>)
+
+#### Dealing with small leftovers
+
+When it's not possible to use the feature previously described, you may sometimes end up with a small amount left behind if you try to withdraw 100% of your balance. This is usually caused by fees being hard to predict exactly.
+
+If this happens, go to your Collective's page, click on the gear icon next to your logo, head to **Advanced** and use the **Empty Balance** button to transfer the remaining funds to your Fiscal Host.

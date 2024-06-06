@@ -4,13 +4,13 @@ description: Direct donations are not the only way a Collective can receive reve
 
 # Funding Options
 
-We encourage Collectives to get creative about funding channels beyond the standard reward tiers. Get inspired by these ideas, and come up with your own! The Open Collective platform is flexible enough to accomodate all kinds of creative approaches.
+We encourage Collectives to get creative about funding channels beyond the standard reward tiers. Get inspired by these ideas, and come up with your own! The Open Collective platform is flexible enough to accommodate all kinds of creative approaches.
 
-Check with your [fiscal host](../hosts/) to see if these options are available to you.
+Check with your [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) to see if these options are available to you.
 
 ## Ethical Advertising
 
-Speaking to niche audiences, like developers, in their own environment is one way OSS can leverage the tangible value it provides companies. Examples include CodeFund, Carbon Ads or referral fee solutions like Triplebyte.
+Speaking to niche audiences, like developers, in their own environment is one way OSS can leverage the tangible value it provides companies. Examples include [EthicalAds](https://www.ethicalads.io/), [Carbon Ads](https://www.carbonads.net/) or referral fee solutions like [Triplebyte](https://triplebyte.com/).
 
 We [wrote a blog post](https://medium.com/open-collective/using-ads-to-sustain-open-source-d048b75d4979) about this if you want to know more.
 
@@ -18,9 +18,9 @@ We [wrote a blog post](https://medium.com/open-collective/using-ads-to-sustain-o
 
 Give something to your contributors for their donations—swag! Sell t-shirts or other items and put the funds in your Collective budget. Collectives have been using [threadless](https://webpack.threadless.com/mens/t-shirt/regular), [bonfire](https://www.bonfire.com), [teezily](https://www.teezily.com/stores/voltshop) and [cotton bureau](https://cottonbureau.com/products/parcel-t-shirt#/1402774/tee-men-standard-tee-vintage-navy-tri-blend-s).
 
-Usually, you can set up sales revenue to go directly to your fiscal host via Paypal or bank transfer. Then the host can credit the amount to your Collective. Different hosts have different policies, so reach out to them and confirm.
+Usually, you can set up sales revenue to go directly to your fiscal host via PayPal or bank transfer. Then the host can credit the amount to your Collective. Different hosts have different policies, so reach out to them and confirm.
 
-As this is a manual process, hosts generally prefer aggregating transactions and crediting less frequently \(such as once a month\). Get in touch with your fiscal host for details.
+As this is a manual process, hosts generally prefer aggregating transactions and crediting less frequently (such as once a month). Get in touch with your fiscal host for details.
 
 ## Affiliations
 
@@ -36,5 +36,4 @@ Your Sponsors can set up bounties for features they want. We [interviewed](https
 
 ## Voting Rights
 
-Webpack has been experimenting with [their voting system](https://webpack.js.org/vote). They give Sponsors special influence when voting on prioritization of their roadmap.
-
+Webpack has been experimenting with [their voting system](https://webpack.js.org/vote). They give Sponsors special influence when voting on the prioritization of their roadmap.
