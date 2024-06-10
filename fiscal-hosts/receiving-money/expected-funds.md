@@ -13,7 +13,7 @@ Expected funds can be found in your Fiscal Host Dashboard:
 
 When you become aware of expected funds (for example, when notified by a collective administrator), you can create a new expected fund. Navigate to your Fiscal Host Dashboard -> Expected Funds. In the Top right corner, click “Create pending”
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-29 at 6.50.48 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-10 at 11.34.21 AM.png" alt=""><figcaption></figcaption></figure>
 
 The form is divided into three sections:
 
@@ -76,6 +76,6 @@ The expected dates on expected funds are informational estimates. When the expec
 
 If you no longer expect an expended fund to be fulfilled, you can mark it as expired.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-29 at 7.23.17 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-10 at 11.45.25 AM.png" alt=""><figcaption></figcaption></figure>
 
 If for some reason, the funds for an expired expected fund do arrive, you will still be able to search for it and reconcile it.
