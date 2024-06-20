@@ -96,8 +96,8 @@ We recommend you learn more about our bounty program through the link below:
 
 ### Ask for Help
 
-If you are stuck or have a question, join our slack #engineering channel through the link below:
+If you are stuck or have a question, join our Discord #engineering channel through the link below:
 
-> [https://slack.opencollective.com/](https://slack.opencollective.com/)
+> [discord.opencollective.com](https://discord.opencollective.com)
 
 **We're trying our best to make our documentation better. We encourage you to give suggestions on how we can improve it.**
