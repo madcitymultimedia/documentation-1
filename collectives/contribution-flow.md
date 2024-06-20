@@ -42,10 +42,6 @@ This link will bring you directly to the profile step of the contribution flow f
 
 To integrate a "Contribute" option directly on your website
 
-{% hint style="warning" %}
-This feature is currently in a beta-test phase. If you face any issue or need assistance, you can send a message on [Slack](https://slack.opencollective.com) (#﻿embed-contribution-flow channel)
-{% endhint %}
-
 The embed contribution flow is a way to integrate Open Collective on your own website. Visitors will be able to contribute directly, by simply providing an email address.
 
 ![Embedded contribution on the website of an initiative](<../.gitbook/assets/image (39).png>)
