@@ -97,7 +97,7 @@ When setting up an OAuth App on Open Collective, requested scopes are displayed 
 
 ## About 2FA
 
-By default, OAuth apps are not allowed to use Two Factor Authentication (2FA) and thus cannot use protected queries and mutations (e.g. `payExpense`, `removeHost`, ...etc.) for accounts with 2FA setup. If your app needs these permissions, reach out to us on [Slack](https://slack.opencollective.com/) (in the `#api` channel) or [contact support](https://opencollective.com/contact), and we'll enable it manually.
+By default, OAuth apps are not allowed to use Two Factor Authentication (2FA) and thus cannot use protected queries and mutations (e.g. `payExpense`, `removeHost`, ...etc.) for accounts with 2FA setup. If your app needs these permissions, reach out to us on [Discord](https://discord.opencollective.com) (in the `#api` channel) or [contact support](https://opencollective.com/contact), and we'll enable it manually.
 
 Once allowed for 2FA, your app will show a special message for users connecting with 2FA to let them know that they're giving this special permission:
 
