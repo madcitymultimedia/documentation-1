@@ -9,7 +9,7 @@ description: A few ways to get in touch with the Open Collective Team
 * Browse our [Help Topics](https://opencollective.com/help) or Search these Docs (🔎 in the upper right corner)
 * [Contact us here](https://opencollective.com/contact): Please include links & screenshots!
 
-### In Slack
+### In Discord
 
 * Join our [Discord](https://discord.opencollective.com) to reach the OC Team and the wider community
 * Feel free to introduce yourself or post content related to Open Collective in [#general](https://opencollective.slack.com/archives/C0HSLRNVC). We encourage you to mention your collective or fiscal host in your profile so that other members can easily connect with you.
