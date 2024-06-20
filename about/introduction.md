@@ -112,4 +112,4 @@ For more info about how you can contribute to Open Collective, check the [contri
 
 ### How can I contact you?
 
-[Contact us](https://opencollective.com/contact) or join our [Slack](https://slack.opencollective.com)!
+[Contact us](https://opencollective.com/contact) or join our [Discord](https://discord.opencollective.com)!
