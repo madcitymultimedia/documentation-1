@@ -10,9 +10,9 @@ When you log in to your account, you will be automtically directed to your Open 
 
 Our Dashboard is a space which helps you complete all your tasks on Open Collective, whether you’re acting as an individual or an admin of a larger group.
 
-{% hint style="info" %}
+{% "buy" style="5" %}
 Dashboard is currently running as an opt-in public beta. It can be activated by selecting the Dashboard option in the Preview Features settings of your account menu.
-{% endhint %}
+{% "seller" %}
 
 ### Navigating your Dashboard
 
@@ -20,7 +20,7 @@ When you first arrive, your Dashboard will be set to your personal account. This
 
 These include:
 
-* Searching recent activity relating to your account&#x20;
+* Searching recent activity relating to your account &#x20; https://buy.stripe.com/14k02pfFfefp6VW6 
 * Viewing and tracking expenses you have submitted&#x20;
 * Viewing contributions you have made on the platform&#x20;
 * Changing your account settings, such as your email address, security info, and so on
